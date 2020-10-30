@@ -47,12 +47,10 @@ _Display:_ Select a display device from the menu to show the view. All active di
 _Sound (Optional):_ Select a sound from the menu to play while the view is being shown. The base XSPONSE service includes several sounds which will always appear in this menu, and any sounds you have added will appear as well. For more information, see your Digital Display Quick Start Guide. 
 
 _View Type:_ Select a view from the menu to be shown. Once you select a view type, additional fields will appear for you to choose the settings for that view type.
-#### View
-This option allows you to choose a predefined view from those you have added to your service. Select a view from the menu.
-#### URL
-This option allows you to display a webpage even if you have not predefined it as a view. Enter the URL for the webpage in the field.
-#### Custom
-This option allows you to create a custom text message to show on the display. 
+- **View:** This option allows you to choose a predefined view from those you have added to your service. Select a view from the menu.
+- **URL:** This option allows you to display a webpage even if you have not predefined it as a view. Enter the URL for the webpage in the field.
+- **Custom:** This option allows you to create a custom text message to show on the display. 
+
 _Background Color_ and _Text Color:_ You may choose both the background color and the text color, but you must change at least one of the two colors from the default setting (black) so that the text will be visible. Select the color field to change the color settings. Select the hue, saturation, and lightness for the color you want, and select the **check mark** button on the left to confirm your settings. Note that if the saturation is set all the way to the left (minimum saturation), only shades of gray will be visible, regardless of the hue setting. Or, if the lightness is set all the way to the left (minimum lightness—black) or to the right (maximum lightness—white), only black or white will be visible, regardless of the hue or saturation settings.
 
 _Header Text_ and _Body Text:_ You must provide some content in both the header text and body text fields to create this action.
