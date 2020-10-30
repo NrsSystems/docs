@@ -2,7 +2,7 @@
 
 Selecting the **VapeDetect** link in the navigation pane will take you to the VapeDetect management page. 
  
-The VapeDetect management page allows a user to [add](vapedetect-management.md#add-a-sensor), [adjust](vapedetect-management.md#change-a-sensor's-settings), [edit](vapedetect-management.md#edit-a-sensor's-information), or [delete](vapedetect-management.md#delete-a-sensor) a sensor device. The table shows the sensors by description (name), along with the version of code each device is running. 
+The VapeDetect management page allows a user to [add](vapedetect-management.md#add-a-sensor), [adjust](vapedetect-management.md#change-a-sensors-settings), [edit](vapedetect-management.md#edit-a-sensors-information), or [delete](vapedetect-management.md#delete-a-sensor) a sensor device. The table shows the sensors by description (name), along with the version of code each device is running. 
 
 When a sensor device starts, it checks the XSPONSE system to see whether it is associated with an account. If the sensor is not associated with an account, its LED indicator will be orange. Once the sensor is associated with your account, its LED indicator will turn white. See the Duct Mounted Sensor Installation Instructions for more information.
 
