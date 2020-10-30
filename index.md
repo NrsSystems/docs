@@ -1,8 +1,7 @@
 ![XSPONSE logo](XSPONSE_Logo.png)
 # Welcome to XSPONSE!
 
-(This is a placeholder for a short friendly welcoming paragraph!)
+Through these pages, you can learn about the XSPONSE service, how to set up and manage your account, how to manage your XSPONSE devices, and more.
 
-To learn about the XSPONSE service, see the [Service Guide](service-guide/index.md).
+(This is a temporary landing page to demonstrate basic functionality of the documentation.)
 
-To learn about your XSPONSE devices, see the [Operations Manuals](operations-manuals/index.md).
