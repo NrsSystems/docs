@@ -1,0 +1,9 @@
+# About Digital Displays
+Before you get started, it is important to understand how the system is designed. We have four main components: displays, views, playlists, and schedules. 
+- A _display_ is a physical piece of equipment that is used to show content programmed on our service—from instant alerts, such as emergency notices, to webpages, videos, and more. You must associate each display with your XSPONSE account before you can use it to show XSPONSE content. See the [Displays section](displays-management.md) for more information.
+- A _view_ is a specific item of content shown on a display. It can be a webpage, image, YouTube video, PDF, or XSPONSE apps such as a countdown timer. See the [Views section](views-management.md) for more information. 
+  Displays can also be set to play _sounds_ in connection with some content, such as the countdown timer. See the [Sounds section](sounds-management.md) for more information.
+- A _playlist_ is a collection of views that can be organized and automatically displayed in a specific order. A display duration can be set for some view items, such as static images and PDFs, while the scrolling rate can be set for webpages. See the [Playlists section](playlists-management.md) for more information.
+- A _schedule_ is the content programming for displays by day and time, repeating on a weekly basis. You can also create special one-time scheduled events that never repeat. See the [Schedules section](schedules-management.md) for more information.
+
+You manage your XSPONSE service through the XSPONSE website, which provides a dashboard through which you can access each of these components. The site features a consistent look and feel, with every page providing the same base functions, to make navigation easier. See the [XSPONSE Site Overview section](general-ops/site-overview.md) and the [Dashboard section](general-ops/dashboard.md) for more information.
