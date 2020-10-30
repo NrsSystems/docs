@@ -173,5 +173,5 @@ _Mute:_ Select this check box to mute the audio if desired.
 ## Edit a view
 To edit a view, select the **Edit** icon in the views table. This will open a separate page allowing you to edit the attributes of the view. Once changes are made, select **Submit** to accept the changes. Select **Cancel** to go back to the Views management page without saving any changes.
 
-##Delete a view
+## Delete a view
 To delete a view, select the **Delete** icon in the views table. This will open a separate page asking you to confirm view deletion. Select **Delete** to delete the view. Select **Cancel** to go back to the Views management page without deleting the view.
