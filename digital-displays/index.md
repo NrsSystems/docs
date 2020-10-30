@@ -1,6 +1,6 @@
 # Operations Manual: Digital Displays
 
-For general information about the XSPONSE service and website, see the Service Guide.
+For general information about the XSPONSE service and website, see the [Service Guide](general-ops/index.md).
 
 [About Digital Displays](about-digital-displays.md)
 
