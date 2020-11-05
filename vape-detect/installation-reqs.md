@@ -5,9 +5,9 @@ To set up your XSPONSE Duct Mounted Sensor, you will need to provide:
 -	A Power-over-Ethernet (POE) network switch.
 -	A Cat 5 (Ethernet) cable.
 
-The sensor device requires access to a DHCP server (to get an IP address) and direct access to the Internet. The DHCP service should be allowed to assign any IP address to the device; the device will not work if you have configured your DHCP service to assign the sensor a specific IP address based on the MAC address of the device. 
+The sensor device requires access to a DHCP server (to get an IP address) and direct access to the Internet. The DHCP server can be configured to give the device any IP address or a static one. 
 
-Please make sure your firewall is configured to allow access to *.xsponse.com and that it isn’t using any filters to block data to or from our device. Our service uses web APIs to communicate with the service so there is no need to open ports on your firewall.  
+Please make sure your firewall is configured to allow access to \*.xsponse.com and that it isn’t using any filters to block data to or from our device. Our service uses web APIs to communicate with the service so there is no need to open ports on your firewall.  
 
 You will also need to order the correct-size sampling tube assembly from us, as described in the next section, [Ordering the sampling tubes](installation-reqs.md#ordering-the-sampling-tubes). 
 
