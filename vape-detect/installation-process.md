@@ -7,31 +7,32 @@ The actual sensor must be installed as shipped. Please do not switch the locatio
 
 ## Physical installation process
 Once the location has been determined, use the included template (at the end of this document) to determine the location of the holes for the sampling tubes. The axis along the long side of the mounting plate should be in line with the airflow.
-(picture 1)
+![place template on duct](DMS_installation_ref1.jpg)
 
 Mark the location of the holes on the sheet metal and drill two 7/8” holes 4” apart, following the template.
-(picture 2)
+![drill holes in duct](DMS_installation_ref2.jpg)
 
 Use a small amount of the included gasket compound around each of the tubes to minimize any air leaks around the tubes.
 
 Insert the sampling and exhaust tubes through the holes you just drilled until the mounting plate is flush with the sheet metal surface. 
-(picture 3)
-Note
-The sampling tube (the longer tube) is always installed with the air inlet holes facing into the air flow. 
-The exhaust tube must be installed downstream of the sampling tube.
+![position mounting plate](DMS_installation_ref3.jpg)
+
+> **Note**
+> The sampling tube (the longer tube) is always installed with the air inlet holes facing into the air flow. The exhaust tube ***must*** be installed downstream of the sampling tube.
 
 Use the four supplied sheet metal screws to attach the mounting plate to the sheet metal ducting. 
-CAUTION: DO NOT OVERTIGHTEN THE SCREWS
-(picture 4)
+
+***CAUTION: DO NOT OVERTIGHTEN THE SCREWS***
+![attach mounting plate](DMS_installation_ref4.jpg)
 
 The sampling tube is painted flat black to blend in and make it more difficult to see in the duct work. To improve upon this, it is recommended that the inside of the metal box be painted flat black if needed. When it is done right, the sampling tube is virtually invisible.
-(picture 5)
+![external duct view](DMS_installation_ref5.jpg)
 
 ## Device startup
 Once the device is mounted to the ducting, it needs to be connected to a POE-enabled switch. The port must be configured to allow access to a DHCP server and to the Internet. Once it is connected to power, it will take about a minute to boot and stabilize. During this time, the LED will be yellow. 
 
-Note on LED update
-For devices with an older version of the code, the LED will blink green when the sensors start up. When the device establishes a connection to our service, the LED will go steady green. Once the device sees there is a new version of code, it will update itself and restart. When it restarts, the LED will behave as described. The update process might take a short while, but you will eventually see the LED change colors to indicate its state.
+> **Note on LED update**
+> For devices with an older version of the code, the LED will blink green when the sensors start up. When the device establishes a connection to our service, the LED will go steady green. Once the device sees there is a new version of code, it will update itself and restart. When it restarts, the LED will behave as described. The update process might take a short while, but you will eventually see the LED change colors to indicate its state.
 
 When the sensors have stabilized and the device is ready to connect to the service, the LED will turn orange or white. Orange indicates that the device has contacted our service but it is not associated with an account. Please go to our website and associate the device with your account.  White indicates that the device has established communications with our service and is sending data successfully.
 
