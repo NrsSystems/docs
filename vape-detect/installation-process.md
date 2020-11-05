@@ -35,4 +35,4 @@ For devices with an older version of the code, the LED will blink green when the
 
 When the sensors have stabilized and the device is ready to connect to the service, the LED will turn orange or white. Orange indicates that the device has contacted our service but it is not associated with an account. Please go to our website and associate the device with your account.  White indicates that the device has established communications with our service and is sending data successfully.
 
-See the 
+For more information about the LED indicators and troubleshooting device communication problems, see the [Service Communication section](sensor-device-communication.md).
