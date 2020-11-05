@@ -13,7 +13,7 @@ The device has nine sensors. Each sensor is checked one or more times every seco
 | Green | **Alert acknowledged.** The device detected an event or one of the pre-configured thresholds was exceeded and sent an alert to the service. The green LED indicates that the service received the message and responded back with an acknowledgment. If the LED turns red, that indicates that the service did not respond with an acknowledgment. |
 | Red | **Communication lost.** The device sends data to the service every 10 seconds or more often if the device is in burst mode. If the service does not respond back with an acknowledgement, the LED will turn red to indicate that the device cannot communicate with the service. |
 
-## Troubleshooting Communication
+## Troubleshooting communication
 If the LED on the device is red, this means the device attempted to send the data to the service and failed. It was unable to communicate with the service. (This is different than the device sending a message to the service and the service responding back with an error or an acknowledgment.) 
 
 If for any reason the device is unable to communicate with the service, the first step is to make sure the network is configured to allow the service access to the Internet. The device requires access to a DHCP server (to get an IP address) and direct access to the Internet. Please make sure your firewall is configured to allow access to *.xsponse.com and that it isn’t using any filters to block data to or from our device. Our service uses web APIs to communicate with the service so there is no need to open ports on your firewall. 
