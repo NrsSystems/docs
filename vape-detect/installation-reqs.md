@@ -9,9 +9,9 @@ The sensor device requires access to a DHCP server (to get an IP address) and di
 
 Please make sure your firewall is configured to allow access to *.xsponse.com and that it isn’t using any filters to block data to or from our device. Our service uses web APIs to communicate with the service so there is no need to open ports on your firewall.  
 
-You will also need to order the correct-size sampling tube assembly from us, as described in the next section, [Ordering the Sampling Tubes](installation-reqs.md#ordering-the-sampling-tubes). 
+You will also need to order the correct-size sampling tube assembly from us, as described in the next section, [Ordering the sampling tubes](installation-reqs.md#ordering-the-sampling-tubes). 
 
-## Tools Required
+## Tools required
 -	Level
 -	Pencil
 -	Tape measure
@@ -21,7 +21,7 @@ You will also need to order the correct-size sampling tube assembly from us, as 
 -	Battery-powered impact driver
 -	7/8” hole saw
 
-## Ordering the Sampling Tubes
+## Ordering the sampling tubes
 The duct mounted sensor is a passive sensing device which uses a sampling tube to draw air into the detector to be sampled and then exhausted back into the air stream. The sampling tube works because of the Bernoulli principle: the air flowing across the end of the exhaust tube creates an area of low pressure which creates a small vacuum in the exhaust tube. Since the sensor is a closed system, the vacuum in the exhaust tube will cause air to be pulled in through the sampling tube.
 
 Because of this process, the sampling tubes must be ordered to fit the ducting, as they need to reach a minimum 2/3 of the way across the duct to function. Our sampling tubes are designed to fit most of the way across the opening to maximize the usable area, while the exhaust tube is designed to be positioned in the middle of the duct to optimize the airflow across it. For example, for an exhaust vent box that is 12” wide, you would order our ST10 sampling tube assembly. In this case, the sampling tube will extend 10” across the duct to draw from the most flow, and the exhaust tube will be 6” long so its end will be in the middle of the duct to be most effective in pulling in air.
