@@ -1,6 +1,6 @@
 # Operations Manual: VapeDetect
 
-For general information about the XSPONSE service and website, see the [Service Guide](https://nrssystems.github.io/docs/general-ops/index.md).
+For general information about the XSPONSE service and website, see the [Service Guide](https://nrssystems.github.io/docs/general-ops/index.html).
 
 ## [About the VapeDetect system](about-vapedetect.md)
 
