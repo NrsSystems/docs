@@ -14,14 +14,6 @@ For general information about the XSPONSE service and website, see the [Service 
 - [Physical installation process](installation-process.md#physical-installation-process)
 - [Device startup](installation-process.md#device-startup)
 
-## [Service Communication](sensor-device-communication.md)
-- [LED color indicators](sensor-device-communication.md#led-color-indicators)
-- [Troubleshooting communication](sensor-device-communication.md#troubleshooting-communication)
-
-## [Sensor Device Setup](sensor-device-setup.md)
-
-## [Sensor Device Maintenance](sensor-device-maintenance.md)
-
 ## [VapeDetect Management](vapedetect-management.md)
 - [Add a sensor](vapedetect-management.md#add-a-sensor)
 - [Change a sensor's settings](vapedetect-management.md#change-a-sensors-settings)
@@ -46,3 +38,9 @@ For general information about the XSPONSE service and website, see the [Service 
 - [Add a contact](../general-ops/contacts-management.md#add-a-contact)
 - [Edit a contact](../general-ops/contacts-management.md#edit-a-contact)
 - [Delete a contact](../general-ops/contacts-management.md#delete-a-contact)
+
+## [Service Communication](sensor-device-communication.md)
+- [LED color indicators](sensor-device-communication.md#led-color-indicators)
+- [Troubleshooting communication](sensor-device-communication.md#troubleshooting-communication)
+
+## [Sensor Device Maintenance](sensor-device-maintenance.md)
