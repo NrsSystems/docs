@@ -1,5 +1,6 @@
 # Displays
 Selecting the **Displays** link and then the **Devices** link in the navigation pane will take you to the Displays management page. 
+> _screenshot of displays management page_
  
 The Displays management page allows a user to [link](displays-management.md#add-a-display), [edit](displays-management.md#edit-a-display), [reboot (restart)](displays-management.md#restart-a-display), or [remove (delete)](displays-management.md#delete-a-display) a display. The table shows the display names/descriptions, the version of code each is running, and when the service last received a signal from each display (“last seen”).
 When a display device starts, it checks the XSPONSE system to see whether it is associated with an account. If the display is not associated with an account, it will show a blue screen with the website address for activation (v2.nrsmercury.com) and an activation code. Entering that code into the Link a Display page accessed through the Displays management page (as described next) will associate the display with your account. Once the display is associated with your account, you can set it to show a specific view, run a playlist, or run a schedule. See the [Views section](views-management.md), [Playlists section](playlists-management.md), and [Schedules section](schedules-management.md) for more information.
