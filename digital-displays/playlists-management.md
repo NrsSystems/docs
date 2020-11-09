@@ -1,6 +1,7 @@
 # Playlists
 
 Selecting the **Displays** link and then the **Playlists** link in the navigation pane will take you to the Playlists management page. 
+> _screenshot of playlists management page_
  
 The Playlists management page allows a user to [create](playlists-management.md#add-a-playlist), [edit](playlists-management.md#edit-a-playlist), [copy](playlists-management.md#copy-a-playlist), or [delete](playlists-management.md#delete-a-playlist) a playlist. The table shows the playlists by description (name), along with the number of views used in the playlist.
 
