@@ -1,6 +1,7 @@
 # Schedules
 
 Selecting the **Displays** link and then the **Schedules** link in the navigation pane will take you to the Schedules management page. 
+> _screenshot of schedules management page_
  
 The Schedules management page allows a user to [create](schedules-management.md#add-a-schedule), [edit](schedules-management.md#edit-a-schedule), [copy](schedules-management.md#copy-a-schedule), or [delete](schedules-management.md#delete-a-schedule) a schedule. The table shows the schedules by description (name), along with the number of associated events.
 
@@ -24,6 +25,7 @@ To delete a schedule, select the **Delete** icon in the schedules table. This wi
 
 ## Special Events
 A special event is a one-time event when the content you select will be displayed instead of what is shown on the schedule. Special events will appear in the schedule but only during the week for which they are scheduled. Once the date for a special event has passed, the special event is deleted and can no longer be viewed or edited.
+> _screenshot of special events page_
  
 Note that when you create or edit a special event, once you have finished with the Special Events pane, you will also need to select **Submit** at the bottom of the schedule page to save your changes to the overall schedule.
 
