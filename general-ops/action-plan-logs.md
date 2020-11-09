@@ -1,6 +1,7 @@
 # Action Plan Logs
 
 Selecting the **View all** link in the Events Detected box in the dashboard or selecting the **Incident Logs** button on the Action Plans management page will take you to the Action Plan Logs page.
+> _screenshot of action plan logs page_
 
 Each time a VapeDetect sensor detects an event and triggers an action plan, the information is recorded in the incident logs. The Action Plan Logs management page allows you to view all recorded incidents from all your devices. The table shows the incidents by the device that was triggered, along with the time the event occurred, whether the action plan is active or not, and the type of incident. 
 
