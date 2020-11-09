@@ -1,6 +1,7 @@
 # Sounds
 
 Selecting the **Displays** link and then the **Sounds** link in the navigation pane will take you to the Sounds management page.
+> _screenshot of sounds management page_
  
 Certain functions allow you to play a sound on a display. For example, in the countdown timer, you can program the display to play specific sounds during the countdown. The Sounds management page allows a user to [add](sounds-management.md#add-a-sound), [edit](sounds-management.md#edit-a-sound), or [delete](sounds-management.md#delete-a-sound) the sounds available for the displays.
 
