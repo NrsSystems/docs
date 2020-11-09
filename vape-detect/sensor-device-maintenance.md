@@ -1,4 +1,4 @@
-# Periodic Maintenance
+# Sensor Device Maintenance
 
 The device should be cleaned at least once a year. To clean it, remove the sensor from the sampling and exhaust tubes by turning both lock nuts counterclockwise. Once they are loose, carefully pull the sensor device away from the tubes.
 
