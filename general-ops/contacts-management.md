@@ -1,6 +1,7 @@
 # Contacts
 
 Selecting the **Contacts** link in the navigation pane will take you to the Contacts management page.
+> _screenshot of contacts management page_
  
 The Contacts management page allows a user to [add](contacts-management.md#add-a-contact), [edit](contacts-management.md#edit-a-contact), or [delete](contacts-management.md#delete-a-contact) the contacts available as recipients for the action plans. The table shows the contacts by name, along with their email address and phone number.
 
