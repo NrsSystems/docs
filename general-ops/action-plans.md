@@ -1,7 +1,8 @@
 # Action Plans
 
 Selecting the **Action Plans** link in the navigation pane will take you to the Action Plans management page. 
- 
+> _screenshot of action plans page_
+
 The Action Plans management page allows a user to [add](action-plans.md#create-an-action-plan), [edit](action-plans.md#edit-an-action-plan), or [delete](action-plans.md#delete-an-action-plan) an action plan, and to view the incident logs. The table shows the action plans by description (name), along with whether the plan is an alert or an alarm, the number of actions set to happen when the action plan is triggered, and the number of actions set to happen when the action plan is cleared. See the [Action Plan Logs section](action-plan-logs.md) for more information about the incident logs.
 
 ## Create an action plan
