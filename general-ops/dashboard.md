@@ -1,6 +1,7 @@
 # Dashboard
 
 Selecting a company on the Account Manager page will take you to the company dashboard page, showing you a summary of that organization.
+> _screenshot of sample dashboard_
  
 The dashboard is the main management page for a company, providing access to all the features and devices available for that company. All pages in a company site offer a standard interface, as described in this section. 
 
@@ -12,6 +13,7 @@ The main pane shows the relevant content for the page you have selected in the n
 The events are produced as part of the action plans feature, which works in conjunction with certain XSPONSE devices that can be set to send an instant alert to the XSPONSE server under certain conditions. For example, an environmental sensor could be set to react when temperature, humidity, or particles in the air reach certain thresholds. A button in an industrial lab could be set when pressed to send emergency notice of a chemical spill. Or a vapor sensor in a school washroom could send an alert when vaping is detected. In each case, the instant alert feature can trigger an action plan to perform various functions, such as sending email or text messages to the appropriate authorities and showing emergency notifications on displays. This part of the dashboard’s main pane will only show content if you have the relevant XSPONSE devices set up and associated with your account, and can be ignored otherwise.
 
 The dashboard (and each other management page) has a table showing the items managed on that page—users, sensor devices, action plans, and so on. For the dashboard, the table shows all the devices associated with that company listed by description (name), device type, and when the service last received a signal from the device (“last seen”). The table can be sorted by each of these columns by selecting the arrows next to the column heading. You can search the table by typing in the search box; it will update in real time to show the entries relevant to what you type. You can select how many entries you want to see on the page from the **Show _[X]_ entries** menu at the upper left. If there are more entries in the table than your selection, you can scroll through the pages by selecting the **Previous** and **Next** buttons at the lower right of the page. The “Manage” column shows the icons for managing the various items in a table: a blue pencil for _Edit_, a yellow power symbol for _Restart_, a yellow document stack for _Copy_, a green gear for _Adjust_, and a red trash can for _Delete_. Only the relevant icons are included for an item—for example, the Restart icon only appears for displays.
+> _screenshot of the various icons? or table with the icons and terms?_
 
 ## View or change the company account information
 
