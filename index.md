@@ -5,11 +5,11 @@ Through these pages, you can learn about the XSPONSE service, how to set up and 
 
 (This is a temporary landing page to demonstrate basic functionality of the documentation.)
 
-| Resellers | Company Admins | Company Users |
-| --- | --- | --- |
-| [Manage your customer accounts](general-ops/account-manager.md) | [Manage your company account](general-ops/dashboard.md#view-or-change-the-comapny-account-information) | [View and manage alerts](general-ops/dashboard.md) |
-| [Manage users for your customers](general-ops/users-management.md) | [Manage users for your company](general-ops/users-management.md) | [Manage your Digital Displays](digital-displays/about-digital-displays.md) |
-| [Set up your account](general-ops/account-setup.md) | [Assign people to respond to alerts](general-ops/contacts-management.md) | [Manage your VapeDetect sensors](vape-detect/about-vapedetect) |
+| Company Admins | Company Users |
+| --- | --- |
+| [Manage your company account](general-ops/dashboard.md#view-or-change-the-comapny-account-information) | [View and manage alerts](general-ops/dashboard.md) |
+| [Manage users for your company](general-ops/users-management.md) | [Manage your Digital Displays](digital-displays/about-digital-displays.md) |
+| [Assign people to respond to alerts](general-ops/contacts-management.md) | [Manage your VapeDetect sensors](vape-detect/about-vapedetect) |
 
 ## XSPONSE Service
 - [Learn about the service](general-ops/site-overview.md)
