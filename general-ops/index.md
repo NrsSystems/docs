@@ -19,7 +19,7 @@ This section of the support documentation provides general information about the
 - [Edit a user](users-management.md#edit-a-user)
 - [Delete a user](users-management.md#delete-a-user)
 
-## [Action Plans](general-ops/action-plans.md)
+## [Action Plans](action-plans.md)
 - [Create an action plan](action-plans.md#create-an-action-plan)
   - [Send email](action-plans.md#send-email)
   - [Send SMS](action-plans.md#send-sms)
