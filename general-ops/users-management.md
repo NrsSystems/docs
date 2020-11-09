@@ -1,7 +1,8 @@
 # Users
 
 Selecting the **Users** link in the navigation pane will take you to the Users management page. Only a user with the account administrator role—by default, your company administrator—can access the Users management page. 
- 
+> _screenshot of users management page_
+
 The Users management page allows an administrator to [add](users-management.md#add-a-user), [edit](users-management.md#edit-a-user), or [delete](users-management.md#delete-a-user) a user. The main user pane shows the table of users, listing each account by name, whether the account has administrator rights, and whether each is active or inactive. Next to each name is a blue plus (**+**) icon; select this icon to reveal the management options for that account. When expanded, the icon changes to a red minus (**-**) icon; selecting this icon again will hide the management options.
 
 The Admin column indicates whether or not the user has been granted the account administrator role—a green checkmark indicates the account is an administrator, a red X indicates the account is a regular non-admin user. By default, new users do not have the administrator role. The company administrator can grant other users this role through this page, as described later in this section under [Edit a user](users-management.md#edit-a-user). 
