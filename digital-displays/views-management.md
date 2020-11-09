@@ -1,5 +1,6 @@
 # Views
 Selecting the **Displays** link and then the **Views** link in the navigation pane will take you to the Views management page. 
+> _screenshot of views management page_
  
 The Views management page allows a user to [add](views-management.md#add-a-view), [edit](views-management.md#edit-a-view), or [delete](views-management.md#delete-a-view) a view. A view is the content to be shown on a display—such as a website, image, PDF file, video file, or YouTube video. We also have several built-in apps such as a countdown timer and days since last accident poster. The table shows the views by description (name), and each view’s type (such as image or website).
 
