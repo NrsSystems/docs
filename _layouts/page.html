@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+    {% assign current_url = page.url | absolute_url %}
+    {%- include head.html -%}
+    <body>
+        <div class="container">
+            <img src="/XSPONSE_Logo.png" class="w-50">
+            <h1 class="mt-5">{{ page.title }}</h1>
+            <div class="row">
+                <div class="col-12">
+                    {{ page.abstract }}
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12 font-italic">
+                    Last Updated: {{ page.last-updated }}
+                </div>
+            </div>
+            <div class="row mt-5">
+                <div class="col-4 nav-container">
+                    <div class="border border-secondary p-3">
+                        {% assign nav_file = site.data.navigation[page.nav] %}
+                        {% include nav.html nav=nav_file %}
+                    </div>
+                </div>
+                <div class="col-8">
+                    {{ content }}
+                </div>
+            </div>
+            {% include footer.html %}
+        </div>
+    </body>
+</html>

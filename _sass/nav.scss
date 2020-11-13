@@ -1,0 +1,9 @@
+.nav-container > div {
+    list-style-type: none;
+    * a {
+        color: black;
+    }
+    * a.active {
+        color: red;
+    }
+}

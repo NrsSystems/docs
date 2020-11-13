@@ -1,0 +1,18 @@
+---
+permalink: /404.html
+---
+
+<!DOCTYPE html>
+  {% assign current_url = page.url | absolute_url %}
+  {%- include head.html -%}
+  <body>
+    <div class="container">
+      {%- include header.html -%}
+      <h1>404</h1>
+
+      <p><strong>Page not found :(</strong></p>
+      <p>The requested page could not be found.</p>
+      {%- include footer.html -%}
+    </div>
+  </body>
+</html>
