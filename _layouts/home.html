@@ -4,9 +4,7 @@
     <body>
         <div class="container">
             {%- include header.html -%}
-            <h1 class="mt-5">Welcome to XSPONSE!</h1>
-            <h6>Through these pages, you can learn about the XSPONSE service, how to set up and manage
-                your account, how to manage your XSPONSE devices, and more.</h6>
+            {{ content }}
             <div class="row mt-4 justify-content-around">
                 {% for tile in site.tile_order %}
                     {% assign tile_file = site.data.home.tiles[tile] %}
