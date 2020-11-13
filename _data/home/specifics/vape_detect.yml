@@ -1,0 +1,14 @@
+title: VapeDetect
+links:
+  - name: Set up your sensors with the service
+    href: vape-detect/sensor-device-setup
+  - name: Manage your sensors
+    href: vape-detect/vapedetect-management
+  - name: Monitor alerts from the sensor
+    href: general-ops/action-plans-logs
+  - name: Create action plans for the sensor
+    href: general-ops/action-plans
+  - name: Assign people to respond to alerts
+    href: general-ops/contacts-management
+  - name: More...
+    href: vape-detect/index
