@@ -9,7 +9,7 @@
         </nav>
         <div id="mobile-nav" class="sidenav bg-white d-lg-none d-fixed nav-container">
             <div class="p-3">
-                <span><a href="{{ site.url }}">Home</a></span>
+                <span><a href="{{ "index" | relative_url }}">Home</a></span>
                 {% assign nav_file = site.data.navigation[page.nav] %}
                 {% include nav.html nav=nav_file %}
             </div>
