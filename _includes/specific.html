@@ -1,0 +1,22 @@
+<div class="row my-4">
+    <div class="col-12 col-lg-3">
+        <button class="btn btn-danger rounded-0 w-100 vc-parent">
+            <span class="vc-child w-100">
+                {{ include.specific.title }}
+            </span>
+        </button>
+    </div>
+    <div class="col-12 col-lg-9 mt-3 mt-lg-0">
+        <div class="row justify-content-around justify-content-lg-start">
+        {% for link in include.specific.links %}
+            <div class="col-12 col-md-5 col-lg-4 mb-2">
+                <a href="{{ link.href | relative_url}}" class="w-100">
+                    <button class="btn btn-outline-danger rounded-0 w-100 vc-parent p-3">
+                        <span class="vc-child w-100 p-2">{{ link.name }}</span>
+                    </button>
+                </a>
+            </div>
+        {% endfor %}
+        </div>
+    </div>
+</div>

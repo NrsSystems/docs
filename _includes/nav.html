@@ -1,0 +1,23 @@
+{% if include.id %}
+<ul id="{{ include.id }}" class="m-0">
+{% else %}
+<div>
+{% endif %}
+    {% for item in include.nav %}
+        {%- capture id -%}{{ include.id }}{% if include.id %}-{% endif %}{{ forloop.index }}{% endcapture %}
+        {% if item.href %}
+        {% assign nav_link = page.dir | append: item.href | absolute_url %}
+        <li class="" data-toggle="collapse" data-target="#ul-{{id}}">
+            <a href="{{ nav_link }}" class="{% if current_url contains nav_link %}active{% endif %}">{{ item.name }}</a>
+        </li>
+        {% endif %}
+
+        {% if item.items %}
+            {% include nav.html nav=item.items id=id %}
+        {% endif %}
+    {% endfor %}
+{% if include.id %}
+</ul>
+{% else %}
+</div>
+{% endif %}

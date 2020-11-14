@@ -1,0 +1,34 @@
+.nav-container > div {
+    list-style-type: none;
+    * a {
+        color: black;
+    }
+    * a.active {
+        color: red;
+    }
+}
+
+#mobile-nav > * div {
+    list-style-type: none;
+    * a {
+        color: black;
+    }
+    * a.active {
+        color: red;
+    }
+}
+.sidenav {
+    margin-top: 56px;
+    height: calc(100% - 56px);
+    width: 0%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    overflow-x: hidden;
+    transition: 0.5s;
+}
+
+.sidebar-collapsed {
+    display: none;
+}

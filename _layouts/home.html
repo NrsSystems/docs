@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+    {% assign current_url = page.url | absolute_url %}
+    {%- include head.html -%}
+    <body>
+        <div class="container">
+            {%- include header.html -%}
+            {{ content }}
+            <div class="row mt-4 justify-content-around">
+                {% for tile in site.tile_order %}
+                    {% assign tile_file = site.data.home.tiles[tile] %}
+                    {% include tile.html tile=tile_file %}
+                {% endfor %}
+            </div>
+            {% for specific in site.specific_order %}
+                {% assign specific_file = site.data.home.specifics[specific] %}
+                {% include specific.html specific=specific_file %}
+            {% endfor %}
+            {%- include footer.html -%}
+        </div>
+    </body>
+</html>

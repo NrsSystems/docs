@@ -1,0 +1,51 @@
+- name: XSPONSE Site Overview
+  href: site-overview
+- name: Getting Started
+  href: account-setup
+- name: Account Manager
+  href: account-manager
+  items:
+    - name: Add a company account
+      href: account-manager#add-a-company-account
+    - name: Change a company's account information
+      href: account-manager#change-a-companys-account-information
+    - name: View or edit your administrator profile
+      href: account-manager#view-or-edit-your-administrator-profile
+- name: Dashboard
+  href: dashboard
+  items:
+    - name: View or change the company account information
+      href: dashboard#view-or-change-the-company-account-information
+- name: Users Management
+  href: users-management
+  items:
+    - name: Add a user
+      href: users-management#add-a-user
+    - name: Edit a user
+      href: users-management#edit-a-user
+    - name: Delete a user
+      href: users-management#delete-a-user
+- name: Action Plans
+  href: action-plans
+  items:
+    - name: Create an action plan
+      href: action-plans#create-an-action-plan
+      items:
+        - name: Send Email
+          href: action-plans#send-email
+        - name: Send SMS
+          href: action-plans#send-sms
+        - name: Call third-party API
+          href: action-plans#call-third-party-api
+        - name: Update Display
+          href: action-plans#update-mercury-display
+        - name: Clear active Displays
+          href: action-plans#clear-active-mercury-displays
+        - name: Control relay
+          href: action-plans#control-relay
+        - name: Control VapeDetect Relay
+          href: action-plans#control-vapedetect-relay
+    - name: Edit an action plan
+      href: action-plans#edit-an-action-plan
+    - name: Delete an action plan
+      href: action-plans#delete-an-action-plan

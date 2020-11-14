@@ -1,0 +1,8 @@
+<div class="card col-xl-3 col-md-5 col-11 offset-1 m-2 rounded-0 border-danger shadow-sm">
+    <h3>{{ include.tile.title }}</h3>
+    <ul class="pl-4">
+    {% for link in include.tile.links %}
+        <li><a href="{{ link.href | relative_url}}">{{ link.name }}</a></li>
+    {% endfor %}
+    </ul>
+</div>

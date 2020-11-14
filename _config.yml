@@ -1,0 +1,23 @@
+# Build settings
+tile_order: ['company_admin', 'company_users']
+specific_order: ['xsponse_service', 'digital_displays', 'vape_detect']
+
+defaults:
+  -
+    scope:
+      path: "digital-displays"
+      type: "pages"
+    values:
+      nav: digital_displays
+  -
+    scope:
+      path: "general-ops"
+      type: "pages"
+    values:
+      nav: general_ops
+  -
+    scope:
+      path: "vape-detect"
+      type: "pages"
+    values:
+      nav: vape_detect

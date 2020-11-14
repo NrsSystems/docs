@@ -1,0 +1,12 @@
+title: Digital Displays
+links:
+  - name: Set up a display with the service
+    href: digital-displays/display-device-setup
+  - name: Add content to a display
+    href: digital-displays/views-management
+  - name: Create a playlist of content
+    href: digital-displays/playlists-management
+  - name: Create a schedule for displays
+    href: digital-displays/schedules-management
+  - name: More...
+    href: digital-displays/index
