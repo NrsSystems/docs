@@ -1,1 +1,1 @@
-Folder for XSPONSE support pages specific to (Mercury) Digital Displays
+Folder for XSPONSE support pages specific to Digital Displays

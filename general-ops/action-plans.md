@@ -12,8 +12,8 @@ Once you create an action plan, the page will reload and display the Actions pan
 
 If you are ready to begin setting up the action plan, select **Add Action** in the Actions pane. Creating an action happens automatically in steps. 
 
-1. First, provide a name (description) of the action. 
-2. Next, select an action from the menu: **send email**, **send SMS**, **call third-party API**, **update Mercury Display**, **clear active Mercury Displays**, **control relay**, or **control Vape Detect relay**. Each action can be assigned to happen during a particular time period—an active window—or by default to no active window.
+1. First, provide a name (description) of the action.
+2. Next, select an action from the menu: **send email**, **send SMS**, **call third-party API**, **update Digital Display**, **clear active Digital Displays**, **control relay**, or **control Vape Detect relay**. Each action can be assigned to happen during a particular time period—an active window—or by default to no active window.
 3. Each of these actions has its own settings to fill out in a third and possibly fourth step, as described further along in this section. Once the settings for that action have been added, select **Submit** to create the new action. Or to go back to the Update _\[action plan\]_ page without saving any changes, select the **Actions** link in the upper right.
 4. Once you have added all the actions you want in the action plan for now, select the **Action Plans** link in the upper right (or in the navigation pane) to go back to the Action Plans management page.
 

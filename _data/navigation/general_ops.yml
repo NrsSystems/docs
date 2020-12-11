@@ -38,9 +38,9 @@
         - name: Call third-party API
           href: action-plans#call-third-party-api
         - name: Update Display
-          href: action-plans#update-mercury-display
+          href: action-plans#update-digital-display
         - name: Clear active Displays
-          href: action-plans#clear-active-mercury-displays
+          href: action-plans#clear-active-digital-displays
         - name: Control relay
           href: action-plans#control-relay
         - name: Control VapeDetect Relay
