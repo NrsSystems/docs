@@ -1,7 +1,6 @@
 ---
 title: Dashboard
 abstract: The dashboard is the main management page for a company, providing access to all the features and devices available for that company. All pages in a company site offer a standard interface, as described in this section.
-last-updated: 11/6/2020
 ---
 
 Selecting a company on the Account Manager page will take you to the company dashboard page, showing you a summary of that organization.
