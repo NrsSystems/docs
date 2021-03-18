@@ -24,7 +24,7 @@
             </div>
             <div class="row">
                 <div class="col-12 font-italic">
-                    Last Updated: {{ page.last-updated }}
+                    Last Updated: <span id="last-updated" path="{{ page.path }}"></span>
                 </div>
             </div>
             <div class="row mt-5">
@@ -41,5 +41,6 @@
             {% include footer.html %}
         </div>
         <script src="{{ "/assets/js/mobile-nav.js" | relative_url }}"></script>
+        <script src="{{ "/assets/js/last-updated.js" | relative_url }}"></script>
     </body>
 </html>
