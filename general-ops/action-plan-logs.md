@@ -1,5 +1,5 @@
 # Action Plan Logs
-# DEPRECATED--REPLACED WITH INCDENT LOGS PAGE
+# DEPRECATED--REPLACED WITH INCIDENT LOGS PAGE
 Selecting the **View all** link in the Events Detected box in the dashboard or selecting the **Incident Logs** button on the Action Plans management page will take you to the Action Plan Logs page.
 > _screenshot of action plan logs page_
 
