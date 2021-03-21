@@ -38,7 +38,7 @@ _Request Body:_ Add the body for the API.
 
 You must provide content in all three of these fields to create this action.
 
-### Update Mercury Display
+### Update Display
 This action works in conjunction with the XSPONSE Digital Display device. If you have an XSPONSE Digital Display associated with your account, you can set it to show a view (content) and optionally play a sound for a length of time you choose. 
 
 _Duration:_ Set the overall length of time for the view to be shown.
@@ -56,7 +56,7 @@ _Background Color_ and _Text Color:_ You may choose both the background color an
 
 _Header Text_ and _Body Text:_ You must provide some content in both the header text and body text fields to create this action.
 
-### Clear active Mercury Displays
+### Clear active Displays
 This action works in conjunction with the XSPONSE Digital Display device. If you have an XSPONSE Digital Display associated with your account, you can use this action to clear the views (content) being displayed on all Digital Displays active at the time the action is triggered. This action has no settings of its own.
 
 ### Control relay
