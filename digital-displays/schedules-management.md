@@ -1,11 +1,14 @@
-# Schedules
+---
+title: Schedules
+abstract: The Schedules management page allows a user to add, edit, copy, or delete a schedule. Selecting the Displays link and then the Schedules link in the navigation pane will take you to the Schedules management page. 
+---
+*Jump to how to [add](schedules-management.md#add-a-schedule), [edit](schedules-management.md#edit-a-schedule), [copy](schedules-management.md#copy-a-schedule), or [delete](schedules-management.md#delete-a-schedule) a schedule; or how to [add](schedules-management#add-a-special-event), [edit, or delete](schedules-management#edit-or-delete-a-special-event) a special event.*
 
-Selecting the **Displays** link and then the **Schedules** link in the navigation pane will take you to the Schedules management page. 
 > _screenshot of schedules management page_
  
-The Schedules management page allows a user to [create](schedules-management.md#add-a-schedule), [edit](schedules-management.md#edit-a-schedule), [copy](schedules-management.md#copy-a-schedule), or [delete](schedules-management.md#delete-a-schedule) a schedule. The table shows the schedules by description (name), along with the number of associated events.
-
 The scheduling feature enables you to create a schedule for one or more displays that will be repeated every week. (See the [Displays section](displays-management.md) for how to set a display to use a schedule.) The schedule does not allow for overlapping entries, so you can have only one piece of content per time period—for example, if a video is scheduled to play every Friday from noon to 3 PM, you cannot also schedule a website to show on the same display starting at 2 PM every Friday. One-time special events that do not repeat can also be added to a schedule, and they will override the usual scheduled content during that time period on that occasion. (See [Special Events](schedules-management.md#special-events) later in this section for more information.)
+
+The table shows the schedules by description (name), along with the number of associated events.
 
 ## Add a schedule
 To add a schedule, select **Create Schedule** at the top right of the page. This will open a separate page where you can provide a description of the schedule and select the screensaver. The screensaver allows you to show a simple image when the display isn’t active (no content is selected for the time period). If you do not select anything, the display will default to showing the NRS/XSPONSE logo. If you select the “Bouncing Logo,” the display will show the image you have selected for the company logo in the company setup screen (see the [Dashboard section](general-ops/dashboard.md) for more information). We are planning to add other screensaver options in the future.
