@@ -1,7 +1,7 @@
-# XSPONSE Site Overview
-
-The XSPONSE service is managed through the XSPONSE website, which provides a dashboard through which you can access various components relevant to your devices. The site features a consistent look and feel, with every page providing the same base functions, to make navigation easier.
-
+---
+title: XSPONSE Site Overview
+abstract: The XSPONSE service is managed through the XSPONSE website, which provides a dashboard through which you can access various components relevant to your devices. The site features a consistent look and feel, with every page providing the same base functions, to make navigation easier.
+---
 The main pane shows the relevant content for your current page. See the [Dashboard section](dashboard.md) for more information.
 
 At the upper right above the main pane on every page throughout the site are three icons: a bell for alerts, a building for your company accounts, and a person for your user account.
