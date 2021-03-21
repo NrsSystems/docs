@@ -1,2 +1,102 @@
-- name: XSPONSE Site Overview
-  href: site-overview
+- name: About Digital Displays
+  href: about-digital-displays
+- name: Display Device Setup
+  href: display-device-setup
+- name: Displays Management
+  href: displays-management
+  items:
+    - name: Add a display
+      href: displays-management#add-a-display
+    - name: Edit a display
+      href: displays-management#edit-a-display
+    - name: Restart a display
+      href: displays-management#restart-a-display
+    - name: Delete a display
+      href: displays-management#delete-a-display
+- name: Views Management
+  href: views-management
+  items:
+    - name: Add a view
+      href: views-management#add-a-view
+      items: 
+        - name: Analog clock
+          href: views-management#analog-clock
+        - name: Art gallery
+          href: views-management#art-gallery
+        - name: Countdown
+          href: views-management#countdown
+        - name: "Days Since" Poster
+          href: views-management#days-since-poster
+        - name: Digital clock
+          href: views-management#digital-clock
+        - name: Image
+          href: views-management#image
+        - name: List
+          href: views-management#list
+        - name: PDF
+          href: views-management#pdf
+        - name: Quotes
+          href: views-management#quotes
+        - name: Safety Poster
+          href: views-management#safety-poster
+        - name: Tasks
+          href: views-management#tasks
+        - name: VapeDetect Dashboard
+          href: views-management#vapedetect-dashboard
+        - name: VapeDetect Graph
+          href: views-management#vapedetect-graph
+        - name: Video
+          href: views-management#video
+        - name: Website
+          href: views-management#website
+        - name: YouTube
+          href: views-management#youtube
+    - name: Edit a view
+      href: views-management#edit-a-view
+    - name: Delete a view
+      href: views-management#delete-a-view
+- name: Sounds Management
+  href: sounds-management
+  items: 
+    - name: Add a sound
+      href: sounds-management#add-a-sound
+    - name: Edit a sound
+      href: sounds-management#edit-a-sound
+    - name: Delete a sound
+      href: sounds-management#delete-a-sound
+- name: Playlists Management
+  href: playlists-management
+  items:
+    - name: Add a playlist
+      href: playlists-management#add-a-playlist
+    - name: Edit a playlist
+      href: playlists-management#edit-a-playlist
+    - name: Copy a playlist
+      href: playlists-management#copy-a-playlist
+    - name: Delete a playlist
+      href: playlists-management#delete-a-playlist
+- name: Schedules Management
+  href: schedules-management
+  items: 
+    - name: Add a schedule
+      href: schedules-management#add-a-schedule
+    - name: Edit a schedule
+      href: schedules-management#edit-a-schedule
+    - name: Copy a schedule
+      href: schedules-management#copy-a-schedule
+    - name: Delete a schedule
+      href: schedules-management#delete-a-schedule
+    - name: Special Events
+      href: schedules-management#special-events
+      items: 
+        - name: Add a special event
+          href: schedules-management#add-a-special-event
+        - name: Edit or delete a special event
+          href: schedules-management#edit-or-delete-a-special-event
+# If possible add a separator here before the links to other documentation sections
+- content: "_____"
+- name: Go to Service Guide
+  href: ../general-ops/index
+- content: "_____"
+- name: Go to VapeDetect
+  href: ../vape-detect/index
