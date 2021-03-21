@@ -4,7 +4,7 @@ abstract: The Playlists management page allows a user to add, edit, copy, or del
 ---
 *Jump to how to [add](playlists-management.md#add-a-playlist), [edit](playlists-management.md#edit-a-playlist), [copy](playlists-management.md#copy-a-playlist), or [delete](playlists-management.md#delete-a-playlist) a playlist.*
 
-Playlists allow you to choose multiple views to show in a particular order and duration on a display. Schedules can use playlists to show those views on one or more display on a weekly basis. See the [Schedules section](schedules-management.md) for more information. 
+Playlists allow you to choose multiple views to show in a particular order and duration on a display. Schedules can use playlists to show those views on one or more display on a weekly basis or for special one-time events. See the [Schedules section](schedules-management.md) for more information. 
 
 > _screenshot of playlists management page_
  
