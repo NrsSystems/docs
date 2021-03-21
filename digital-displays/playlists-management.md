@@ -1,9 +1,14 @@
-# Playlists
+---
+title: Playlists
+abstract: The Playlists management page allows a user to add, edit, copy, or delete a playlist. Selecting the Displays link and then the Playlists link in the navigation pane will take you to the Playlists management page. 
+---
+*Jump to how to [add](playlists-management.md#add-a-playlist), [edit](playlists-management.md#edit-a-playlist), [copy](playlists-management.md#copy-a-playlist), or [delete](playlists-management.md#delete-a-playlist) a playlist.*
 
-Selecting the **Displays** link and then the **Playlists** link in the navigation pane will take you to the Playlists management page. 
+Playlists allow you to choose multiple views to show in a particular order and duration on a display. Schedules can use playlists to show those views on one or more display on a weekly basis. See the [Schedules section](schedules-management.md) for more information. 
+
 > _screenshot of playlists management page_
  
-The Playlists management page allows a user to [create](playlists-management.md#add-a-playlist), [edit](playlists-management.md#edit-a-playlist), [copy](playlists-management.md#copy-a-playlist), or [delete](playlists-management.md#delete-a-playlist) a playlist. The table shows the playlists by description (name), along with the number of views used in the playlist.
+The table shows the playlists by description (name), along with the number of views used in the playlist.
 
 ## Add a playlist
 To add a playlist, select **Create Playlist** at the top right of the page. This will open a separate page allowing you to create a playlist. Set the parameters for your playlist:
