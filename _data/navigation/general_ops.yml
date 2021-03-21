@@ -60,10 +60,9 @@
       href: contacts-management#edit-a-contact
     - name: Delete a contact
       href: contacts-management#delete-a-contact
-- "_____"
+- content: "_____"
 - name: Go to Digital Displays
   href: ../digital-displays/index
-- "_____"
+- content: "_____"
 - name: Go to VapeDetect
   href: ../vape-detect/index
-- if I just put in text, will it acknowledge that?
