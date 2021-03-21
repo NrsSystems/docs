@@ -60,11 +60,7 @@
       href: contacts-management#edit-a-contact
     - name: Delete a contact
       href: contacts-management#delete-a-contact
-- name: 
-  href: 
-- name: Go to Digital Displays
+- name: *Go to Digital Displays*
   href: ../digital-displays/index
-- name: 
-  href: 
-- name: Go to VapeDetect
+- name: *Go to VapeDetect*
   href: ../vape-detect/index
