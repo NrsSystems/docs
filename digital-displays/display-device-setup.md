@@ -1,4 +1,7 @@
-# Device Setup
+---
+title: Display Device Setup
+abstract: This page explains how to physically set up your XSPONSE Digital Display device.
+---
 To set up your XSPONSE Digital Display, you will need:
 -	An Internet connection.
 -	A display with an HDMI connector.
