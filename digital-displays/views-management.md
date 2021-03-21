@@ -7,6 +7,8 @@ abstract: The Views management page allows a user to add, edit, or delete a view
  
 A view is the content to be shown on a display—such as a website, image, PDF file, video file, or YouTube video. We also have several built-in apps such as a countdown timer and days since last accident poster. A display can be set directly to show a specific view; see the [Displays section](displays-management.md#edit-a-display) for more information. Views can also be arranged in playlists to show multiple views in a particular order and duration; see the [Playlists section](playlists-management.md) for more information. 
 
+Some view types, such as the countdown timer, allow you to play sounds in connection with the view. See the [Sounds section](sounds-management.md) for more information on adding, editing, and deleting sounds.
+
 The table shows the views by description (name), and each view’s type (such as image or website). For content such as websites, images, and PDF files, selecting the link in the Description column of the views table will open a separate browser tab with the contents of the view. Some of the built-in app view types, such as the countdown timer, cannot be viewed in a browser, so the link will not work.
 
 ## Add a view
