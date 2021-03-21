@@ -2,7 +2,7 @@
 title: Account Manager 
 abstract: The Account Manager page is the default landing page for all users, and also allows company administrators to add a new company account, change a company's account information, and view or edit their administrator profile.
 ---
-*Jump to [add a company account](account-manager.md#add-a-company-account), [change a company's account information](account-manager.md#change-a-companys-account-information), or [view or edit your administrator profile](account-manager.md#view-or-edit-your-administrator-profile).*
+*Jump to how to [add a company account](account-manager.md#add-a-company-account), [change a company's account information](account-manager.md#change-a-companys-account-information), or [view or edit your administrator profile](account-manager.md#view-or-edit-your-administrator-profile).*
 
 Once you have an account, log in with your email address as username and the password you set. The Account Manager page will load, showing you tiles for the organizations associated with your account—by default one, possibly more. 
 > _screenshot of Account Manager_
