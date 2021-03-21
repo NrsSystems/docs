@@ -6,17 +6,17 @@ Welcome to XSPONSE! Use the following list or the navigation pane to the left to
 
 For general information about the XSPONSE service and website, see the [Service Guide](../general-ops/index.md). For specific information about the VapeDetect service and devices, see the [VapeDetect section](../vape-detect/index.md). 
 
-[About Digital Displays](about-digital-displays.md)
+## [About Digital Displays](about-digital-displays.md)
 
-[Display Device Setup](display-device-setup.md)
+## [Display Device Setup](display-device-setup.md)
 
-[Displays Management](displays-management.md)
+## [Displays Management](displays-management.md)
 - [Add a display](displays-management.md#add-a-display)
 - [Edit a display](displays-management.md#edit-a-display)
 - [Restart a display](displays-management.md#restart-a-display)
 - [Delete a display](displays-management.md#delete-a-display)
 
-[Views Management](views-management.md)
+## [Views Management](views-management.md)
 - [Add a view](views-management.md#add-a-view)
   - [Analog clock](views-management.md#analog-clock)
   - [Art gallery](views-management.md#art-gallery)
@@ -37,18 +37,18 @@ For general information about the XSPONSE service and website, see the [Service 
 - [Edit a view](views-management.md#edit-a-view)
 - [Delete a view](views-management.md#delete-a-view)
 
-[Sounds Management](sounds-management.md)
+## [Sounds Management](sounds-management.md)
 - [Add a sound](sounds-management.md#add-a-sound)
 - [Edit a sound](sounds-management.md#edit-a-sound)
 - [Delete a sound](sounds-management.md#delete-a-sound)
 
-[Playlists Management](playlists-management.md)
+## [Playlists Management](playlists-management.md)
 - [Add a playlist](playlists-management.md#add-a-playlist)
 - [Edit a playlist](playlists-management.md#edit-a-playlist)
 - [Copy a playlist](playlists-management.md#copy-a-playlist)
 - [Delete a playlist](playlists-management.md#delete-a-playlist)
 
-[Schedules Management](schedules-management.md)
+## [Schedules Management](schedules-management.md)
 - [Add a schedule](schedules-management.md#add-a-schedule)
 - [Edit a schedule](schedules-management.md#edit-a-schedule)
 - [Copy a schedule](schedules-management.md#copy-a-schedule)
