@@ -1,9 +1,9 @@
 ---
 title: Action Plans
-abstract: The Action Plans management page allows a user to [add](action-plans.md#create-an-action-plan), [edit](action-plans.md#edit-an-action-plan), or [delete](action-plans.md#delete-an-action-plan) an action plan, and to view the incident logs.
+abstract: The Action Plans management page allows a user to add, edit, or delete an action plan, and to view the incident logs. Selecting the **Action Plans** link in the navigation pane will take you to the Action Plans management page.
 ---
+*Jump to how to [add](action-plans.md#create-an-action-plan), [edit](action-plans.md#edit-an-action-plan), or [delete](action-plans.md#delete-an-action-plan) action plans.*
 
-Selecting the **Action Plans** link in the navigation pane will take you to the Action Plans management page. 
 > _screenshot of action plans page_
 
 The table shows the action plans by description (name), along with whether the plan is an alert or an alarm, the number of actions set to happen when the action plan is triggered, and the number of actions set to happen when the action plan is cleared. There are two basic types of actions, those that happen automatically when an action plan is triggered (**On Activate**), and those that happen when a user acknowledges the activated action plan by marking it clear (**On Clear**). An action plan listed as "Alert" only has On Activate actions, while a plan listed as "Alarm" has both On Activate and On Clear actions. 
