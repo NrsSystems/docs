@@ -1,6 +1,6 @@
 - name: About the VapeDetect system
   href: about-vapedetect
-- name: Sensor Device Installation Requirements
+- name: Device Installation and Setup Requirements
   href: installation-reqs
   items: 
     - name: Tools required
@@ -9,7 +9,7 @@
       href: installation-reqs#ordering-the-sampling-tubes
     - name: Location
       href: installation-reqs#location
-- name: Sensor Device Installation Process
+- name: Device Installation Process
   href: installation-process
   items: 
     - name: Note before installation
