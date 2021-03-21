@@ -1,0 +1,82 @@
+- name: About the VapeDetect system
+  href: about-vapedetect
+- name: Sensor Device Installation Requirements
+  href: installation-reqs
+  items: 
+    - name: Tools required
+      href: installation-reqs#tools-required
+    - name: Ordering the sampling tubes
+      href: installation-reqs#ordering-the-sampling-tubes
+    - name: Location
+      href: installation-reqs#location
+- name: Sensor Device Installation Process
+  href: installation-process
+  items: 
+    - name: Note before installation
+      href: installation-process#note-before-installation
+    - name: Physical installation process
+      href: installation-process#physical-installation-process
+    - name: Device startup
+      href: installation-process#device-startup
+- name: VapeDetect Management
+  href: vapedetect-management
+  items: 
+    - name: Add a sensor
+      href: vapedetect-management#add-a-sensor
+    - name: Change a sensor's settings
+      href: vapedetect-management#change-a-sensors-settings
+    - name: Edit a sensor's information
+      href: vapedetect-management#edit-a-sensors-information
+    - name: Delete a sensor
+      href: vapedetect-management#delete-a-sensor
+- name: Service Communication
+  href: sensor-device-communication
+  items: 
+    - name: LED color indicators
+      href: sensor-device-communication#led-color-indicators
+    - name: Troubleshooting communication
+      href: sensor-device-communication#troubleshooting-communication
+- name: Sensor Device Maintenance
+  href: sensor-device-maintenance.md
+- name: Action Plans
+  href: ../general-ops/action-plans
+  items: 
+    - name: Create an action plan
+      href: ../general-ops/action-plans#create-an-action-plan
+      items: 
+        - name: Send email
+          href: ../general-ops/action-plans#send-email
+        - name: Send SMS
+          href: ../general-ops/action-plans#send-sms
+        - name: Call third-party API
+          href: ../general-ops/action-plans.md#call-third-party-api
+        - name: Update Digital Display
+          href: ../general-ops/action-plans#update-digital-display
+        - name: Clear active Digital Displays
+          href: ../general-ops/action-plans#clear-active-digital-displays
+        - name: Control relay
+          href: ../general-ops/action-plans#control-relay
+        - name: Control VapeDetect Relay
+          href: ../general-ops/action-plans#control-vapedetect-relay
+    - name: Edit an action plan
+      href: ../general-ops/action-plans#edit-an-action-plan
+    - name: Delete an action plan
+      href: ../general-ops/action-plans#delete-an-action-plan
+- name: Incident Logs
+  href: ../general-ops/incident-logs
+- name: Contacts Management
+  href: ../general-ops/contacts-management
+  items: 
+    - name: Add a contact
+      href: ../general-ops/contacts-management#add-a-contact
+    - name: Edit a contact
+      href: ../general-ops/contacts-management#edit-a-contact
+    - name: Delete a contact
+      href: ../general-ops/contacts-management#delete-a-contact
+# If possible add a separator here before the links to other documentation sections
+- content: "_____"
+- name: Go to Service Overview
+  href: ../general-ops/index
+- content: "_____"
+- name: Go to Digital Displays
+  href: ../digital-displays/index
