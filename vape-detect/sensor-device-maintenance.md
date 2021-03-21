@@ -2,6 +2,7 @@
 title: Sensor Device Maintenance
 abstract: This page explains how to care for your VapeDetect sensor device.
 ---
+
 The VapeDetect sensor device should be cleaned at least once a year. To clean it, remove the sensor from the sampling and exhaust tubes by turning both lock nuts counterclockwise. Once they are loose, carefully pull the sensor device away from the tubes.
 
 Once the sensor assembly is removed from the tubes, the tubes can be cleaned by using a small can of air to blow them out. The exhaust tube can be cleaned by blowing air into the tube. Note that the sampling tube needs to be cleaned a little more carefully because there is a cap at the end of the sampling tube which is required for proper operation. Blow the air in slowly to clean out any dust or other particles. Don’t blow a strong stream of air through the sampling tube.
