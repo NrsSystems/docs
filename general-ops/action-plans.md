@@ -1,9 +1,14 @@
-# Action Plans
+---
+title: Action Plans
+abstract: The Action Plans management page allows a user to [add](action-plans.md#create-an-action-plan), [edit](action-plans.md#edit-an-action-plan), or [delete](action-plans.md#delete-an-action-plan) an action plan, and to view the incident logs.
+---
 
 Selecting the **Action Plans** link in the navigation pane will take you to the Action Plans management page. 
 > _screenshot of action plans page_
 
-The Action Plans management page allows a user to [add](action-plans.md#create-an-action-plan), [edit](action-plans.md#edit-an-action-plan), or [delete](action-plans.md#delete-an-action-plan) an action plan, and to view the incident logs. The table shows the action plans by description (name), along with whether the plan is an alert or an alarm, the number of actions set to happen when the action plan is triggered, and the number of actions set to happen when the action plan is cleared. See the [Incident Logs section](incident-logs.md) for more information about the incident logs.
+The table shows the action plans by description (name), along with whether the plan is an alert or an alarm, the number of actions set to happen when the action plan is triggered, and the number of actions set to happen when the action plan is cleared. There are two basic types of actions, those that happen automatically when an action plan is triggered (**On Activate**), and those that happen when a user acknowledges the activated action plan by marking it clear (**On Clear**). An action plan listed as "Alert" only has On Activate actions, while a plan listed as "Alarm" has both On Activate and On Clear actions. 
+
+Each time an XSPONSE sensor detects an event and triggers an action plan, the information is recorded in the incident logs. The Incident Logs management page allows you to view all recorded incidents from all your devices. Select the **Incident Logs** button above the Action Plans table to go to the Incident Logs management page and view the incidents. See the [Incident Logs section](incident-logs.md) for more information about the incident logs and the Incident Logs management page.
 
 ## Create an action plan
 To add an action plan, select **Create Action Plan** at the top right of the page. This will open a separate page allowing you to enter a description (name) for the plan and whether to keep the plan active until cleared. Select **Create** to create the new plan. Or to go back to the Action Plans management page without creating a new action plan, select the **Action Plans** link in the upper right of this page or in the navigation pane. 
