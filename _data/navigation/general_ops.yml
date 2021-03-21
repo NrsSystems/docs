@@ -61,3 +61,5 @@
     - name: Delete a contact
       href: contacts-management#delete-a-contact
     
+- name: VapeDetect
+  href: ../vape-detect/index
