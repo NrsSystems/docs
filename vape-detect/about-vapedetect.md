@@ -1,5 +1,7 @@
-# About the VapeDetect system
-
+---
+title: About the VapeDetect system
+abstract: This page describes the basic information about the XSPONSE VapeDetect service and devices.
+---
 Before you get started, it is important to understand how the system is designed. We have three main components: VapeDetect, action plans, and contacts. 
 - _VapeDetect_ is our automated system for monitoring locations for vaping activity, using duct-mounted sensor devices. The sensor constantly monitors the airflow moving into the duct for traces of the chemicals caused by vaping. When a sensor detects those chemicals in the air above a threshold amount, it sends an alert to the XSPONSE service, triggering an action plan. You must associate each sensor with your XSPONSE account before you can use it. See the [VapeDetect section](vapedetect-management.md) for more information.
 - An _action plan_ is a set of one or more actions that happen automatically in response to a trigger event, such as a VapeDetect sensor sending an alert about vaping activity. These actions can include sending email or SMS, activating a third-party API, or posting information on an associated XSPONSE Digital Display device. See the [Action Plans section](../general-ops/action-plans.md) for more information. 
