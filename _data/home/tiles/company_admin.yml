@@ -1,7 +1,7 @@
 title: Getting started for Admins
 links:
   - name: Manage your company account
-    href: general-ops/dashboard
+    href: general-ops/dashboard#view-or-change-the-company-account-information
   - name: Manage users for your company
     href: general-ops/users-management
   - name: Assign people to respond to alerts
