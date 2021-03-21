@@ -1,6 +1,10 @@
-# Service Communication
+---
+title: Service Communication
+abstract: This page explains how the VapeDetect sensor uses LED colors to indicate its status, and how to troubleshoot service communication issues.
+---
+*Jump to [LED color indicators](sensor-device-communication.md#led-color-indicators) or [troubleshooting communication](sensor-device-communication.md#troubleshooting-communication).*
 
-The device has nine sensors. Each sensor is checked one or more times every second. Every ten seconds, the device sends the rolling average to the service. If the device detects that one of the pre-configured threshold values has been exceeded, it sends a message to the service letting it know. The service will then take the appropriate action depending on how the end user has configured the service  to react.
+The VapeDetect sensor device has nine sensors. Each sensor is checked one or more times every second. Every ten seconds, the device sends the rolling average to the service. If the device detects that one of the pre-configured threshold values has been exceeded, it sends a message to the service letting it know. The service will then take the appropriate action depending on how the end user has configured the service  to react.
 
 ## LED color indicators 
 
