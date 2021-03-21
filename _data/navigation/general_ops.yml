@@ -51,3 +51,13 @@
       href: action-plans#delete-an-action-plan
 - name: Incident Logs
   href: incident-logs
+- name: Contacts Management
+  href: contacts-management
+  items:
+    - name: Add a contact
+    href: contacts-management#add-a-contact
+    - name: Edit a contact
+    href: contacts-management#edit-a-contact
+    - name: Delete a contact
+    href: contacts-management#delete-a-contact
+    
