@@ -49,3 +49,5 @@
       href: action-plans#edit-an-action-plan
     - name: Delete an action plan
       href: action-plans#delete-an-action-plan
+- name: Incident Logs
+href: incident-logs
