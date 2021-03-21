@@ -1,8 +1,11 @@
-# Views
-Selecting the **Displays** link and then the **Views** link in the navigation pane will take you to the Views management page. 
+---
+title: Views
+abstract: The Views management page allows a user to add, edit, or delete a view—the content to be shown on a display. Selecting the **Displays** link and then the **Views** link in the navigation pane will take you to the Views management page. 
+---
+*Jump to how to [add](views-management.md#add-a-view), [edit](views-management.md#edit-a-view), or [delete](views-management.md#delete-a-view) a view.*
 > _screenshot of views management page_
  
-The Views management page allows a user to [add](views-management.md#add-a-view), [edit](views-management.md#edit-a-view), or [delete](views-management.md#delete-a-view) a view. A view is the content to be shown on a display—such as a website, image, PDF file, video file, or YouTube video. We also have several built-in apps such as a countdown timer and days since last accident poster. The table shows the views by description (name), and each view’s type (such as image or website).
+A view is the content to be shown on a display—such as a website, image, PDF file, video file, or YouTube video. We also have several built-in apps such as a countdown timer and days since last accident poster. The table shows the views by description (name), and each view’s type (such as image or website).
 
 For content such as websites, images, and PDF files, selecting the link in the Description column of the views table will open a separate browser tab with the contents of the view. Some of the built-in app view types, such as the countdown timer, cannot be viewed in a browser, so the link will not work.
 
@@ -133,9 +136,9 @@ _Vape Detect Device:_ Select the device to be used as the source for the dashboa
 
 _Description:_ Add a simple text description of the file, which is how it will be listed on the Views management page.
 
-_Subtext One:_ (need more info).
+_Subtext One:_ Add the subtext for the graph.
 
-_Subtext Two:_ (need more info).
+_Subtext Two:_ Add the subtext for the graph.
 
 _Graph Options:_ Select this menu to choose the information to be shown in the graph. Multiple fields may be selected. Select the **X** next to the field name to remove it from the set.
 
