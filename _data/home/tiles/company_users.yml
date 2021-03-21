@@ -1,8 +1,8 @@
-title: Company Users
+title: Getting started - Users
 links:
   - name: View and manage alerts
-    href:
+    href: general-ops/action-plans
   - name: Manage your Digital Displays
-    href: digital-displays/about-digital-display
+    href: digital-displays/about-digital-displays
   - name: Manage your Vape Detect Sensors
     href: vape-detect/about-vapedetect
