@@ -4,7 +4,7 @@ abstract: This page describes the requirements for physically installing your Va
 ---
 *Jump to [tools required](installation-reqs.md#tools-required), [ordering the sampling tubes](installation-reqs.md#ordering-the-sampling-tubes), or [choosing the location of your device](installation-reqs.md#location).*
 
-*See the [Sensor Device Installation Process section](installation-process.md) for how to physically install the device.*
+*See the [Device Installation Process section](installation-process.md) for how to physically install the device.*
 
 To set up your XSPONSE Duct Mounted Sensor, you will need to provide:
 -	An Internet connection.
