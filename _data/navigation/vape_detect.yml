@@ -37,7 +37,7 @@
     - name: Troubleshooting communication
       href: sensor-device-communication#troubleshooting-communication
 - name: Sensor Device Maintenance
-  href: sensor-device-maintenance.md
+  href: sensor-device-maintenance
 # Ideally we'd have a separator here to indicate the following is in the Service Overview section
 - name: Action Plans
   href: ../general-ops/action-plans
@@ -50,7 +50,7 @@
         - name: Send SMS
           href: ../general-ops/action-plans#send-sms
         - name: Call third-party API
-          href: ../general-ops/action-plans.md#call-third-party-api
+          href: ../general-ops/action-plans#call-third-party-api
         - name: Update Digital Display
           href: ../general-ops/action-plans#update-digital-display
         - name: Clear active Digital Displays
