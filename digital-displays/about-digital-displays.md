@@ -1,4 +1,7 @@
-# About Digital Displays
+---
+title: About Digital Displays
+abstract: This page describes the basic information about the XSPONSE Digital Display.
+---
 Before you get started, it is important to understand how the system is designed. We have four main components: displays, views, playlists, and schedules. 
 - A _display_ is a physical piece of equipment that is used to show content programmed on our service—from instant alerts, such as emergency notices, to webpages, videos, and more. You must associate each display with your XSPONSE account before you can use it to show XSPONSE content. See the [Displays section](displays-management.md) for more information.
 - A _view_ is a specific item of content shown on a display. It can be a webpage, image, YouTube video, PDF, or XSPONSE apps such as a countdown timer. See the [Views section](views-management.md) for more information. 
