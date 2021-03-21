@@ -55,9 +55,9 @@
   href: contacts-management
   items:
     - name: Add a contact
-    href: contacts-management#add-a-contact
+      href: contacts-management#add-a-contact
     - name: Edit a contact
-    href: contacts-management#edit-a-contact
+      href: contacts-management#edit-a-contact
     - name: Delete a contact
-    href: contacts-management#delete-a-contact
+      href: contacts-management#delete-a-contact
     
