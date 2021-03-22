@@ -17,4 +17,5 @@ Select the **Logs** link in the upper right of the incident report page to retur
 To go back to the Action Plans management page, select the **Action Plans** link in the upper right of this page or in the navigation pane.
 
 ___
+*Return to the [XSPONSE Service Guide index](index.md)*
 *Return to the [VapeDetect index](../vape-detect/index.md)*
