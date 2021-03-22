@@ -6,8 +6,6 @@ abstract: The Playlists management page allows a user to add, edit, copy, or del
 
 Playlists allow you to choose multiple views to show in a particular order and duration on a display. See the [Views section](views-management.md) for more information. Schedules can use playlists to show those views on one or more display on a weekly basis or for special one-time events. See the [Schedules section](schedules-management.md) for more information. 
 
-> _screenshot of playlists management page_
- 
 The table shows the playlists by description (name), along with the number of views used in the playlist.
 
 ## Add a playlist
