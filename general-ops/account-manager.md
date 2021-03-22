@@ -18,3 +18,6 @@ To change the information for a company, select the **Accounts** icon in the top
 
 ## View or edit your administrator profile
 To view or edit your administrator profile, select the **User** icon in the top right of the page and select the **Profile** link in the menu. This will open a new page with your personal account information, including your first and last name, time zone, and a menu to select your default company account; it also has a link to change your password. Select **Update** to save your changes and return to the Account Manager page. Select **Account Manager** in the navigation pane to go back to the Account Manager page without saving any changes.
+
+___
+*Return to the [XSPONSE Service Guide index](index.md)*
