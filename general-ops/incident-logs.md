@@ -15,3 +15,6 @@ In the actions table, select the **Information** button in the row for an action
 Select the **Logs** link in the upper right of the incident report page to return to the Incident Logs page. 
 
 To go back to the Action Plans management page, select the **Action Plans** link in the upper right of this page or in the navigation pane.
+
+___
+*Return to the [VapeDetect index](../vape-detect/index.md)*
