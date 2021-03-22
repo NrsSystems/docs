@@ -16,6 +16,7 @@ See the [Digital Displays section](../digital-displays/index.md) or the [VapeDet
 - [View or edit your administrator profile](account-manager.md#view-or-edit-your-administrator-profile)
 
 ## [Dashboard](dashboard.md)
+- [About dashboard management tables](dashboard.md#about-dashboard-management-tables)
 - [View or change the company account information](dashboard.md#view-or-change-the-company-account-information)
 
 ## [Users Management](users-management.md)
