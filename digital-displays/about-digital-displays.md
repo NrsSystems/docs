@@ -10,3 +10,6 @@ Before you get started, it is important to understand how the system is designed
 - A _schedule_ is the content programming for displays by day and time, repeating on a weekly basis. You can also create special one-time scheduled events that never repeat. See the [Schedules section](schedules-management.md) for more information.
 
 You manage your XSPONSE service through the XSPONSE website, which provides a dashboard through which you can access each of these components. The site features a consistent look and feel, with every page providing the same base functions, to make navigation easier. See the [XSPONSE Site Overview section](general-ops/site-overview.md) and the [Dashboard section](general-ops/dashboard.md) for more information.
+
+___
+*Return to the [Digital Displays index](index.md)*
