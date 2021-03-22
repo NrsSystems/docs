@@ -6,7 +6,7 @@ abstract: The Playlists management page allows a user to add, edit, copy, or del
 
 Playlists allow you to choose multiple views to show in a particular order and duration on a display. See the [Views section](views-management.md) for more information. Schedules can use playlists to show those views on one or more display on a weekly basis or for special one-time events. See the [Schedules section](schedules-management.md) for more information. 
 
-The table shows the playlists by description (name), along with the number of views used in the playlist.
+The playlists table shows the playlists by description (name), along with the number of views used in the playlist.
 
 ## Add a playlist
 To add a playlist, select **Create Playlist** at the top right of the page. This will open a separate page allowing you to create a playlist. Set the parameters for your playlist:
@@ -27,10 +27,10 @@ _Disabled:_ Select the **check box** in the Disabled column to prevent that cont
 _Remove:_ Select the icon in the Remove column to delete a row. This will open a new page asking you to confirm the deletion of the row. Deleting a row permanently deletes the content from the playlist. 
 
 ## Edit a playlist
-To edit a playlist, select the **Edit** icon in the playlist table. This will open a separate page allowing you to edit the contents of the playlist. Once changes are made, select **Submit** to accept the changes. Select **Cancel** to go back to the Playlists management page without saving any changes.
+To edit a playlist, select the **Edit** icon in the playlists table. This will open a separate page allowing you to edit the contents of the playlist. Once changes are made, select **Submit** to accept the changes. Select **Cancel** to go back to the Playlists management page without saving any changes.
 
 ## Copy a playlist
-To copy a playlist, select the **Copy** icon in the playlist table. This will open a separate page allowing you to provide a new description for the copy of the playlist. Once the new description is entered, select **Submit** to accept the changes. Select **Cancel** to go back to the Playlists management page without saving any changes.
+To copy a playlist, select the **Copy** icon in the playlists table. This will open a separate page allowing you to provide a new description for the copy of the playlist. Once the new description is entered, select **Submit** to accept the changes. Select **Cancel** to go back to the Playlists management page without saving any changes.
 
 ## Delete a playlist
-To delete a playlist, select the **Delete** icon in the playlist table. This will open a separate window asking you to confirm playlist deletion. Select **Delete** to delete the playlist. Select **Cancel** to go back to the Playlists management page without deleting the playlist.
+To delete a playlist, select the **Delete** icon in the playlists table. This will open a separate window asking you to confirm playlist deletion. Select **Delete** to delete the playlist. Select **Cancel** to go back to the Playlists management page without deleting the playlist.
