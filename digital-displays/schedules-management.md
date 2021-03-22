@@ -4,8 +4,6 @@ abstract: The Schedules management page allows a user to add, edit, copy, or del
 ---
 *Jump to how to [add](schedules-management.md#add-a-schedule), [edit](schedules-management.md#edit-a-schedule), [copy](schedules-management.md#copy-a-schedule), or [delete](schedules-management.md#delete-a-schedule) a schedule; or how to [add](schedules-management#add-a-special-event), [edit, or delete](schedules-management#edit-or-delete-a-special-event) a special event.*
 
-> _screenshot of schedules management page_
- 
 The scheduling feature enables you to create a schedule for one or more displays that will be repeated every week. (See the [Displays section](displays-management.md) for how to set a display to use a schedule.) The schedule does not allow for overlapping entries, so you can have only one piece of content per time period—for example, if a video is scheduled to play every Friday from noon to 3 PM, you cannot also schedule a website to show on the same display starting at 2 PM every Friday. One-time special events that do not repeat can also be added to a schedule, and they will override the usual scheduled content during that time period on that occasion. (See [Special Events](schedules-management.md#special-events) later in this section for more information.)
 
 The table shows the schedules by description (name), along with the number of associated events.
@@ -28,7 +26,6 @@ To delete a schedule, select the **Delete** icon in the schedules table. This wi
 
 ## Special Events
 A special event is a one-time event when the content you select will be displayed instead of what is shown on the schedule. Special events will appear in the schedule but only during the week for which they are scheduled. Once the date for a special event has passed, the special event is deleted and can no longer be viewed or edited.
-> _screenshot of special events page_
  
 Note that when you create or edit a special event, once you have finished with the Special Events pane, you will also need to select **Submit** at the bottom of the schedule page to save your changes to the overall schedule.
 
