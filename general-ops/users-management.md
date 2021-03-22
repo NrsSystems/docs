@@ -18,3 +18,6 @@ To edit a user, select the blue plus icon next to the user’s name and then sel
 
 ## Delete a user
 To delete a user, select the blue plus icon next to the user’s name and then select the **Delete** icon. This will open a separate page asking the administrator to confirm user deletion. Select **Delete User** to delete the user. Select **Cancel** to go back to the Users management page without deleting the user.
+
+___
+*Return to the [XSPONSE Service Guide index](index.md)*
