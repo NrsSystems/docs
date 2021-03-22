@@ -52,3 +52,5 @@ See the [VapeDetect section](vapedetect-management.md) for more information on a
 For more information about the LED indicators and troubleshooting device communication problems, see the [Service Communication section](sensor-device-communication.md).
 
 See the [Getting Started section](../general-ops/account-setup.md) for more information on setting up your XSPONSE account.
+
+*Return to the [VapeDetect index](index.md)*
