@@ -9,4 +9,5 @@ Before you get started, it is important to understand how the system is designed
 
 You manage your XSPONSE service through the XSPONSE website, which provides a dashboard through which you can access each of these components. The site features a consistent look and feel, with every page providing the same base functions, to make navigation easier. See the [XSPONSE Site Overview section](../general-ops/site-overview.md) and the [Dashboard section](../general-ops/dashboard.md) for more information.
 
+___
 *Return to the [VapeDetect index](index.md)*
