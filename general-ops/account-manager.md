@@ -5,7 +5,6 @@ abstract: The Account Manager page is the default landing page for all users, an
 *Jump to how to [add a company account](account-manager.md#add-a-company-account), [change a company's account information](account-manager.md#change-a-companys-account-information), or [view or edit your administrator profile](account-manager.md#view-or-edit-your-administrator-profile).*
 
 Once you have an account, log in with your email address as username and the password you set. The Account Manager page will load, showing you tiles for the organizations associated with your account—by default one, possibly more. 
-> _screenshot of Account Manager_
  
 To continue, select **Manage** in the appropriate tile for your company. This will take you to the dashboard for that company. See the [Dashboard section](dashboard.md) for more information about the dashboard and the general interface of the XSPONSE site.
 
