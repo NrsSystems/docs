@@ -57,3 +57,5 @@ Measure the box across the axis where the sensor will be located and subtract 2 
 The sensor can be mounted along the vertical axis so long as the air flows directly into the sampling tube holes.
 
 The sensor should be installed on the metal box directly above the exhaust vent. The sampling tube should be centered about 2” to 4” above the vent. The mounting bracket is 8” tall so keep that in mind when determining the location. You must have enough room above and below the sampling tubes to allow for the sheet metal screws to attach the bracket to the sheet metal. See the template included at the end of this document for reference.
+
+*Return to the [VapeDetect index](index.md)*
