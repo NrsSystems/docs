@@ -18,5 +18,5 @@ To edit a contact, select the **Edit** icon in the contacts table. This will ope
 To delete a contact, select the **Delete** icon in the contacts table. This will open a separate page asking you to confirm contact deletion. Select **Delete** to delete the contact. Select **Cancel** to go back to the Contacts management page without deleting the sound.
 
 ___
-*Return to the [XSPONSE Service Guide index](index.md)*
+*Return to the [XSPONSE Service Guide index](index.md)*  
 *Return to the [VapeDetect index](../vape-detect/index.md)*
