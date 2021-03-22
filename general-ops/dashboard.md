@@ -1,13 +1,7 @@
 ---
 title: Dashboard
-abstract: The dashboard is the main management page for a company, providing access to all the features and devices available for that company. All pages in a company site offer a standard interface, as described in this section.
+abstract: The dashboard is the main management page for a company, providing access to all the features and devices available for that company. All pages in a company site offer a standard interface, as described in this section. Selecting a company on the Account Manager page will take you to the company dashboard page, showing you a summary of that organization.
 ---
-
-Selecting a company on the Account Manager page will take you to the company dashboard page, showing you a summary of that organization.
-> _screenshot of sample dashboard_
-
-The dashboard is the main management page for a company, providing access to all the features and devices available for that company. All pages in a company site offer a standard interface, as described in this section.
-
 The main pane shows the relevant content for the page you have selected in the navigation pane. For the dashboard, this includes an overview of the company, featuring the last event detected, total events detected, account alerts, and a table of all your devices.
 -	Select the **View event** link in the Last Event Detected box to see details on the event. This will open a new page with the incident information. See the [Incident Logs section](incident-logs.md) for more information.
 -	Select the **View all** link in the Events Detected box to see the full log of events. This will open the Incident Logs page. See the [Incident Logs section](incident-logs.md) for more information.
