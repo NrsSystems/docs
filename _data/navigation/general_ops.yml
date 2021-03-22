@@ -14,6 +14,8 @@
 - name: Dashboard
   href: dashboard
   items:
+    - name: About dashboard management tables
+      href: dashboard#about-dashboard-management-tables
     - name: View or change the company account information
       href: dashboard#view-or-change-the-company-account-information
 - name: Users Management
