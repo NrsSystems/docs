@@ -25,4 +25,5 @@ If the LED is red, more than likely the firewall is blocking the communications.
 
 An easy way to check the network is to plug the same network cable you are using for the device into a laptop. Make sure the laptop gets an IP address. If you are allowing the DHCP service to assign any IP address to the device, this will work. If you have configured your DHCP service to assign the sensor a specific IP address based on the MAC address of the device, this will not work. Once you have an IP address, open a browser and navigate to http://dev.xsponse.com. If you get any errors or notifications, something is blocking our device from communicating from the service. If it works, you will see our website.
 
+___
 *Return to the [VapeDetect index](index.md)*
