@@ -24,3 +24,6 @@ Only the relevant icons are included for an item—for example, the Restart icon
 ## View or change the company account information
 
 The company administrator, or other users who have been granted the account administrator role (see the [Users section](users-management.md) for more information), can view or change the information for a company from the dashboard. Select the **Adjust** icon in the upper right of the dashboard main pane (or next to the company name in the **Accounts** menu in the top right of the page). (Note that users without the administrator role will not see the Adjust icon on the dashboard.) This will open a separate page where you can view and make changes to the basic company account information. You can also upload an image file of the organization’s logo. All “image” MIME file types are supported, and the file may be up to 1 MB in size. (This logo will appear in the company’s tile on the Account Manager page and can be used in the screensaver feature of XSPONSE Digital Displays.) Select **Submit** to save the changes and return to the company dashboard. Select the **Dashboard** link in the navigation pane to go back to the company dashboard without saving any changes.
+
+___
+*Return to the [XSPONSE Service Guide index](index.md)*
