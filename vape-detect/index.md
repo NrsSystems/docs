@@ -24,6 +24,12 @@ For general information about the XSPONSE service and website, see the [Service 
 - [Edit a sensor's information](vapedetect-management.md#edit-a-sensors-information)
 - [Delete a sensor](vapedetect-management.md#delete-a-sensor)
 
+## [Service Communication](sensor-device-communication.md)
+- [LED color indicators](sensor-device-communication.md#led-color-indicators)
+- [Troubleshooting communication](sensor-device-communication.md#troubleshooting-communication)
+
+## [Sensor Device Maintenance](sensor-device-maintenance.md)
+
 ## [Action Plans](../general-ops/action-plans.md)
 - [Create an action plan](../general-ops/action-plans.md#create-an-action-plan)
   - [Send email](../general-ops/action-plans.md#send-email)
@@ -36,15 +42,9 @@ For general information about the XSPONSE service and website, see the [Service 
 - [Edit an action plan](../general-ops/action-plans.md#edit-an-action-plan)
 - [Delete an action plan](../general-ops/action-plans.md#delete-an-action-plan)
 
-## [Action Plan Logs](../general-ops/action-plan-logs.md)
+## [Incident Logs](../general-ops/incident-logs.md)
 
 ## [Contacts Management](../general-ops/contacts-management.md)
 - [Add a contact](../general-ops/contacts-management.md#add-a-contact)
 - [Edit a contact](../general-ops/contacts-management.md#edit-a-contact)
 - [Delete a contact](../general-ops/contacts-management.md#delete-a-contact)
-
-## [Service Communication](sensor-device-communication.md)
-- [LED color indicators](sensor-device-communication.md#led-color-indicators)
-- [Troubleshooting communication](sensor-device-communication.md#troubleshooting-communication)
-
-## [Sensor Device Maintenance](sensor-device-maintenance.md)
