@@ -8,3 +8,5 @@ Before you get started, it is important to understand how the system is designed
 - A _contact_ is a person listed in the service as a potential recipient of messages in response to an action plan being triggered. Contacts do not need to be users of the XSPONSE service. See the [Contacts section](../general-ops/contacts-management.md) for more information.
 
 You manage your XSPONSE service through the XSPONSE website, which provides a dashboard through which you can access each of these components. The site features a consistent look and feel, with every page providing the same base functions, to make navigation easier. See the [XSPONSE Site Overview section](../general-ops/site-overview.md) and the [Dashboard section](../general-ops/dashboard.md) for more information.
+
+*Return to the [VapeDetect index](index.md)*
