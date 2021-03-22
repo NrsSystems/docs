@@ -3,7 +3,6 @@ title: Views
 abstract: The Views management page allows a user to add, edit, or delete a view—the content to be shown on a display. Selecting the Displays link and then the Views link in the navigation pane will take you to the Views management page. 
 ---
 *Jump to how to [add](views-management.md#add-a-view), [edit](views-management.md#edit-a-view), or [delete](views-management.md#delete-a-view) a view.*
-> _screenshot of views management page_
  
 A view is the content to be shown on a display—such as a website, image, PDF file, video file, or YouTube video. We also have several built-in apps such as a countdown timer and days since last accident poster. A display can be set directly to show a specific view; see the [Displays section](displays-management.md#edit-a-display) for more information. Views can also be arranged in playlists to show multiple views in a particular order and duration; see the [Playlists section](playlists-management.md) for more information. 
 
