@@ -5,8 +5,6 @@ abstract: The Contacts management page allows a user to add, edit, or delete the
 
 *Jump to how to [add](contacts-management.md#add-a-contact), [edit](contacts-management.md#edit-a-contact), or [delete](contacts-management.md#delete-a-contact) contacts.*
 
-> _screenshot of contacts management page_
- 
 The table shows the contacts by name, along with their email address and phone number.
 
 ## Add a contact
