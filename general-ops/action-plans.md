@@ -95,4 +95,5 @@ If you change the description of the action plan or change the **Keep active unt
 ## Delete an action plan
 To delete an action plan, select the **Delete** icon in the action plans table. This will open a separate page asking you to confirm the action plan deletion. Select **Delete** to delete the action plan. Select **Cancel** to go back to the Action Plans management page without deleting the action plan.
 
+___
 *Return to the [VapeDetect index](../vape-detect/index.md)*
