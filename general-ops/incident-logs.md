@@ -2,7 +2,7 @@
 title: Incident Logs
 abstract: The Incident Logs management page allows you to view all recorded incidents from all your devices. Selecting the View All link in the Events Detected box in the dashboard or selecting the Incident Logs button on the Action Plans management page will take you to the Incident Logs page.
 ---
-Related: [Action Plans](action-plans.md) | [About the VapeDetect system](../vape-detect/about-vapedetect.md) | [VapeDetect Management](../vape-detect/vapedetect-management.md)
+Related: [Action Plans](action-plans.md) \| [About the VapeDetect system](../vape-detect/about-vapedetect.md) \| [VapeDetect Management](../vape-detect/vapedetect-management.md)
 
 Each time a VapeDetect sensor detects an event and triggers an action plan, the information is recorded in the incident logs. The table shows the incidents by the device that was triggered, along with the time the event occurred, whether the action plan is active or not, and the type of incident. 
 
