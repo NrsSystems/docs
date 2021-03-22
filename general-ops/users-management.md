@@ -3,7 +3,6 @@ title: Users
 abstract: The Users management page allows an administrator to add, edit, or delete a user. Selecting the Users link in the navigation pane will take you to the Users management page. Only a user with the account administrator role—by default, your company administrator—can access the Users management page. 
 ---
 *Jump to how to [add](users-management.md#add-a-user), [edit](users-management.md#edit-a-user), or [delete](users-management.md#delete-a-user) a user.*
-> _screenshot of users management page_
 
 The main user pane shows the table of users, listing each account by name, whether the account has administrator rights, and whether each is active or inactive. Next to each name is a blue plus (**+**) icon; select this icon to reveal the management options for that account. When expanded, the icon changes to a red minus (**-**) icon; selecting this icon again will hide the management options.
 
