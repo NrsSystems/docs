@@ -4,7 +4,7 @@ abstract: The VapeDetect management page allows a user to add, adjust, edit, or 
 ---
 *Jump to how to [add](vapedetect-management.md#add-a-sensor), [adjust](vapedetect-management.md#change-a-sensors-settings), [edit](vapedetect-management.md#edit-a-sensors-information), or [delete](vapedetect-management.md#delete-a-sensor) a sensor device.*
 
-The table shows the sensors by description (name), along with the version of code each device is running. 
+The devices table shows the sensors by description (name), along with the version of code each device is running. 
 
 When a sensor device starts, it checks the XSPONSE system to see whether it is associated with an account. If the sensor is not associated with an account, its LED indicator will be orange. Once the sensor is associated with your account, its LED indicator will turn white. See the [Device Installation Process section](installation-process.md) for more information. (Also see the [Sensor Device Communication section](sensor-device-communication.md) for full details on all the [LED color indicators](sensor-device-communication.md#led-color-indicators).)
 
