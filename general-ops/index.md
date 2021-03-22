@@ -35,7 +35,7 @@ See the [Digital Displays section](../digital-displays/index.md) or the [VapeDet
 - [Edit an action plan](action-plans.md#edit-an-action-plan)
 - [Delete an action plan](action-plans.md#delete-an-action-plan)
 
-## [Action Plan Logs](action-plan-logs.md)
+## [Incident Logs](incident-logs.md)
 
 ## [Contacts Management](contacts-management.md)
 - [Add a contact](contacts-management.md#add-a-contact)
