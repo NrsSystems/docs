@@ -14,10 +14,10 @@ At the upper right above the main pane on every page throughout the site are thr
 
 The navigation pane also appears throughout the site along the left side, showing links to pages for managing your XSPONSE devices and functions, as well as company contacts and users. When you first log in, you will arrive at the Account Manager page, which will be the only link visible in the navigation pane. (See the [Account Manager section](account-manager.md) for more information.) Once you have chosen a company to manage, you will arrive at the dashboard for that company, and the following links will appear in the navigation pane.
 -	Select the **Dashboard** link to go back to the dashboard for your company.
--	Select the **Displays** link to expand the submenu for Digital Displays options—Sounds, Devices, Views, Playlists, and Schedules—then select one of these links to go to the relevant management page. Selecting Displays a second time will collapse this submenu. See the Digital Displays section for more information.
--	Select the **Button Consoles** link to go to the Button Consoles management page. See the Button Consoles section for more information.
--	Select the **VapeDetect** link to go to the VapeDetect sensor management page. See the VapeDetect section for more information.
--	Select the **Relay Consoles** link to go to the Relay Consoles management page. See the Relay Consoles section for more information.
+-	Select the **Displays** link to expand the submenu for Digital Displays options—Sounds, Devices, Views, Playlists, and Schedules—then select one of these links to go to the relevant management page. Selecting Displays a second time will collapse this submenu. See the [Digital Displays section](../digital-displays/index.md) for more information.
+-	Select the **Button Consoles** link to go to the Button Consoles management page. Documentation will be available soon. 
+-	Select the **VapeDetect** link to go to the VapeDetect sensor management page. See the [VapeDetect Management page](../vape-detect/vapedetect-management.md) for more information.
+-	Select the **Relay Consoles** link to go to the Relay Consoles management page. Documentation will be available soon.
 -	Select the **Action Plans** link to go to the Action Plans management page. See the [Action Plans section](action-plans.md) for more information.
 -	Select the **Contacts** link to go to the Contacts management page. See the [Contacts section](contacts-management.md) for more information.
 -	Select the **Users** link to go to the Users management page. This link will only appear for your company administrator, and other users will not see it. See the [Users section](users-management.md) for more information.
