@@ -34,3 +34,6 @@ To copy a playlist, select the **Copy** icon in the playlists table. This will o
 
 ## Delete a playlist
 To delete a playlist, select the **Delete** icon in the playlists table. This will open a separate window asking you to confirm playlist deletion. Select **Delete** to delete the playlist. Select **Cancel** to go back to the Playlists management page without deleting the playlist.
+
+___
+*Return to the [Digital Displays index](index.md)*
