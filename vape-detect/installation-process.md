@@ -53,4 +53,5 @@ For more information about the LED indicators and troubleshooting device communi
 
 See the [Getting Started section](../general-ops/account-setup.md) for more information on setting up your XSPONSE account.
 
+___
 *Return to the [VapeDetect index](index.md)*
