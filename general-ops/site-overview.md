@@ -21,3 +21,6 @@ The navigation pane also appears throughout the site along the left side, showin
 -	Select the **Action Plans** link to go to the Action Plans management page. See the [Action Plans section](action-plans.md) for more information.
 -	Select the **Contacts** link to go to the Contacts management page. See the [Contacts section](contacts-management.md) for more information.
 -	Select the **Users** link to go to the Users management page. This link will only appear for your company administrator, and other users will not see it. See the [Users section](users-management.md) for more information.
+
+___
+*Return to the [XSPONSE Service Guide index](index.md)*
