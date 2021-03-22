@@ -14,3 +14,6 @@ To edit a sound, select the **Edit** icon in the sounds table. This will open a 
 
 ## Delete a sound
 To delete a sound, select the **Delete** icon in the sounds table. This will open a separate page asking you to confirm sound deletion. Select **Delete** to delete the sound. Select **Cancel** to go back to the Sounds management page without deleting the sound.
+
+___
+*Return to the [Digital Displays index](index.md)*
