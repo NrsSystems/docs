@@ -19,3 +19,6 @@ To restart a display, select the **Restart** icon in the displays table. This wi
 
 ## Delete a display
 To remove a display, select the **Delete** icon in the displays table. This will open a separate page asking you to confirm display deletion. Select **Delete** to delete the display. Select **Cancel** to go back to the Displays management page without deleting the display.
+
+___
+*Return to the [Digital Displays index](index.md)*
