@@ -11,4 +11,5 @@ To clean the device itself, carefully remove the four screws holding the cover o
 
 Once the sensor board is clean, carefully replace the cover and screws. Mount the sensor back on the sampling and exhaust tubes, making certain that the sampling tube is connected to the correct coupler. The sticker on the device has arrows indicating the correct direction of the flow of air through the sensor. Please make sure the sensor is oriented correctly on the sampling tube so the air flows through it correctly. You can also check by looking at the side of the device with the connectors and LED. With the RJ-45 jack on the bottom, the inlet side of the device is to the left. Once the device is mated and fully seated onto the sampling tubes, turn the coupler nuts clockwise to lock the device in place.
 
+___
 *Return to the [VapeDetect index](index.md)*
