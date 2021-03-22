@@ -5,7 +5,8 @@ abstract: The XSPONSE service is managed through the XSPONSE website, which prov
 The main pane shows the relevant content for your current page. See the [Dashboard section](dashboard.md) for more information.
 
 At the upper right above the main pane on every page throughout the site are three icons: a bell for alerts, a building for your company accounts, and a person for your user account.
-> _screenshot of icons in the menubar_
+
+![image of menu icons](menu_icons.png)
 
 -	Select the **Alerts** icon to show the alerts for your account in descending order by time (the most recent will be at the top of the menu). The account alerts notify you when one of your associated devices is disconnected. Select an alert to go to the management page for that device. The alerts list is populated by company account and will be empty when you are viewing the Account Manager page. See the help section for your devices for more information.
 -	Select the **Accounts** icon to show the menu of companies you have access to—by default your own and, when applicable, additional ones. Select an entry from this menu to go directly to that company’s dashboard. Administrators can select the **Adjust** (gear) icon next to a company name in this menu to go to the Edit Company page for that company. Select the **Manage all Accounts** link to go to the Account Manager page. See the [Account Manager section](account-manager.md) for more information.
