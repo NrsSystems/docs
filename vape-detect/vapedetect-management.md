@@ -25,3 +25,5 @@ To edit the information for a sensor, select the **Edit** icon in the devices ta
 
 ## Delete a sensor
 To remove a sensor, select the **Delete** icon in the devices table. This will open a separate page asking you to confirm sensor deletion. Select **Delete** to delete the sensor. Select **Cancel** to go back to the VapeDetect management page without deleting the sensor.
+
+*Return to the [VapeDetect index](index.md)*
