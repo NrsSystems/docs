@@ -3,7 +3,6 @@ title: Sounds
 abstract: The Sounds management page allows a user to add, edit, or delete the sounds available for the displays. Selecting the Displays link and then the Sounds link in the navigation pane will take you to the Sounds management page.
 ---
 *Jump to how to [add](sounds-management.md#add-a-sound), [edit](sounds-management.md#edit-a-sound), or [delete](sounds-management.md#delete-a-sound) the sounds.*
-> _screenshot of sounds management page_
  
 Certain views allow you to play a sound on a display. For example, in the countdown timer, you can program the display to play specific sounds during the countdown. See the [Views section](views-management.md) for more information. The base service contains several sounds that we have created and provide free of charge. You can delete or edit these sounds if you wish, as well as add new sounds. XSPONSE supports .wav and .mp3 file types, with a size limit of 5 MB per file.
 
