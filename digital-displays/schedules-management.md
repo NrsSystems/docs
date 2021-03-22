@@ -34,3 +34,6 @@ To add a special event to an existing schedule, select the **Edit** icon in the 
 
 ### Edit or delete a special event
 You can edit special events while on the Create/Update Schedule page by opening the Special Events pane and selecting them, which will open the “Edit event on schedule” window. The content, date, and start and end times can be changed. Once changes are made, select **Submit** to save the changes. Select **Remove** to delete the special event from the schedule. (Note that if you select **Remove** to delete a special event, it will remain listed in the Special Events pane until you select **Submit** to save the changes to the schedule.) Select **Cancel** to go back to the Special Events pane without saving any changes. Select the double-arrow (**>>**) button at the right of the screen to collapse the Special Events pane and go back to the Create/Update Schedule page. If you have made any changes to a special event, select **Submit** to save the schedule with the changes. Select **Cancel** to go back to the Schedules management page without saving any changes.
+
+___
+*Return to the [Digital Displays index](index.md)*
