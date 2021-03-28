@@ -13,6 +13,9 @@ At the upper right above the main pane on every page throughout the site are thr
 -	Select the **User** icon to show a menu with options to view and edit your profile, access the support page, and log out. The **Profile** option is only available to administrator accounts. The **Support** option appears when you are viewing the dashboard for a particular company account and will not be visible from the Account Manager page. See the [Account Manager section](account-manager.md) for more information.
 
 The navigation pane also appears throughout the site along the left side, showing links to pages for managing your XSPONSE devices and functions, as well as company contacts and users. When you first log in, you will arrive at the Account Manager page, which will be the only link visible in the navigation pane. (See the [Account Manager section](account-manager.md) for more information.) Once you have chosen a company to manage, you will arrive at the dashboard for that company, and the following links will appear in the navigation pane.
+
+![image of navigation pane](navigation_pane.png)
+
 -	Select the **Dashboard** link to go back to the dashboard for your company.
 -	Select the **Displays** link to expand the submenu for Digital Displays options—Sounds, Devices, Views, Playlists, and Schedules—then select one of these links to go to the relevant management page. Selecting Displays a second time will collapse this submenu. See the [Digital Displays section](../digital-displays/index.md) for more information.
 -	Select the **Button Consoles** link to go to the Button Consoles management page. Documentation will be available soon. 
