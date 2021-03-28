@@ -2,7 +2,7 @@
 title: Device Installation Process
 abstract: This page explains how to physically install your VapeDetect duct-mounted sensor.
 ---
-See the [Device Installation and Setup Requirements section](installation-reqs.md) before starting the installation process for important information on the [tools required](installation-reqs.md#tools-required), [ordering the sampling tubes](installation-reqs.md#ordering-the-sampling-tubes), and [choosing the location of your device](installation-reqs.md#location).
+See the [Device Installation and Setup Requirements page](installation-reqs.md) before starting the installation process for important information on the [tools required](installation-reqs.md#tools-required), [ordering the sampling tubes](installation-reqs.md#ordering-the-sampling-tubes), and [choosing the location of your device](installation-reqs.md#location).
 
 ## Note before installation
 The sampling tube includes an end cap. This end cap is critical to the proper operation of the sensor. Before installation, please ensure that the end cap is present and is properly seated in the end of the tube. If it is missing, please contact us for a replacement.
