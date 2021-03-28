@@ -2,6 +2,8 @@
 title: Dashboard
 abstract: The dashboard is the main management pane for a company, providing access to all the features and devices available for that company. All panes in a company site offer a standard interface, as described in this section. Selecting a company on the Account Manager pane will take you to the company dashboard pane, showing you a summary of that organization.
 ---
+*Jump to [about dashboard management tables](dashboard.md#about-dashboard-management-tables) or how to [view or change the company account information](dashboard.md#view-or-change-the-company-account-information)*
+
 The main pane shows the relevant content for the function you have selected in the navigation pane. For the dashboard, this includes an overview of the company, featuring the last event detected, total events detected, account alerts, and a table of all your devices.
 -	Select the **View event** link in the Last Event Detected box to see details on the event. This will open a new pane with the incident information. See the [Incident Logs page](incident-logs.md) for more information.
 -	Select the **View all** link in the Events Detected box to see the full log of events. This will open the Incident Logs pane. See the [Incident Logs page](incident-logs.md) for more information.
