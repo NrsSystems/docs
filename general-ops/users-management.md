@@ -4,7 +4,7 @@ abstract: The Users management pane allows an administrator to add, edit, or del
 ---
 *Jump to how to [add](users-management.md#add-a-user), [edit](users-management.md#edit-a-user), or [delete](users-management.md#delete-a-user) a user.*
 
-The main user pane shows the table of users, listing each account by name, whether the account has administrator rights, and whether each is active or inactive. Next to each name is a blue plus (**+**) icon; select this icon to reveal the management options for that account. When expanded, the icon changes to a red minus (**-**) icon; selecting this icon again will hide the management options.
+The Users table lists each account by name, whether the account has administrator rights, and whether each is active or inactive. Next to each name is a blue plus (**+**) icon; select this icon to reveal the management options for that account. When expanded, the icon changes to a red minus (**-**) icon; selecting this icon again will hide the management options.
 
 The Admin column indicates whether or not the user has been granted the account administrator role—a green checkmark indicates the account is an administrator, a red X indicates the account is a regular non-admin user. By default, new users do not have the administrator role. The company administrator can grant other users this role through this pane, as described later in this section under [Edit a user](users-management.md#edit-a-user). 
 
@@ -14,10 +14,10 @@ The Active column indicates whether or not the user is active. When an administr
 To add a user, select **Add User** at the upper right of the main pane. Enter their email address and then select **Send Invitation**. The system will send them an email to that address. The user will have to select the provided link in the email to join the service. Once they join, they will have access to the service and can create, edit, and delete content. Select **Cancel** to go back to the Users management pane without adding a user.
 
 ## Edit a user
-To edit a user, select the blue plus icon next to the user’s name and then select the **Edit** icon. This will open a separate pane allowing the administrator to edit the first name, last name, and email address of the user. Additionally, the administrator can select the check box next to **Account Administrator** to grant that user the administrator role. (Or, if it is already checked, select it again to remove that role.) Once changes are made, select **Submit** to accept the changes. Select Cancel to go back to the Users management pane without saving any changes.
+To edit a user, select the blue plus icon next to the user’s name in the Users table and then select the **Edit** icon. This will open a separate pane allowing the administrator to edit the first name, last name, and email address of the user. Additionally, the administrator can select the check box next to **Account Administrator** to grant that user the administrator role. (Or, if it is already checked, select it again to remove that role.) Once changes are made, select **Submit** to accept the changes. Select Cancel to go back to the Users management pane without saving any changes.
 
 ## Delete a user
-To delete a user, select the blue plus icon next to the user’s name and then select the **Delete** icon. This will open a separate pane asking the administrator to confirm user deletion. Select **Delete User** to delete the user. Select **Cancel** to go back to the Users management pane without deleting the user.
+To delete a user, select the blue plus icon next to the user’s name in the Users table and then select the **Delete** icon. This will open a separate pane asking the administrator to confirm user deletion. Select **Delete User** to delete the user. Select **Cancel** to go back to the Users management pane without deleting the user.
 
 ___
 *Return to the [XSPONSE Service Guide index](index.md)*
