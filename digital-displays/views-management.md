@@ -11,7 +11,7 @@ Some view types, such as the countdown timer, allow you to play sounds in connec
 The views table shows the views by description (name), and each view’s type (such as image or website). For content such as websites, images, and PDF files, selecting the link in the Description column of the views table will open a separate browser tab with the contents of the view. Some of the built-in app view types, such as the countdown timer, cannot be viewed in a browser, so the link will not work.
 
 ## Add a view
-To add a view, select **Create View** at the top right of the page. This will open the View Library page showing all the available view types. Select the **Sort By** menu in the upper right of the pane to list the views alphabetically, by most recent, or by most popular.
+To add a view, select **Create View** at the top right of the page. This will open the View Library page showing all the available view types. Select the **Sort By** menu in the upper right of the pane to list the views alphabetically, by newest (most recently added), or by most popular.
 
 Select the view you want to create to continue. Each view type has its own settings that need to be supplied to create the view, as detailed later in this section. Once the settings have been entered, select **Submit** to create the new view. Or to go back to the Views management page without creating a new view, click the **Views** link in the upper right of this page or in the navigation pane.
 
