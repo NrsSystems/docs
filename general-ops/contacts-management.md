@@ -6,16 +6,16 @@ Related: [Action Plans](action-plans.md) \| [About the VapeDetect system](../vap
 
 *Jump to how to [add](contacts-management.md#add-a-contact), [edit](contacts-management.md#edit-a-contact), or [delete](contacts-management.md#delete-a-contact) contacts.*
 
-The contacts management table shows the contacts by name, along with their email address and phone number.
+The Contacts table shows the contacts by name, along with their email address and phone number.
 
 ## Add a contact
 To add a contact, select **Create Contact** at the top right of the pane. This will open a separate pane allowing you to provide the name, email address, and phone number for the contact. (Note: the Tags field functionality is not currently implemented, and will be added in a future update.) Select **Submit** to save the new contact. Select the **Contacts** link in the upper right of the page (or in the navigation pane) to go back to the Contacts management pane without saving the contact.
 
 ## Edit a contact
-To edit a contact, select the **Edit** icon in the contacts table. This will open a separate pane allowing you to change the contact information. Once changes are made, select **Submit** to accept the changes. Select the **Contacts** link in the upper right of the page (or in the navigation pane) to go back to the Contacts management pane without saving the contact.
+To edit a contact, select the **Edit** icon in the Contacts table. This will open a separate pane allowing you to change the contact information. Once changes are made, select **Submit** to accept the changes. Select the **Contacts** link in the upper right of the page (or in the navigation pane) to go back to the Contacts management pane without saving the contact.
 
 ## Delete a contact
-To delete a contact, select the **Delete** icon in the contacts table. This will open a separate pane asking you to confirm contact deletion. Select **Delete** to delete the contact. Select **Cancel** to go back to the Contacts management pane without deleting the sound.
+To delete a contact, select the **Delete** icon in the Contacts table. This will open a separate pane asking you to confirm contact deletion. Select **Delete** to delete the contact. Select **Cancel** to go back to the Contacts management pane without deleting the sound.
 
 ___
 *Return to the [XSPONSE Service Guide index](index.md)*  
