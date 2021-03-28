@@ -4,7 +4,7 @@ abstract: The Incident Logs management pane allows you to view all recorded inci
 ---
 Related: [Action Plans](action-plans.md) \| [About the VapeDetect system](../vape-detect/about-vapedetect.md) \| [VapeDetect Management](../vape-detect/vapedetect-management.md)
 
-Each time a VapeDetect sensor detects an event and triggers an action plan, the information is recorded in the incident logs. The incident logs table shows the incidents by the device that was triggered, along with the time the event occurred, whether the action plan is active or not, and the type of incident. 
+Each time a VapeDetect sensor detects an event and triggers an action plan, the information is recorded in the incident logs. The Incident Logs table shows the incidents by the device that was triggered, along with the time the event occurred, whether the action plan is active or not, and the type of incident. 
 
 To view the details of an incident, select the **Information** button in the row for that incident. This will open a separate pane with the incident report. The information includes the source device, which action plan was triggered, whether the action plan is currently active, the trigger context, and a table of the actions taken and the current status of each.
 
