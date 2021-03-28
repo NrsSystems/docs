@@ -6,20 +6,20 @@ Related: [Incident Logs](incident-logs.md) \| [Contacts Management](contacts-man
 
 *Jump to how to [add](action-plans.md#create-an-action-plan), [edit](action-plans.md#edit-an-action-plan), or [delete](action-plans.md#delete-an-action-plan) action plans.*
 
-The action plans table shows the action plans by description (name), along with whether the plan is an alert or an alarm, the number of actions set to happen when the action plan is triggered, and the number of actions set to happen when the action plan is cleared. There are two basic types of actions, those that happen automatically when an action plan is triggered (**On Activate**), and those that happen when a user acknowledges the activated action plan by marking it clear (**On Clear**). An action plan listed as "Alert" only has On Activate actions, while a plan listed as "Alarm" has both On Activate and On Clear actions. 
+The Action Plans table shows the action plans by description (name), along with whether the plan is an alert or an alarm, the number of actions set to happen when the plan is triggered, and the number of actions set to happen when the plan is cleared. There are two basic types of actions, those that happen automatically when an action plan is triggered (**On Activate**), and those that happen when a user acknowledges the activated action plan by marking it clear (**On Clear**). An action plan listed as "Alert" only has On Activate actions, while a plan listed as "Alarm" has both On Activate and On Clear actions. 
 
 Each time an XSPONSE sensor detects an event and triggers an action plan, the information is recorded in the incident logs. The Incident Logs management pane allows you to view all recorded incidents from all your devices. Select the **Incident Logs** button above the Action Plans table to go to the Incident Logs management pane and view the incidents. See the [Incident Logs page](incident-logs.md) for more information about the incident logs and the Incident Logs management pane.
 
 ## Create an action plan
 To add an action plan, select **Create Action Plan** at the top right of the pane. This will open a separate pane allowing you to enter a description (name) for the plan and whether to keep the plan active until cleared. Select **Create** to create the new plan. Or to go back to the Action Plans management pane without creating a new action plan, select the **Action Plans** link in the upper right of this pane or in the navigation pane. 
 
-Once you create an action plan, the pane will reload and display the Actions pane, which allows you to set what actions should happen when a plan is triggered. Each plan can have multiple actions, and each action has its own settings that need to be defined. No actions are added by default, and if you are not ready to add any at this point, you again have the option to select the **Action Plans** link in the upper right (or in the navigation pane) to return to the Action Plans management pane. Your new action plan will appear in the table, and you can add actions to the plan later by selecting the **Edit** icon for that plan in the table. 
+Once you create an action plan, the pane will reload and display the Actions pane, which allows you to set what actions should happen when a plan is triggered. Each plan can have multiple actions, and each action has its own settings that need to be defined. No actions are added by default, and if you are not ready to add any at this point, you again have the option to select the **Action Plans** link in the upper right (or in the navigation pane) to return to the Action Plans management pane. Your new action plan will appear in the table, and you can add actions to the plan later by selecting the **Edit** icon for that plan in the Action Plans table. 
 
 If you are ready to begin setting up the action plan, select **Add Action** in the Actions pane. Creating an action happens automatically in steps. 
 
 1. First, provide a name (description) of the action.
 2. Next, select an action from the menu: **send email**, **send SMS**, **call third-party API**, **update Digital Display**, **clear active Digital Displays**, **control relay**, or **control Vape Detect relay**. Each action can be assigned to happen during a particular time period—an active window—or by default to no active window.
-3. Each of these actions has its own settings to fill out in a third and possibly fourth step, as described further along in this section. Once the settings for that action have been added, select **Submit** to create the new action. Or to go back to the Update _\[action plan\]_ pane without saving any changes, select the **Actions** link in the upper right.
+3. Each of these actions has its own settings to fill out in a third and possibly fourth step, as described further along on this page. Once the settings for that action have been added, select **Submit** to create the new action. Or to go back to the Update _\[action plan\]_ pane without saving any changes, select the **Actions** link in the upper right.
 4. Once you have added all the actions you want in the action plan for now, select the **Action Plans** link in the upper right (or in the navigation pane) to go back to the Action Plans management pane.
 
 The settings for the different actions are as follows:
@@ -62,7 +62,7 @@ _Background Color_ and _Text Color:_ You may choose both the background color an
 _Header Text_ and _Body Text:_ You must provide some content in both the header text and body text fields to create this action.
 
 ### Clear active Displays
-This action works in conjunction with the XSPONSE Digital Display device. If you have an XSPONSE Digital Display associated with your account, you can use this action to clear the views (content) being displayed on all Digital Displays active at the time the action is triggered. This action has no settings of its own.
+This action works in conjunction with the XSPONSE Digital Display device. If you have an XSPONSE Digital Display associated with your account, you can use this action to clear the views (content) being displayed on all Digital Displays active at the time the action is triggered. This action has no settings of its own. See the [Digital Displays section](../digital-displays/about-digital-displays.md) for more information.
 
 ### Control relay
 _Device:_ Select a device from the list.
@@ -85,15 +85,15 @@ _Delay State Change (ms):_ Select the number of milliseconds the state change sh
 _Hold State (ms):_ Select the number of milliseconds the state should remain in its new setting before reverting back to the previous state. This option only appears if the **Temporary State Change** check box is selected.
 
 ## Edit an action plan
-To edit an action plan, select the **Edit** icon in the action plans table. This will open a separate page allowing you to update the action plan. 
+To edit an action plan, select the **Edit** icon in the Action Plans table. This will open a separate pane allowing you to update the action plan. 
 -	Select **Add Action** in the Actions pane to add a new action, as described previously. 
--	Select an **Edit** icon in the actions table to change the settings for that action, as described previously. 
--	Select a **Delete** icon in the actions table to remove that action from the plan. This will open a separate pane asking you to confirm the action deletion. Select **Delete** to delete the action or select **Cancel** to go back to the Update _\[action plan\]_ page without deleting the action.
+-	Select an **Edit** icon in the Actions table to change the settings for that action, as described previously. 
+-	Select a **Delete** icon in the Actions table to remove that action from the plan. This will open a separate pane asking you to confirm the action deletion. Select **Delete** to delete the action or select **Cancel** to go back to the Update _\[action plan\]_ page without deleting the action.
 
 If you change the description of the action plan or change the **Keep active until cleared** check box, you must select **Save** in the upper panel to confirm the changes. Changes in the Actions pane—adding, editing, or deleting actions for the plan—are saved as you complete them, and do not require you to click Save in the upper panel. Once all changes are made, select the **Action Plans** link in the upper right (or in the navigation pane) to go back to the Action Plans management pane.
 
 ## Delete an action plan
-To delete an action plan, select the **Delete** icon in the action plans table. This will open a separate page asking you to confirm the action plan deletion. Select **Delete** to delete the action plan. Select **Cancel** to go back to the Action Plans management pane without deleting the action plan.
+To delete an action plan, select the **Delete** icon in the Action Plans table. This will open a separate pane asking you to confirm the action plan deletion. Select **Delete** to delete the action plan. Select **Cancel** to go back to the Action Plans management pane without deleting the action plan.
 
 ___
 *Return to the [XSPONSE Service Guide index](index.md)*  
