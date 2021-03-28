@@ -47,11 +47,11 @@ Once the device is mounted to the ducting, it needs to be connected to a POE-ena
 
 When the sensors have stabilized and the device is ready to connect to the service, the LED will turn orange or white. Orange indicates that the device has contacted our service but it is not associated with an account. Please go to our website and associate the device with your account.  White indicates that the device has established communications with our service and is sending data successfully.
 
-See the [VapeDetect section](vapedetect-management.md) for more information on associating your sensor devices with your account and managing them. 
+See the [VapeDetect Management page](vapedetect-management.md) for more information on associating your sensor devices with your account and managing them. 
 
-For more information about the LED indicators and troubleshooting device communication problems, see the [Service Communication section](sensor-device-communication.md).
+For more information about the LED indicators and troubleshooting device communication problems, see the [Service Communication page](sensor-device-communication.md).
 
-See the [Getting Started section](../general-ops/account-setup.md) for more information on setting up your XSPONSE account.
+See the [Getting Started page](../general-ops/account-setup.md) for more information on setting up your XSPONSE account.
 
 ___
 *Return to the [VapeDetect index](index.md)*
