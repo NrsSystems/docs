@@ -14,5 +14,6 @@ Connect the device to the Internet using a Cat 5 (Ethernet) cable. Then connect 
 ![display setup diagram](display-setup-diagram.png)
 
 See the [Displays Management page](displays-management.md) for how to associate your display device with the XSPONSE service.
+
 ___
 *Return to the [Digital Displays index](index.md)*
