@@ -6,7 +6,11 @@ Related: [Action Plans](action-plans.md) \| [About the VapeDetect system](../vap
 
 Each time a VapeDetect sensor detects an event and triggers an action plan, the information is recorded in the incident logs. The Incident Logs table shows the incidents by the device that was triggered, along with the time the event occurred, whether the action plan is active or not, and the type of incident. 
 
+![incident logs pane](incident_logs.png)
+
 To view the details of an incident, select the **Information** button in the row for that incident. This will open a separate pane with the incident report. The information includes the source device, which action plan was triggered, whether the action plan is currently active, the trigger context, and a table of the actions taken and the current status of each.
+
+![example incident](incident_example.png)
 
 Select the **Device Attributes** link under the Trigger Context heading to see a floating box with the device attributes. Select the main window outside the box to dismiss it and return to the incident report. 
 
