@@ -6,6 +6,8 @@ abstract: The Playlists management pane allows a user to add, edit, copy, or del
 
 Playlists allow you to choose multiple views to show in a particular order and duration on a display. See the [Views Management page](views-management.md) for more information. Schedules can use playlists to show those views on one or more display on a weekly basis or for special one-time events. See the [Schedules Management page](schedules-management.md) for more information. 
 
+![playlists management pane](playlists_management.png)
+
 The Playlists table shows the playlists by description (name), along with the number of views used in the playlist.
 
 ## Add a playlist
@@ -25,6 +27,8 @@ _Sort:_ The icon in the Sort column allows you to drag and drop rows so you can 
 _Disabled:_ Select the **check box** in the Disabled column to prevent that content from appearing in the playlist—use this setting if you want to temporarily turn content off rather than deleting it and then adding it back later. 
 
 _Remove:_ Select the icon in the Remove column to delete a row. This will open a new pane asking you to confirm the deletion of the row. Deleting a row permanently deletes the content from the playlist. 
+
+![playlist creation and edit pane](playlist_edit.png)
 
 ## Edit a playlist
 To edit a playlist, select the **Edit** icon in the Playlists table. This will open a separate pane allowing you to edit the contents of the playlist. Once changes are made, select **Submit** to accept the changes. Select **Cancel** to go back to the Playlists management pane without saving any changes.
