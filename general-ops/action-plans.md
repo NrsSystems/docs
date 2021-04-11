@@ -6,9 +6,9 @@ Related: [Incident Logs](incident-logs.md) \| [Contacts Management](contacts-man
 
 *Jump to how to [add](action-plans.md#create-an-action-plan), [edit](action-plans.md#edit-an-action-plan), or [delete](action-plans.md#delete-an-action-plan) action plans.*
 
-![action plans management pane](action_plans_management.png)
-
 The Action Plans table shows the action plans by description (name), along with whether the plan is an alert or an alarm, the number of actions set to happen when the plan is triggered, and the number of actions set to happen when the plan is cleared. There are two basic types of actions, those that happen automatically when an action plan is triggered (**On Activate**), and those that happen when a user acknowledges the activated action plan by marking it clear (**On Clear**). An action plan listed as "Alert" only has On Activate actions, while a plan listed as "Alarm" has both On Activate and On Clear actions. 
+
+![action plans management pane](action_plans_management.png)
 
 Each time an XSPONSE sensor detects an event and triggers an action plan, the information is recorded in the incident logs. The Incident Logs management pane allows you to view all recorded incidents from all your devices. Select the **Incident Logs** button above the Action Plans table to go to the Incident Logs management pane and view the incidents. See the [Incident Logs page](incident-logs.md) for more information about the incident logs and the Incident Logs management pane.
 
