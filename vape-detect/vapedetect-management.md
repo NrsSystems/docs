@@ -26,8 +26,6 @@ Once you have set these options, select **Submit** to accept the settings. To go
 ## Change a sensor’s settings
 To change the settings for a sensor, select the **Adjust** icon in the VapeDetect table. This will open a separate pane allowing you to set whether the device is active and what action plan to follow when its trigger activates. Select **Active** to toggle the device between active and inactive. Select the **Action Plan** menu to choose a plan from those available. (See the [Action Plans page](../general-ops/action-plans.md) for more information.) Once changes are made, select **Save** to accept the changes. Select **Cancel** to go back to the VapeDetect management pane without saving any changes.
 
-![manage sensor triggers](vapedetect_manage_triggers.png)
-
 ## Edit a sensor’s information
 To edit the information for a sensor, select the **Edit** icon in the VapeDetect table. This will open a separate pane allowing you to edit the device description and attributes. Once changes are made, select **Submit** to accept the changes. Select **Cancel** to go back to the VapeDetect management pane without saving any changes.
 
