@@ -9,6 +9,8 @@ The main pane shows the relevant content for the function you have selected in t
 -	Select the **View all** link in the Events Detected box to see the full log of events. This will open the Incident Logs pane. See the [Incident Logs page](incident-logs.md) for more information.
 -	Select the **View all** link in the Account Alerts box to see details on the account alerts. The account alerts notify you when one of your associated devices is disconnected.
 
+![dashboard pane](dashboard.png)
+
 The events are produced as part of the action plans feature, which works in conjunction with certain XSPONSE devices that can be set to send an instant alert to the XSPONSE server under certain conditions. For example, an environmental sensor could be set to react when temperature, humidity, or particles in the air reach certain thresholds. A button in an industrial lab could be set when pressed to send emergency notice of a chemical spill. Or a vapor sensor in a school washroom could send an alert when vaping is detected. In each case, the instant alert feature can trigger an action plan to perform various functions, such as sending email or text messages to the appropriate authorities and showing emergency notifications on displays. This part of the dashboard’s main pane will only show content if you have the relevant XSPONSE devices set up and associated with your account, and can be ignored otherwise.
 
 ## About dashboard management tables
