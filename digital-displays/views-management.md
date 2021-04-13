@@ -26,10 +26,37 @@ The settings for the different view types are as follows:
 ### Analog Clock
 _Description:_ Add a simple text description of the analog clock, which is how it will be listed in the Views table.
 
-_Animation Speed:_ Select the speed for the animation of the seconds hand on the clock—the slow setting will make it tick forward each second, while the fast setting will make it move smoothly and continuously forward. 
+_Time Zone:_ By default, this option is set to use the device's default time zone; select **Choose a time zone** to choose a different one from the list. Also by default, the _Display timezone?_ option is set to **No**; select this list to change it to **Yes**.
+
+_Choose a Date Format:_ By default, this option is set to **Don't display date**; select this list to choose a format if you want to display the date.
+
+_Animation Speed:_ Select the speed for the animation of the seconds hand on the clock—the **Slow** setting will make it tick forward each second, while the **Fast** setting will make it move smoothly and continuously forward. 
+
+_Write Text to Display a Caption (optional):_ Enter text in this box if you want to provide a caption with the clock.
+
+### Art Drive Gallery
+The Art Drive gallery allows you to choose images from your own Art Drive account to show on a display, automatically cycling through the chosen pieces. 
+
+_Description:_ Add a simple text description of the gallery, which is how it will be listed in the Views table.
+
+_Art Drive Account:_ Enter your Art Drive account.
+
+_Gallery:_ Select the gallery from your Art Drive account to use as the source for images.
+
+_Display Order:_ Select whether to show your images in a **Random** order, **Oldest to Newest**, or **Newest to Oldest**.
+
+_Number of Images to Show:_ Enter the number of images to be shown.
+
+_Time to Display Each Image:_ Select this box to set the duration in hours, minutes, and seconds.
+
+For the remaining options, select **Expand** to show the options, and when expanded select **Collapse** to hide them again.
+
+_Text Display:_ This option allows you to display any text associated with the images. Select the _Display Type_ list to choose from **Fade Out**, **Always Show Text**, or **No Text**. If Fade Out is selected, use the _Time to Display Text_ box to set the duration in hours, minutes, and seconds. 
+
+_QR Code Display:_ This optoin allows you to display the QR codes associated with the images. Select the **Display QR Code** list to choose from **Fade Out**, **Always Show Text**, or **No Text**. If Fade Out is selected, use the **Time to Display QR Code** box to set the duration in hours, minutes, and seconds. 
 
 ### Art Gallery
-The art gallery allows you to choose images from a preset collection of artworks to show on a display, automatically cycling through the chosen pieces.
+The art gallery allows you to choose images from a preset collection of artworks included with the XSPONSE service to show on a display, automatically cycling through the chosen pieces.
 
 _Description:_ Add a simple text description of the gallery, which is how it will be listed in the Views table.
 
@@ -42,17 +69,19 @@ _Display Artist Name and Art Title:_ By default, this option is set to **No**. S
 The lower section of options allows you to search through the provided collection of artworks. To view the entire collection, select **Search** without filling in any options. To add an image to the gallery, select the image in the search results; thumbnails of these images will then appear within the options section. To remove an image from the gallery, select the image in the options section. 
 
 ### Countdown
+The countdown timer measures the time remaining in hours, minutes, and seconds, with a maximum setting of 23:59:59. See the following [Generic Countdown Timer](views-management.md#generic-countdown-timer) for periods longer than 24 hours.
+
 The countdown timer allows you to play one or more sounds and messages as the timer reaches specific points in the countdown. This could be used for example to pace an hour-long test by playing one sound every 15 minutes, a second sound as a five-minute warning before the hour is up, and a third sound to mark the end of the hour (and countdown).
 
 _Description:_ Add a simple text description of the timer, which is how it will be listed in the Views table.
 
-_Duration:_ Set the overall duration for the timer.
+_Duration:_ Set the overall duration for the timer in hours, minutes, and seconds.
 
 _Text to Speech:_ Add a simple text message that will be read aloud by the text-to-speech feature and a time point when that message should be heard. Select **+ row** to add the first message and select it again to add more messages to be read aloud at additional time points. Select the **Delete** icon at the end of the row or select **– Last row** to remove an entry.
 
 _Message:_ Add a simple text message to show on the device and a time point when that message should appear. Select **+ row** to add the first message and select it again to add more messages to be shown at additional time points. Select the **Delete** icon at the end of the row or select **– Last row** to remove an entry.
 
-_Sound:_ Select a sound from the list to play and a time point when that sound should play. Select **+ row** to add the first sound and select it again to add more sounds to be read aloud at additional time points. Select the **Delete** icon at the end of the row or select **– Last row** to remove an entry.
+_Sounds:_ Select a sound from the list to play and a time point when that sound should play. Select **+ row** to add the first sound and select it again to add more sounds to be read aloud at additional time points. Select the **Delete** icon at the end of the row or select **– Last row** to remove an entry.
 
 ### “Days Since” Poster
 _Description:_ Add a simple text description of the poster, which is how it will be listed in the Views table.
@@ -67,6 +96,40 @@ _Description:_ Add a simple text description of the digital clock, which is how 
 _Background Color_ and _Text Color:_ Select each box to choose a color from the palette for the two elements of the clock. By default both colors are set to black; you will need to select and change at least one color so the time is visible.
 
 _Google Font:_ Select this list to choose the font for the display. 
+
+### Generic Countdown Timer
+The generic countdown timer allows you to count down to a specific date as well as time, and creates a stylized webpage to show the countdown. Various text display options allow you to customize the countdown information to be shown.
+
+_Description:_ Add a simple text description of the timer, which is how it will be listed in the Views table.
+
+_End Date:_ Select or type the date for the timer to finish.
+
+_End Time:_ Select or type the time of day for the timer to finish.
+
+_Background Source:_ Select an image or video to display in the background of the timer.
+
+The remaining options are set to **No** or **None** by default. To view and change the options, select **Expand** next to the option you want; when expanded, select **Collapse** to hide the option again.
+
+_Background After Timer Completes:_ This option lets you select a different image or video to display in the background after the timer completes.
+
+_Title Display, Body Display, Sub Body Display:_ Select **Text** to enter text to be shown and to select the font size and type for the text. Select **Image** to choose from the list of available images.
+
+_Day Display, Hour Display, Minute Display, Second Display:_ These options let you display and specify the singular and plural forms of words to go with the countdown. You can use these options to customize the display text to a particular language or multiple languages. Alternately, select **Image** to choose from the list of available images.
+
+### Google Photos Album
+The Google Photos Album allows you to choose images from your own Google Photos account to show on a display, automatically cycling through the chosen pieces. 
+
+_Description:_ Add a simple text description of the gallery, which is how it will be listed in the Views table.
+
+_Google Photos Account:_ Enter your Google Photos account.
+
+_Album:_ Select the album from your Google Photos account to use as the source for images.
+
+_Display Order:_ Select the order to show your images: **Random**, **In Order** (as per the album), **Reverse Order**, **Oldest to Newest**, or **Newest to Oldest**.
+
+_Time to Display Each Image:_ Select this box to set the duration in hours, minutes, and seconds.
+
+_Number of Images to Show:_ Enter the number of images to be shown.
 
 ### Image 
 _Description:_ Add a simple text description of the image, which is how it will be listed in the Views table.
@@ -101,6 +164,27 @@ _Scroll Start Delay:_ Set the number of seconds you want the view to pause befor
 
 _Wait At Bottom:_ Set the number of seconds you want the view to pause when the PDF has scrolled completely to the end.
 
+### QR Code
+The QR code view allows you to generate a QR code to show on a display, for various purposes: to open a webpage, send an SMS, send an email, add a vCard, or connect to a WiFi network.
+
+_Description:_ Add a simple text description of the QR code, which is how it will be listed in the Views table.
+
+_Choose the QR Code Content:_ Select this list to choose from the following content types and their options:
+
+> _URL:_ Enter the website URL in the box.
+> 
+> _SMS:_ Enter the recipient's number and a text message to send.
+> 
+> _Email:_ Enter the recipient's email address, a subject, and a text message.
+> 
+> _vCard:_ Enter the first name, last name, position or profession, email address, and website URL to be included in the vCard.
+> 
+> _WiFi:_ Enter the network name, the encryption type in use, and the network password if necessary.
+
+_QR Designs:_ Following the content section, the QR Designs section lets you choose options for the appearance of the QR Code page. By default _Page Background_ is set to **Solid Color** and you can select **Choose Background Color** to change it with the color picker. Alternately, select **Page Background** to change it to **User Content**, which then shows the _User Content_ list to choose from the available images or videos for a background. In either case, you can also choose what kind of frame to use for the code, the overall color for the code itself (from a limited list of black, purple, red, blue, or green), and whether or not to display your logo on the QR code.
+
+_Enter a title text_ and _Enter a body text:_ Enter the text you wish to show on the page with the QR code.
+
 ### Quotes
 _Description:_ Add a simple text description of the file, which is how it will be listed in the Views table.
 
@@ -110,7 +194,7 @@ _Time to display each quote:_ Select this box to set the duration in hours, minu
 
 _Background Images:_ Select an image to use for the background.
 
-_Quote Search:_ Use this section to find and select the quotes you want to include in this view.
+_Quote Search:_ Use the _Author, Category, Sub Category,_ and _Tags_ filters in this section to find the quotes you want to include in the view. Once you have set the filters, select **Search Quotes**. Any available results will appear in the _Unselected_ box. Select a quote in this box and select **Add** to add it to the _Quotes to Display_ box. To remove a quote from the display group, select the quote in the _Quotes to Display_ box and select **Remove**.
 
 ### Safety Posters
 The safety posters view allows you to choose posters from a preset collection to show on a display, automatically cycling through the chosen posters.
@@ -123,10 +207,26 @@ _Number of Selected Images to Display:_ Enter the number of images to be shown.
 
 The lower section of options allows you to search through the provided collection of posters. To view the entire collection, select **Search** without filling in any options. You can add keywords to the _Image Search: Keywords_ box to filter search results, and also use the _Image Orientation_ option to filter results to either portrait or landscape. To add a poster to the set for the view, select the poster in the search results; thumbnails of these posters will then appear within the options section. To remove a poster from the set for the view, select the poster in the options section. 
 
+### Simple List
+The simple list view lets you create a basic list of items to display.
+
+_Description:_ Add a simple text description of the list, which is how it will be listed in the Views table.
+
+_Title:_ Add a simple text description of the list to be shown on the display. 
+
+_Background color, Card color,_ and _Text color:_ Select each box to choose a color from the palette for the item. _Card color_ allows you to put a card-like frame around the list itself. 
+
+_List:_ Select **+Row** to add an item to the list, by entering text in the text box that appears. Note that by default the list has no rows; you must add at least one row for the list to display anything. Select **+Row** again to add more items; select **-Last row** to remove the item currently at the end of the list; or select the **Delete** icon at the end of a row to remove that item from the list while keeping any rows before and after it.
+
 ### Tasks
 _Description:_ Add a simple text description of the task, which is how it will be listed in the Views table.
 
 _Task:_ Select the arrow to expand the list of available tasks.
+
+### Task Manager
+_Description:_ Add a simple text description of the task manager, which is how it will be listed in the Views table.
+
+_Title:_ Add a simple text description of the task manager to be shown on the display. 
 
 ### VapeDetect Dashboard
 _Description:_ Add a simple text description of the VapeDetect dashboard, which is how it will be listed in the Views table. For example, this could indicate the location of the device, such as “second floor bathroom”.
