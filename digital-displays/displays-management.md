@@ -7,6 +7,7 @@ abstract: The Displays management pane allows a user to add, edit, restart, or d
 The Displays table shows the display names/descriptions, the version of code each is running, and when the service last received a signal from each display (“last seen”). 
 
 ![displays management pane](displays_management.png)
+_To view larger: on a computer, right-click and select "open in new tab"; on a mobile touchscreen, use the zoom gesture._
 
 When a display device starts, it checks the XSPONSE system to see whether it is associated with an account. If the display is not associated with an account, it will show a blue screen with the website address for activation (v2.nrsmercury.com) and an activation code. Entering that code into the Link a Display page accessed through the Displays management pane (as described next) will associate the display with your account. Once the display is associated with your account, you can set it to show a specific view, run a playlist, or run a schedule. See the [Views Management page](views-management.md), [Playlists Management page](playlists-management.md), and [Schedules Management page](schedules-management.md) for more information.
 
