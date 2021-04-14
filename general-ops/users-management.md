@@ -7,6 +7,7 @@ abstract: The Users management pane allows an administrator to add, edit, or del
 The Users table lists each account by name, whether the account has administrator rights, and whether each is active or inactive. Next to each name is a blue plus (**+**) icon; select this icon to reveal the management options for that account. When expanded, the icon changes to a red minus (**-**) icon; selecting this icon again will hide the management options.
 
 ![users management pane](users_management.png)
+_To view larger: on a computer, right-click and select "open in new tab"; on a mobile touchscreen, use the zoom gesture._
 
 The Admin column indicates whether or not the user has been granted the account administrator role—a green checkmark indicates the account is an administrator, a red X indicates the account is a regular non-admin user. By default, new users do not have the administrator role. The company administrator can grant other users this role through this pane, as described later in this section under [Edit a user](users-management.md#edit-a-user). 
 
