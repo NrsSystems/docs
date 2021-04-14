@@ -9,6 +9,7 @@ A view is the content to be shown on a display—such as a website, image, PDF f
 Some view types, such as the countdown timer, allow you to play sounds in connection with the view. See the [Sounds Management page](sounds-management.md) for more information on adding, editing, and deleting sounds.
 
 ![views management pane](views_management.png)
+_To view larger: on a computer, right-click and select "open in new tab"; on a mobile touchscreen, use the zoom gesture._
 
 The Views table shows the views by description (name), and each view’s type (such as image or website). For content such as websites, images, and PDF files, selecting the link in the Description column of the Views table will open a separate browser tab with the contents of the view. Some of the built-in app view types, such as the countdown timer, cannot be viewed in a browser, so the link will not work.
 
@@ -16,6 +17,7 @@ The Views table shows the views by description (name), and each view’s type (s
 To add a view, select **Create View** at the top right of the pane. This will open the View Library pane showing all the available view types. Select the **Sort By** menu in the upper right of the pane to list the views alphabetically, by newest (most recently added), or by most popular.
 
 ![view library](view_library.png)
+_To view larger: on a computer, right-click and select "open in new tab"; on a mobile touchscreen, use the zoom gesture._
 
 Select the view you want to create to continue. Each view type has its own settings that need to be supplied to create the view, as detailed later on this page. Once the settings have been entered, select **Submit** to create the new view. Or to go back to the Views management pane without creating a new view, click the **Views** link in the upper right of this pane or in the navigation pane.
 
