@@ -9,6 +9,7 @@ Related: [Incident Logs](incident-logs.md) \| [Contacts Management](contacts-man
 The Action Plans table shows the action plans by description (name), along with whether the plan is an alert or an alarm, the number of actions set to happen when the plan is triggered, and the number of actions set to happen when the plan is cleared. There are two basic types of actions, those that happen automatically when an action plan is triggered (**On Activate**), and those that happen when a user acknowledges the activated action plan by marking it clear (**On Clear**). An action plan listed as "Alert" only has On Activate actions, while a plan listed as "Alarm" has both On Activate and On Clear actions. 
 
 ![action plans management pane](action_plans_management.png)
+_To view larger: on a computer, right-click and select "open in new tab"; on a mobile touchscreen, use the zoom gesture._
 
 Each time an XSPONSE sensor detects an event and triggers an action plan, the information is recorded in the incident logs. The Incident Logs management pane allows you to view all recorded incidents from all your devices. Select the **Incident Logs** button above the Action Plans table to go to the Incident Logs management pane and view the incidents. See the [Incident Logs page](incident-logs.md) for more information about the incident logs and the Incident Logs management pane.
 
@@ -16,10 +17,12 @@ Each time an XSPONSE sensor detects an event and triggers an action plan, the in
 To add an action plan, select **Create Action Plan** at the top right of the pane. This will open a separate pane allowing you to enter a description (name) for the plan and whether to keep the plan active until cleared. Select **Create** to create the new plan. Or to go back to the Action Plans management pane without creating a new action plan, select the **Action Plans** link in the upper right of this pane or in the navigation pane. 
 
 ![create action plan pane](action_plan_create.png)
+_To view larger: on a computer, right-click and select "open in new tab"; on a mobile touchscreen, use the zoom gesture._
 
 Once you create an action plan, the pane will reload and display the Actions pane, which allows you to set what actions should happen when a plan is triggered. Each plan can have multiple actions, and each action has its own settings that need to be defined. No actions are added by default, and if you are not ready to add any at this point, you again have the option to select the **Action Plans** link in the upper right (or in the navigation pane) to return to the Action Plans management pane. Your new action plan will appear in the table, and you can add actions to the plan later by selecting the **Edit** icon for that plan in the Action Plans table. 
 
 ![edit action plan pane](action_plan_edit.png)
+_To view larger: on a computer, right-click and select "open in new tab"; on a mobile touchscreen, use the zoom gesture._
 
 If you are ready to begin setting up the action plan, select **Add Action** in the Actions pane. Creating an action happens automatically in steps. 
 
@@ -53,6 +56,7 @@ You must provide content in all three of these fields to create this action.
 This action works in conjunction with the XSPONSE Digital Display device. If you have an XSPONSE Digital Display associated with your account, you can set it to show a view (content) and optionally play a sound for a length of time you choose. 
 
 ![update digital display example](action_creation_example1.png)
+_To view larger: on a computer, right-click and select "open in new tab"; on a mobile touchscreen, use the zoom gesture._
 
 _Duration:_ Set the overall length of time for the view to be shown.
 
@@ -75,6 +79,7 @@ This action works in conjunction with the XSPONSE Digital Display device. If you
 ### Control Relay
 
 ![control relay example](action_creation_example2.png)
+_To view larger: on a computer, right-click and select "open in new tab"; on a mobile touchscreen, use the zoom gesture._
 
 _Device:_ Select a device from the list.
 
