@@ -9,6 +9,7 @@ Related: [Action Plans](../general-ops/action-plans.md) \| [Incident Logs](../ge
 When a sensor device starts, it checks the XSPONSE system to see whether it is associated with an account. If the sensor is not associated with an account, its LED indicator will be orange. Once the sensor is associated with your account, its LED indicator will turn white. See the [Device Installation Process page](installation-process.md) for more information. (Also see the [Sensor Device Communication page](sensor-device-communication.md) for full details on all the [LED color indicators](sensor-device-communication.md#led-color-indicators).)
 
 ![vapedetect management page](vapedetect_management.png)
+_To view larger: on a computer, right-click and select "open in new tab"; on a mobile touchscreen, use the zoom gesture._
 
 The VapeDetect table shows the sensors by description (name), along with the version of code each device is running. 
 
@@ -16,6 +17,7 @@ The VapeDetect table shows the sensors by description (name), along with the ver
 To add a sensor and associate it with your account, select **Add Device** at the top right of the pane. This will open a separate pane asking you to enter the activation code for the device. Enter the code and select **Submit**. A new pane will open asking you to give the device a description (name), and to set its attributes—by default at least one. 
 
 ![add or edit a sensor](vapedetect_edit.png)
+_To view larger: on a computer, right-click and select "open in new tab"; on a mobile touchscreen, use the zoom gesture._
 
 _Device attributes_ are user-defined variables that allow action plans to provide relevant information about which device is sending an alert. For example, for a large high school with multiple floors and buildings, all sensors could have attributes named _room, floor,_ and _building,_ and unique values for each sensor that would indicate its specific location. An action plan to alert staff when vaping is detected would use those variable names as placeholders in the alert message; this way, many devices can be assigned to the same action plan. When a particular sensor detects vaping and triggers the action plan, its values for those attributes would fill those variables in the action plan’s message, so that the alert message would identify the specific room where the sensor was activated. See the [Action Plans page](../general-ops/action-plans.md) for more information on using device attributes in action plans. 
 
