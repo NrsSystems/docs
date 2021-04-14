@@ -107,8 +107,10 @@
           href: schedules-management#edit-or-delete-a-special-event
 # If possible add a separator here before the links to other documentation sections
 - name: _____
+  href: 
 - name: Go to Service Guide
   href: ../general-ops/index
 - name: _____
+  href: 
 - name: Go to VapeDetect
   href: ../vape-detect/index
