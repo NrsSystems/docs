@@ -7,6 +7,7 @@ abstract: The Account Manager pane is the default landing pane for all users, an
 Once you have an account, log in with your email address as username and the password you set. The Account Manager pane will load, showing you tiles for the organizations associated with your account—by default one, possibly more. 
 
 ![account manager pane](account_manager.png)
+_To view larger: on a computer, right-click and select "open in new tab"; on a mobile touchscreen, use the zoom gesture._
  
 To continue, select **Manage** in the appropriate tile for your company. This will take you to the dashboard for that company. See the [Dashboard page](dashboard.md) for more information about the dashboard and the general interface of the XSPONSE site.
 
