@@ -31,7 +31,7 @@
           href: views-management#days-since-poster
         - name: Digital Clock
           href: views-management#digital-clock
-        - mame: Generic Countdown Timer
+        - name: Generic Countdown Timer
           href: views-management#generic-countdown-timer
         - name: Google Photos Album
           href: views-management#google-photos-album
