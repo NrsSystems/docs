@@ -9,6 +9,7 @@ Related: [Action Plans](action-plans.md) \| [About the VapeDetect system](../vap
 The Contacts table shows the contacts by name, along with their email address and phone number.
 
 ![contacts management pane](contacts_management.png)
+_To view larger: on a computer, right-click and select "open in new tab"; on a mobile touchscreen, use the zoom gesture._
 
 ## Add a contact
 To add a contact, select **Create Contact** at the top right of the pane. This will open a separate pane allowing you to provide the name, email address, and phone number for the contact. (Note: the Tags field functionality is not currently implemented, and will be added in a future update.) Select **Submit** to save the new contact. Select the **Contacts** link in the upper right of the page (or in the navigation pane) to go back to the Contacts management pane without saving the contact.
