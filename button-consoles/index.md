@@ -9,7 +9,7 @@ For general information about the XSPONSE service and website, see the [Service 
 ## [About the Button Consoles system](about-button-consoles.md)
 
 ## [Button Consoles Management](button-consoles-management.md)
-- [Add a button console](button-consoles-management.md#add-a-button)
+- [Add a button console](button-consoles-management.md#add-a-button-console)
 - [Change a button's settings](button-consoles-management.md#change-a-buttons-settings)
 - [Edit a button's information](button-consoles-management.md#edit-a-buttons-information)
 - [Delete a button console](button-consoles-management.md#delete-a-buttoon-console)
