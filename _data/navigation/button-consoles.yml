@@ -1,0 +1,60 @@
+- name: About Button Consoles
+  href: about-button-consoles
+- name: Button Consoles Management
+  href: button-consoles-management
+  items: 
+    - name: Add a button console
+      href: button-consoles-management#add-a-button-console
+    - name: Change a button's settings
+      href: button-consoles-management#change-a-buttons-settings
+    - name: Edit a button's information
+      href: button-consoles-management#edit-a-buttons-information
+    - name: Delete a button console
+      href: button-consoles-management#delete-a-button-console
+# Ideally we'd have a separator here to indicate the following is in the Service Overview section
+- name: Action Plans
+  href: ../general-ops/action-plans
+  items: 
+    - name: Create an action plan
+      href: ../general-ops/action-plans#create-an-action-plan
+      items: 
+        - name: Send email
+          href: ../general-ops/action-plans#send-email
+        - name: Send SMS
+          href: ../general-ops/action-plans#send-sms
+        - name: Call third-party API
+          href: ../general-ops/action-plans#call-third-party-api
+        - name: Update Digital Display
+          href: ../general-ops/action-plans#update-digital-display
+        - name: Clear active Digital Displays
+          href: ../general-ops/action-plans#clear-active-digital-displays
+        - name: Control relay
+          href: ../general-ops/action-plans#control-relay
+        - name: Control VapeDetect Relay
+          href: ../general-ops/action-plans#control-vapedetect-relay
+    - name: Edit an action plan
+      href: ../general-ops/action-plans#edit-an-action-plan
+    - name: Delete an action plan
+      href: ../general-ops/action-plans#delete-an-action-plan
+- name: Incident Logs
+  href: ../general-ops/incident-logs
+- name: Contacts Management
+  href: ../general-ops/contacts-management
+  items: 
+    - name: Add a contact
+      href: ../general-ops/contacts-management#add-a-contact
+    - name: Edit a contact
+      href: ../general-ops/contacts-management#edit-a-contact
+    - name: Delete a contact
+      href: ../general-ops/contacts-management#delete-a-contact
+# If possible add a separator here before the links to other documentation sections
+- content: "_____"
+- name: Go to Service Overview
+  href: ../general-ops/index
+- content: "_____"
+- name: Go to Digital Displays
+  href: ../digital-displays/index
+- content: "_____"
+- name: Go to VapeDetect
+  href: ../vape-detect/index
+  
