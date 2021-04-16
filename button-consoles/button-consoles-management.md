@@ -6,12 +6,14 @@ Related: [Action Plans](../general-ops/action-plans.md) \| [Incident Logs](../ge
 
 *Jump to how to [add](button-consoles-management.md#add-a-button-console), [adjust](button-consoles-management.md#change-a-buttons-settings), [edit](button-consoles-management.md#edit-a-buttons-information), or [delete](button-consoles-management.md#delete-a-button-console) a button console.*
 
-(blurb)
+The button consoles table shows the button consoles by description (name), along with the number of inputs each device has. 
 
 ![button console management page](button_consoles_management.png)
 _To view larger: on a computer, right-click and select "open in new tab"; on a mobile touchscreen, use the zoom gesture._
 
-The button consoles table shows the button consoles by description (name), along with the number of inputs each device has. 
+Each button console has four inputs, and each input can be assigned a single trigger. An input is _active_ when it has an assigned trigger, and _inactive_ if a trigger has not been created for it. An input can be set with a delay so that the input must be closed or activated for a certain number of seconds before it will send a trigger, such as a panic button that must be depressed for 2 seconds or a door sensor that detects when the door has been open for 30 seconds. Once a button input sends a trigger, it activates an action plan, a user-configured set of actions in response to the trigger.
+
+Inputs also can be monitored by the XSPONSE service for connectivity; with this setting, if an input is unplugged or loses connectivity, an alarm will be sent to the administrators.
 
 ## Add a button console
 To add a button console and associate it with your account, select **Add Device** at the top right of the pane. This will open a separate pane asking you to enter the activation code for the device, which can be found on a sticker on the device. Enter the code and select **Submit**. A new pane will open asking you to give the device a description (name), and to set its attributes—by default at least one. 
