@@ -12,7 +12,7 @@ For general information about the XSPONSE service and website, see the [Service 
 - [Add a button console](button-consoles-management.md#add-a-button-console)
 - [Change a button's settings](button-consoles-management.md#change-a-buttons-settings)
 - [Edit a button's information](button-consoles-management.md#edit-a-buttons-information)
-- [Delete a button console](button-consoles-management.md#delete-a-buttoon-console)
+- [Delete a button console](button-consoles-management.md#delete-a-button-console)
 
 ## [Action Plans](../general-ops/action-plans.md)
 - [Create an action plan](../general-ops/action-plans.md#create-an-action-plan)
