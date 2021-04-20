@@ -2,7 +2,11 @@ title: Getting started for Users
 links:
   - name: View and manage alerts
     href: general-ops/incident-logs
-  - name: Manage your Digital Displays
+  - name: About Digital Displays
     href: digital-displays/about-digital-displays
-  - name: Manage your Vape Detect Sensors
+  - name: About VapeDetect Sensors
     href: vape-detect/about-vapedetect
+  - name: About Button Consoles
+    href: button-consoles/about-button-consoles
+  - name: About Relay Consoles
+    href: relay-consoles/about-relay-consoles
