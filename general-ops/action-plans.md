@@ -2,7 +2,7 @@
 title: Action Plans
 abstract: The Action Plans management pane allows a user to add, edit, or delete an action plan, and to view the incident logs. Selecting the Action Plans link in the navigation pane will take you to the Action Plans management pane.
 ---
-Related: [Incident Logs](incident-logs.md) \| [Contacts Management](contacts-management.md) \| [About the VapeDetect system](../vape-detect/about-vapedetect.md) \| [VapeDetect Management](../vape-detect/vapedetect-management.md)
+Related: [Incident Logs](incident-logs.md) \| [Contacts Management](contacts-management.md) \| [About the VapeDetect system](../vape-detect/about-vapedetect.md) \| [VapeDetect Management](../vape-detect/vapedetect-management.md) \| [About Button Consoles](../button-consoles/about-button-consoles.md) \| [Button Consoles Management](../button-consoles/button-consoles-management.md) \| [About Relay Consoles](../relay-consoles/about-relay-consoles.md) \| [Relay Consoles Management](../relay-consoles/relay-consoles-management.md)
 
 *Jump to how to [add](action-plans.md#create-an-action-plan), [edit](action-plans.md#edit-an-action-plan), or [delete](action-plans.md#delete-an-action-plan) action plans.*
 
@@ -114,3 +114,5 @@ To delete an action plan, select the **Delete** icon in the Action Plans table. 
 ___
 *Return to the [XSPONSE Service Guide index](index.md)*  
 *Return to the [VapeDetect index](../vape-detect/index.md)*
+*Return to the [Button Consoles index](../button-consoles/index.md)*
+*Return to the [Relay Consoles index](../relay-consoles/index.md)*
