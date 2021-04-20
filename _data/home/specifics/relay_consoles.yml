@@ -1,0 +1,10 @@
+title: Relay Consoles
+links:
+  - name: Set up your relays with the service
+    href: relay-consoles/relay-consoles-management#add-a-relay-console
+  - name: Manage your relays
+    href: relay-consoles/relay-consoles-management
+  - name: Create action plans for the relay
+    href: general-ops/action-plans
+  - name: More...
+    href: relay-consoles/index
