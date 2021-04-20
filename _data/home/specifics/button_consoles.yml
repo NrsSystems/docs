@@ -1,0 +1,14 @@
+title: Button Consoles
+links:
+  - name: Set up your buttons with the service
+    href: button-consoles/button-consoles-management#add-a-button-console
+  - name: Manage your buttons
+    href: button-consoles/button-consoles-management
+  - name: Monitor alerts from the button
+    href: general-ops/incident-logs
+  - name: Create action plans for the button
+    href: general-ops/action-plans
+  - name: Assign people to respond to alerts
+    href: general-ops/contacts-management
+  - name: More...
+    href: button-consoles/index
