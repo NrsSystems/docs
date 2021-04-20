@@ -18,9 +18,9 @@ The navigation pane also appears throughout the site along the left side, showin
 
 -	Select the **Dashboard** link to go back to the dashboard for your company.
 -	Select the **Displays** link to expand the submenu for Digital Displays options—Sounds, Devices, Views, Playlists, and Schedules—then select one of these links to go to the relevant management page. Selecting Displays a second time will collapse this submenu. See the [Digital Displays section](../digital-displays/about-digital-displays.md) for more information.
--	Select the **Button Consoles** link to go to the Button Consoles management page. _Documentation will be available soon._ 
+-	Select the **Button Consoles** link to go to the Button Consoles management page. See the [Button Consoles Management page](../button-consoles/button-consoles-management.md) and the overall [Button Consoles section](../button-consoles/about-button-consoles.md) for more information. 
 -	Select the **VapeDetect** link to go to the VapeDetect sensor management page. See the [VapeDetect Management page](../vape-detect/vapedetect-management.md) and the overall [VapeDetect section](../vape-detect/about-vapedetect.md) for more information.
--	Select the **Relay Consoles** link to go to the Relay Consoles management page. _Documentation will be available soon._
+-	Select the **Relay Consoles** link to go to the Relay Consoles management page. See the [Relay Consoles Management page](../relay-consoles/relay-consoles-management.md) and the overall [Relay Consoles section](../relay-consoles/about-relay-consoles.md) for more information.
 -	Select the **Action Plans** link to go to the Action Plans management page. See the [Action Plans page](action-plans.md) for more information.
 -	Select the **Contacts** link to go to the Contacts management page. See the [Contacts page](contacts-management.md) for more information.
 -	Select the **Users** link to go to the Users management page. This link will only appear for your company administrator, and other users will not see it. See the [Users page](users-management.md) for more information.
