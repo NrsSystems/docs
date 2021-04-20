@@ -2,14 +2,11 @@
 title: Action Plans
 abstract: The Action Plans management pane allows a user to add, edit, or delete an action plan, and to view the incident logs. Selecting the Action Plans link in the navigation pane will take you to the Action Plans management pane.
 ---
-Related: [Incident Logs](incident-logs.md) \| [Contacts Management](contacts-management.md) \|  
-[About VapeDetect](../vape-detect/about-vapedetect.md) \| [VapeDetect Management](../vape-detect/vapedetect-management.md) \|  
-[About Button Consoles](../button-consoles/about-button-consoles.md) \| [Button Consoles Management](../button-consoles/button-consoles-management.md) \|  
-[About Relay Consoles](../relay-consoles/about-relay-consoles.md) \| [Relay Consoles Management](../relay-consoles/relay-consoles-management.md)
+Related: [Incident Logs](incident-logs.md) \| [Contacts Management](contacts-management.md) \| [About VapeDetect](../vape-detect/about-vapedetect.md) \| [VapeDetect Management](../vape-detect/vapedetect-management.md) \| [About Button Consoles](../button-consoles/about-button-consoles.md) \| [Button Consoles Management](../button-consoles/button-consoles-management.md) \| [About Relay Consoles](../relay-consoles/about-relay-consoles.md) \| [Relay Consoles Management](../relay-consoles/relay-consoles-management.md)
 
 *Jump to how to [add](action-plans.md#create-an-action-plan), [edit](action-plans.md#edit-an-action-plan), or [delete](action-plans.md#delete-an-action-plan) action plans.*
 
-The Action Plans table shows the action plans by description (name), along with whether the plan is an alert or an alarm, the number of actions set to happen when the plan is triggered, and the number of actions set to happen when the plan is cleared. There are two basic types of actions, those that happen automatically when an action plan is triggered (**On Activate**), and those that happen when a user acknowledges the activated action plan by marking it clear (**On Clear**). An action plan listed as "Alert" only has On Activate actions, while a plan listed as "Alarm" has both On Activate and On Clear actions. 
+The Action Plans table shows the action plans by description (name), along with whether the plan is an alert or an alarm, the number of actions set to happen when the plan is triggered, and the number of actions set to happen when the plan is cleared. There are two basic types of actions, those that happen automatically when an action plan is triggered (_On Activate_), and those that happen when a user acknowledges the activated action plan by marking it clear (_On Clear_). An action plan listed as "Alert" only has On Activate actions, while a plan listed as "Alarm" has both On Activate and On Clear actions. 
 
 ![action plans management pane](action_plans_management.png)
 _To view larger: on a computer, right-click and select "open in new tab"; on a mobile touchscreen, use the zoom gesture._
