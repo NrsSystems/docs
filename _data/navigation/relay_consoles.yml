@@ -48,13 +48,11 @@
     - name: Delete a contact
       href: ../general-ops/contacts-management#delete-a-contact
 # If possible add a separator here before the links to other documentation sections
-- content: "_____"
 - name: Go to Service Overview
   href: ../general-ops/index
-- content: "_____"
 - name: Go to Digital Displays
   href: ../digital-displays/index
-- content: "_____"
 - name: Go to VapeDetect
   href: ../vape-detect/index
-  
+- name: Go to Button Consoles
+  href: ../button-consoles/index  
