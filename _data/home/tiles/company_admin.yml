@@ -4,5 +4,9 @@ links:
     href: general-ops/dashboard#view-or-change-the-company-account-information
   - name: Manage users for your company
     href: general-ops/users-management
+  - name: Create and manage action plans
+    href: general-ops/action-plans
+  - name: View and manage alerts
+    href: general-ops/incident-logs
   - name: Assign people to respond to alerts
     href: general-ops/contacts-management
