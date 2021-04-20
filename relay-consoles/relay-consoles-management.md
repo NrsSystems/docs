@@ -24,12 +24,12 @@ _To view larger: on a computer, right-click and select "open in new tab"; on a m
 A new pane will open asking you to give the device a description (name). Once you have set this option, select **Submit** to accept the settings. To go back to the relay consoles management page without linking a device, select **Cancel**.
  
 ## Change a relay’s settings
-To manage the settings for a relay console, select the **Adjust** icon in the relay consoles table. This will open a separate pane allowing you to see the name of the relay, its current state (on or off), the last time the service received a signal from the device ("last seen"), and a field to change the state of the device. 
+To manage the settings for a relay console, select the **Adjust** icon in the relay consoles table. This will open a separate pane allowing you to see the name of the relay, its current state (on or off), the last time the service received a signal from the device ("timestamp"), and a list box to change the state of the device. 
 
 ![adjust relay pane](relay_adjust.png)
 _To view larger: on a computer, right-click and select "open in new tab"; on a mobile touchscreen, use the zoom gesture._
 
-Once you change the state of the relay, select **Update** to accept the changes. Select **Back** to go back to the relay consoles management pane without saving any changes.
+To change the state of a relay, select the box for that relay in the _New State_ column and choose the new state. Once you change the state of the relay, select **Update** to accept the changes. Select **Back** to go back to the relay consoles management pane without saving any changes.
 
 ## Edit a relay’s information
 To edit the information for a relay console, select the **Edit** icon in the relay consoles table. This will open a separate pane allowing you to edit the relay description. Once changes are made, select **Submit** to accept the changes. Select **Cancel** to go back to the relay consoles management pane without saving any changes.
