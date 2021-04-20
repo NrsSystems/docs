@@ -8,5 +8,5 @@ links:
     href: general-ops/action-plans
   - name: View and manage alerts
     href: general-ops/incident-logs
-  - name: Assign people to respond to alerts
+  - name: Assign users to respond to alerts
     href: general-ops/contacts-management
