@@ -19,21 +19,21 @@
     - name: Add a view
       href: views-management#add-a-view
       items: 
-        - name: Analog Clock
+        - name: Analog clock
           href: views-management#analog-clock
-        - name: Art Drive Gallery
+        - name: Art Drive gallery
           href: views-management#art-drive-gallery
-        - name: Art Gallery
+        - name: Art gallery
           href: views-management#art-gallery
         - name: Countdown
           href: views-management#countdown
-        - name: Days-Since Poster
+        - name: Days-since poster
           href: views-management#days-since-poster
-        - name: Digital Clock
+        - name: Digital clock
           href: views-management#digital-clock
-        - name: Generic Countdown Timer
+        - name: Generic countdown timer
           href: views-management#generic-countdown-timer
-        - name: Google Photos Album
+        - name: Google Photos album
           href: views-management#google-photos-album
         - name: Image
           href: views-management#image
@@ -41,21 +41,21 @@
           href: views-management#list
         - name: PDF
           href: views-management#pdf
-        - name: QR Code
+        - name: QR code
           href: views-management#qr-code
         - name: Quotes
           href: views-management#quotes
-        - name: Safety Poster
+        - name: Safety poster
           href: views-management#safety-poster
-        - name: Simple List
+        - name: Simple list
           href: views-management#simple-list
+        - name: Task manager
+          href: views-management#task-manager
         - name: Tasks
           href: views-management#tasks
-        - name: Task Manager
-          href: views-management#task-manager
-        - name: VapeDetect Dashboard
+        - name: VapeDetect dashboard
           href: views-management#vapedetect-dashboard
-        - name: VapeDetect Graph
+        - name: VapeDetect graph
           href: views-management#vapedetect-graph
         - name: Video
           href: views-management#video
