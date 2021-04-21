@@ -22,7 +22,7 @@ For general information about the XSPONSE service and website, see the [Service 
   - [Update Digital Display](../general-ops/action-plans.md#update-digital-display)
   - [Clear active Digital Displays](../general-ops/action-plans.md#clear-active-digital-displays)
   - [Control relay](../general-ops/action-plans.md#control-relay)
-  - [Control VapeDetect Relay](../general-ops/action-plans.md#control-vapedetect-relay)
+  - [Control VapeDetect relay](../general-ops/action-plans.md#control-vapedetect-relay)
 - [Edit an action plan](../general-ops/action-plans.md#edit-an-action-plan)
 - [Delete an action plan](../general-ops/action-plans.md#delete-an-action-plan)
 
