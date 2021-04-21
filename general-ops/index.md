@@ -32,7 +32,7 @@ See the [Digital Displays section](../digital-displays/index.md), the [VapeDetec
   - [Update Digital Display](action-plans.md#update-digital-display)
   - [Clear active Digital Displays](action-plans.md#clear-active-digital-displays)
   - [Control relay](action-plans.md#control-relay)
-  - [Control VapeDetect Relay](action-plans.md#control-vapedetect-relay)
+  - [Control VapeDetect relay](action-plans.md#control-vapedetect-relay)
 - [Edit an action plan](action-plans.md#edit-an-action-plan)
 - [Delete an action plan](action-plans.md#delete-an-action-plan)
 
