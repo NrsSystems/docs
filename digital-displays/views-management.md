@@ -25,7 +25,7 @@ Some view types, such as image, PDF, and video, allow you to upload files to the
 
 The settings for the different view types are as follows: 
 
-### Analog Clock
+### Analog clock
 _Description:_ Add a simple text description of the analog clock, which is how it will be listed in the Views table.
 
 _Time Zone:_ By default, this option is set to use the device's default time zone; select **Choose a time zone** to choose a different one from the list. Also by default, the _Display timezone?_ option is set to **No**; select this list to change it to **Yes**.
@@ -36,7 +36,7 @@ _Animation Speed:_ Select the speed for the animation of the seconds hand on the
 
 _Write Text to Display a Caption (optional):_ Enter text in this box if you want to provide a caption with the clock.
 
-### Art Drive Gallery
+### Art Drive gallery
 The Art Drive gallery allows you to choose images from your own Art Drive account to show on a display, automatically cycling through the chosen pieces. 
 
 _Description:_ Add a simple text description of the gallery, which is how it will be listed in the Views table.
@@ -57,7 +57,7 @@ _Text Display:_ This option allows you to display any text associated with the i
 
 _QR Code Display:_ This optoin allows you to display the QR codes associated with the images. Select the **Display QR Code** list to choose from **Fade Out**, **Always Show Text**, or **No Text**. If Fade Out is selected, use the **Time to Display QR Code** box to set the duration in hours, minutes, and seconds. 
 
-### Art Gallery
+### Art gallery
 The art gallery allows you to choose images from a preset collection of artworks included with the XSPONSE service to show on a display, automatically cycling through the chosen pieces.
 
 _Description:_ Add a simple text description of the gallery, which is how it will be listed in the Views table.
@@ -85,21 +85,21 @@ _Message:_ Add a simple text message to show on the device and a time point when
 
 _Sounds:_ Select a sound from the list to play and a time point when that sound should play. Select **+ row** to add the first sound and select it again to add more sounds to be read aloud at additional time points. Select the **Delete** icon at the end of the row or select **– Last row** to remove an entry.
 
-### “Days Since” Poster
+### “Days since” poster
 _Description:_ Add a simple text description of the poster, which is how it will be listed in the Views table.
 
 _Last Accident:_ Select or type the date of the last incident.
 
 _Record:_ Add the number of days for the longest period between accidents. If no entry is made in this field, the poster by default will show the number of days since the date in the Last Accident field.
 
-### Digital Clock
+### Digital clock
 _Description:_ Add a simple text description of the digital clock, which is how it will be listed in the Views table.
 
 _Background Color_ and _Text Color:_ Select each box to choose a color from the palette for the two elements of the clock. By default both colors are set to black; you will need to select and change at least one color so the time is visible.
 
 _Google Font:_ Select this list to choose the font for the display. 
 
-### Generic Countdown Timer
+### Generic countdown timer
 The generic countdown timer allows you to count down to a specific date as well as time, and creates a stylized webpage to show the countdown. Various text display options allow you to customize the countdown information to be shown.
 
 _Description:_ Add a simple text description of the timer, which is how it will be listed in the Views table.
@@ -118,8 +118,8 @@ _Title Display, Body Display, Sub Body Display:_ Select **Text** to enter text t
 
 _Day Display, Hour Display, Minute Display, Second Display:_ These options let you display and specify the singular and plural forms of words to go with the countdown. You can use these options to customize the display text to a particular language or multiple languages. Alternately, select **Image** to choose from the list of available images.
 
-### Google Photos Album
-The Google Photos Album allows you to choose images from your own Google Photos account to show on a display, automatically cycling through the chosen pieces. 
+### Google Photos album
+The Google Photos album allows you to choose images from your own Google Photos account to show on a display, automatically cycling through the chosen pieces. 
 
 _Description:_ Add a simple text description of the gallery, which is how it will be listed in the Views table.
 
@@ -166,7 +166,7 @@ _Scroll Start Delay:_ Set the number of seconds you want the view to pause befor
 
 _Wait At Bottom:_ Set the number of seconds you want the view to pause when the PDF has scrolled completely to the end.
 
-### QR Code
+### QR code
 The QR code view allows you to generate a QR code to show on a display, for various purposes: to open a webpage, send an SMS, send an email, add a vCard, or connect to a WiFi network.
 
 _Description:_ Add a simple text description of the QR code, which is how it will be listed in the Views table.
@@ -198,7 +198,7 @@ _Background Images:_ Select an image to use for the background.
 
 _Quote Search:_ Use the _Author, Category, Sub Category,_ and _Tags_ filters in this section to find the quotes you want to include in the view. Once you have set the filters, select **Search Quotes**. Any available results will appear in the _Unselected_ box. Select a quote in this box and select **Add** to add it to the _Quotes to Display_ box. To remove a quote from the display group, select the quote in the _Quotes to Display_ box and select **Remove**.
 
-### Safety Posters
+### Safety posters
 The safety posters view allows you to choose posters from a preset collection to show on a display, automatically cycling through the chosen posters.
 
 _Description:_ Add a simple text description of the poster gallery, which is how it will be listed in the Views table.
@@ -209,7 +209,7 @@ _Number of Selected Images to Display:_ Enter the number of images to be shown.
 
 The lower section of options allows you to search through the provided collection of posters. To view the entire collection, select **Search** without filling in any options. You can add keywords to the _Image Search: Keywords_ box to filter search results, and also use the _Image Orientation_ option to filter results to either portrait or landscape. To add a poster to the set for the view, select the poster in the search results; thumbnails of these posters will then appear within the options section. To remove a poster from the set for the view, select the poster in the options section. 
 
-### Simple List
+### Simple list
 The simple list view lets you create a basic list of items to display.
 
 _Description:_ Add a simple text description of the list, which is how it will be listed in the Views table.
@@ -225,12 +225,12 @@ _Description:_ Add a simple text description of the task, which is how it will b
 
 _Task:_ Select the arrow to expand the list of available tasks.
 
-### Task Manager
+### Task manager
 _Description:_ Add a simple text description of the task manager, which is how it will be listed in the Views table.
 
 _Title:_ Add a simple text description of the task manager to be shown on the display. 
 
-### VapeDetect Dashboard
+### VapeDetect dashboard
 _Description:_ Add a simple text description of the VapeDetect dashboard, which is how it will be listed in the Views table. For example, this could indicate the location of the device, such as “second floor bathroom”.
 
 _Left Text:_ Add text to be shown on the left side of the dashboard header, such as the location of the device.
@@ -239,7 +239,7 @@ _Center Text:_ Add text to be shown in the center of the dashboard header, such 
 
 _Vape Detect Device:_ Select the device to be used as the source for the dashboard’s data.
 
-### VapeDetect Graph
+### VapeDetect graph
 
 _Description:_ Add a simple text description of the file, which is how it will be listed in the Views table.
 
