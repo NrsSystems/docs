@@ -1,6 +1,6 @@
 # Build settings
 tile_order: ['company_admin', 'company_users']
-specific_order: ['xsponse_service', 'digital_displays', 'vape_detect']
+specific_order: ['xsponse_service', 'digital_displays', 'vape_detect', 'button_consoles', 'relay_consoles']
 
 defaults:
   -
@@ -21,3 +21,15 @@ defaults:
       type: "pages"
     values:
       nav: vape_detect
+  -
+    scope:
+      path: "button-consoles"
+      type: "pages"
+    values:
+      nav: button_consoles
+  -
+    scope:
+      path: "relay-consoles"
+      type: "pages"
+    values:
+      nav: relay_consoles
