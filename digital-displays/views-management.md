@@ -220,15 +220,15 @@ _Background color, Card color,_ and _Text color:_ Select each box to choose a co
 
 _List:_ Select **+Row** to add an item to the list, by entering text in the text box that appears. Note that by default the list has no rows; you must add at least one row for the list to display anything. Select **+Row** again to add more items; select **-Last row** to remove the item currently at the end of the list; or select the **Delete** icon at the end of a row to remove that item from the list while keeping any rows before and after it.
 
-### Tasks
-_Description:_ Add a simple text description of the task, which is how it will be listed in the Views table.
-
-_Task:_ Select the arrow to expand the list of available tasks.
-
 ### Task manager
 _Description:_ Add a simple text description of the task manager, which is how it will be listed in the Views table.
 
 _Title:_ Add a simple text description of the task manager to be shown on the display. 
+
+### Tasks
+_Description:_ Add a simple text description of the task, which is how it will be listed in the Views table.
+
+_Task:_ Select the arrow to expand the list of available tasks.
 
 ### VapeDetect dashboard
 _Description:_ Add a simple text description of the VapeDetect dashboard, which is how it will be listed in the Views table. For example, this could indicate the location of the device, such as “second floor bathroom”.
