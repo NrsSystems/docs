@@ -4,7 +4,7 @@ abstract: This section of the support documentation provides specific informatio
 ---
 Welcome to XSPONSE! Use the following list or the navigation pane to the left to view the documentation. On a mobile device, tap the menu in the upper left to access the navigation pane.
 
-For general information about the XSPONSE service and website, see the [Service Guide](../general-ops/index.md). For specific information about the VapeDetect service and devices, see the [VapeDetect section](../vape-detect/index.md). 
+For general information about the XSPONSE service and website, see the [Service Guide](../general-ops/index.md).  
 
 ## [About Digital Displays](about-digital-displays.md)
 
@@ -19,18 +19,24 @@ For general information about the XSPONSE service and website, see the [Service 
 ## [Views Management](views-management.md)
 - [Add a view](views-management.md#add-a-view)
   - [Analog clock](views-management.md#analog-clock)
+  - [Art Drive gallery](views-management.md#art-drive-gallery)
   - [Art gallery](views-management.md#art-gallery)
   - [Countdown](views-management.md#countdown)
-  - ["Days Since" Poster](views-management.md#days-since-poster)
+  - [Days-since poster](views-management.md#days-since-poster)
   - [Digital clock](views-management.md#digital-clock)
+  - [Generic countdown timer](views-management.md#generic-countdown-timer)
+  - [Google Photos album](views-management.md#google-photos-album)
   - [Image](views-management.md#image)
   - [List](views-management.md#list)
   - [PDF](views-management.md#pdf)
+  - [QR code](views-management.md#qr-code)
   - [Quotes](views-management.md#quotes)
-  - [Safety Poster](views-management.md#safety-poster)
+  - [Safety poster](views-management.md#safety-poster)
+  - [Simple list](views-management.md#simple-list)
   - [Tasks](views-management.md#tasks)
-  - [VapeDetect Dashboard](views-management.md#vapedetect-dashboard)
-  - [VapeDetect Graph](views-management.md#vapedetect-graph)
+  - [Task manager](views-management.md#task-manager)
+  - [VapeDetect dashboard](views-management.md#vapedetect-dashboard)
+  - [VapeDetect graph](views-management.md#vapedetect-graph)
   - [Video](views-management.md#video)
   - [Website](views-management.md#website)
   - [YouTube](views-management.md#youtube)
