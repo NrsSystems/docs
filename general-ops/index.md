@@ -4,7 +4,7 @@ abstract: This section of the support documentation provides general information
 ---
 Welcome to XSPONSE! Use the following list or the navigation pane to the left to view the documentation. On a mobile device, tap the menu in the upper left to access the navigation pane.
 
-See the [Digital Displays section](../digital-displays/index.md) the [VapeDetect section](../vape-detect/index.md), the [Button Consoles section](../button-consoles/index.md), or the [Relay Consoles section](../relay-consoles/index.md) for more specific information about those devices and services.
+See the [Digital Displays section](../digital-displays/index.md), the [VapeDetect section](../vape-detect/index.md), the [Button Consoles section](../button-consoles/index.md), or the [Relay Consoles section](../relay-consoles/index.md) for more specific information about those devices and services.
 
 ## [XSPONSE Site Overview](site-overview.md)
 
