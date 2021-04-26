@@ -4,7 +4,7 @@ abstract: The Relay Consoles management pane allows a user to add, adjust, edit,
 ---
 Related: [Action Plans](../general-ops/action-plans.md) \| [Incident Logs](../general-ops/incident-logs.md) \| [Contacts Management](../general-ops/contacts-management.md) 
 
-*Jump to how to [add](relay-consoles-management.md#add-a-relay-console), [adjust](relay-consoles-management.md#change-a-relays-settings), [edit](relay-consoles-management.md#edit-a-relays-information), or [delete](relay-consoles-management.md#delete-a-relay-console) a relay console.*
+*Jump to how to [add](relay-consoles-management.md#add-a-relay-console), [adjust](relay-consoles-management.md#adjust-a-relays-settings), [edit](relay-consoles-management.md#edit-a-relays-information), or [delete](relay-consoles-management.md#delete-a-relay-console) a relay console.*
 
 The relay consoles table shows the relay consoles by description (name). 
 
@@ -23,7 +23,7 @@ _To view larger: on a computer, right-click and select "open in new tab"; on a m
 
 A new pane will open asking you to give the device a description (name). Once you have set this option, select **Submit** to accept the settings. To go back to the relay consoles management page without linking a device, select **Cancel**.
  
-## Change a relay’s settings
+## Adjust a relay’s settings
 To manage the settings for a relay console, select the **Adjust** icon in the relay consoles table. This will open a separate pane allowing you to see the name of the relay, its current state (on or off), the last time the service received a signal from the device ("timestamp"), and a list box to change the state of the device. 
 
 ![adjust relay pane](relay_adjust.png)
