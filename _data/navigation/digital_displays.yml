@@ -2,6 +2,13 @@
   href: about-digital-displays
 - name: Display Device Setup
   href: display-device-setup
+  items:
+    - name: Requirements
+      href: display-device-setup#requirements
+    - name: Install the firmware
+      href: display-device-setupt#install-the-firmware
+    - name: Set up the display device
+      href: display-device-setup#set-up-the-display-device
 - name: Displays Management
   href: displays-management
   items:
