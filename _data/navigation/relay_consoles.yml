@@ -5,8 +5,8 @@
   items: 
     - name: Add a relay console
       href: relay-consoles-management#add-a-relay-console
-    - name: Change a relay's settings
-      href: relay-consoles-management#change-a-relays-settings
+    - name: Adjust a relay's settings
+      href: relay-consoles-management#adjust-a-relays-settings
     - name: Edit a relay's information
       href: relay-consoles-management#edit-a-relays-information
     - name: Delete a relay console
