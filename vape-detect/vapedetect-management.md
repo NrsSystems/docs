@@ -2,7 +2,7 @@
 title: VapeDetect
 abstract: The VapeDetect management pane allows a user to add, adjust, edit, or delete a sensor device. Selecting the VapeDetect link in the navigation pane will take you to the VapeDetect management pane. 
 ---
-Related: [Action Plans](../general-ops/action-plans.md) \| [Incident Logs](../general-ops/incident-logs.md) \| [Contacts Management](../general-ops/contacts-management.md) \| [About the VapeDetect system](about-vapedetect.md)
+Related: [Action Plans](../general-ops/action-plans.md) \| [Incident Logs](../general-ops/incident-logs.md) \| [Contacts Management](../general-ops/contacts-management.md) 
 
 *Jump to how to [add](vapedetect-management.md#add-a-sensor), [adjust](vapedetect-management.md#change-a-sensors-settings), [edit](vapedetect-management.md#edit-a-sensors-information), or [delete](vapedetect-management.md#delete-a-sensor) a sensor device.*
 
