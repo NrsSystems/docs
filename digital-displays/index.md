@@ -9,6 +9,9 @@ For general information about the XSPONSE service and website, see the [Service 
 ## [About Digital Displays](about-digital-displays.md)
 
 ## [Display Device Setup](display-device-setup.md)
+- [Requirements](displays-management.md#requirements)
+- [Install the firmware](displays-management.md#install-the-firmware)
+- [Set up the display device](displays-management.md#set-up-the-display-device)
 
 ## [Displays Management](displays-management.md)
 - [Add a display](displays-management.md#add-a-display)
