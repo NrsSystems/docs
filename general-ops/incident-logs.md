@@ -2,7 +2,7 @@
 title: Incident Logs
 abstract: The Incident Logs management pane allows you to view all recorded incidents from all your devices. Selecting the View All link in the Events Detected box in the dashboard or selecting the Incident Logs button on the Action Plans management pane will take you to the Incident Logs pane.
 ---
-Related: [Action Plans](action-plans.md) \| [About VapeDetect](../vape-detect/about-vapedetect.md) \| [VapeDetect Management](../vape-detect/vapedetect-management.md) \| [About Button Consoles](../button-consoles/about-button-consoles.md) \| [Button Consoles Management](../button-consoles/button-consoles-management.md) 
+Related: [Action Plans](action-plans.md) \| [About VapeDetect](../vape-detect/about-vapedetect.md) \| [About Button Consoles](../button-consoles/about-button-consoles.md) \| [About Relay Consoles](../relay-consoles/about-relay-consoles.md) 
 
 Each time an XSPONSE VapeDetect or Button Console device detects an event and triggers an action plan, the information is recorded in the incident logs. The Incident Logs table shows the incidents by the device that was triggered, along with the time the event occurred, whether the action plan is active or not, and the type of incident. 
 
@@ -24,4 +24,6 @@ To go back to the Action Plans management pane, select the **Action Plans** link
 
 ___
 *Return to the [XSPONSE Service Guide index](index.md)*  
-*Return to the [VapeDetect index](../vape-detect/index.md)*
+*Return to the [VapeDetect index](../vape-detect/index.md)*  
+*Return to the [Button Consoles index](../button-consoles/index.md)*  
+*Return to the [Relay Consoles index](../relay-consoles/index.md)*  
