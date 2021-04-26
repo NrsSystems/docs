@@ -20,7 +20,7 @@ For general information about the XSPONSE service and website, see the [Service 
 
 ## [VapeDetect Management](vapedetect-management.md)
 - [Add a sensor](vapedetect-management.md#add-a-sensor)
-- [Change a sensor's settings](vapedetect-management.md#change-a-sensors-settings)
+- [Adjust a sensor's triggers](vapedetect-management.md#adjust-a-sensors-triggers)
 - [Edit a sensor's information](vapedetect-management.md#edit-a-sensors-information)
 - [Delete a sensor](vapedetect-management.md#delete-a-sensor)
 
