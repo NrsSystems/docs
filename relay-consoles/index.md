@@ -10,7 +10,7 @@ For general information about the XSPONSE service and website, see the [Service 
 
 ## [IP Relay Consoles Management](relay-consoles-management.md)
 - [Add a relay console](relay-consoles-management.md#add-a-relay-console)
-- [Change a relay's settings](relay-consoles-management.md#change-a-relays-settings)
+- [Adjust a relay's settings](relay-consoles-management.md#adjust-a-relays-settings)
 - [Edit a relay's information](relay-consoles-management.md#edit-a-relays-information)
 - [Delete a relay console](relay-consoles-management.md#delete-a-relay-console)
 
