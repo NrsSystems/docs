@@ -19,9 +19,9 @@ Additionally, you will need to have a computer available to download and run [ba
 2. On the same computer, if you haven't already, download and install [balenaEtcher](https://www.balena.io/etcher/).
 3. Put the 8-GB microSD card into a card reader attached to the same computer.
 4. Start balenaEtcher.
-5. Select the Digital Display firmware file you've downloaded as the image file, and select the microSD card as the target drive.
+5. Select the Digital Display firmware file you've downloaded as the image file, and select the microSD card as the target drive.  
 ![balenaEtcher screen](balenaEtcher.png)  
-6. Select **Flash** and wait for the program to unpack the contents of the image file onto the microSD card.
+6. Select **Flash** and wait for balenaEtcher to unpack the contents of the image file onto the microSD card.
 7. Once the flash process is done, remove the microSD card from the reader and insert it into the memory slot of the Raspberry Pi.
 
 ## Set up the display device
