@@ -2,7 +2,7 @@
 title: Contacts
 abstract: The Contacts management pane allows a user to add, edit, or delete the contacts available as recipients for the action plans. Selecting the Contacts link in the navigation pane will take you to the Contacts management pane.
 ---
-Related: [Action Plans](action-plans.md) \| [About the VapeDetect system](../vape-detect/about-vapedetect.md) \| [About Button Consoles](../button-consoles/about-button-consoles.md) \| [About Relay Consoles](../relay-consoles/about-relay-consoles.md) 
+Related: [Action Plans](action-plans.md) \| [About VapeDetect](../vape-detect/about-vapedetect.md) \| [About Button Consoles](../button-consoles/about-button-consoles.md) \| [About Relay Consoles](../relay-consoles/about-relay-consoles.md) 
 
 *Jump to how to [add](contacts-management.md#add-a-contact), [edit](contacts-management.md#edit-a-contact), or [delete](contacts-management.md#delete-a-contact) contacts.*
 
