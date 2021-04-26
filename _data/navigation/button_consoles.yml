@@ -5,8 +5,8 @@
   items: 
     - name: Add a button console
       href: button-consoles-management#add-a-button-console
-    - name: Change a button's settings
-      href: button-consoles-management#change-a-buttons-settings
+    - name: Adjust a button's triggers
+      href: button-consoles-management#adjust-a-buttons-triggers
     - name: Edit a button's information
       href: button-consoles-management#edit-a-buttons-information
     - name: Delete a button console
