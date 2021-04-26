@@ -26,6 +26,6 @@ To delete a contact, select the **Delete** icon in the Contacts table. This will
 
 ___
 *Return to the [XSPONSE Service Guide index](index.md)*  
-*Return to the [VapeDetect index](../vape-detect/index.md)*
+*Return to the [VapeDetect index](../vape-detect/index.md)*  
 *Return to the [Button Consoles index](../button-consoles/index.md)*  
 *Return to the [Relay Consoles index](../relay-consoles/index.md)*  
