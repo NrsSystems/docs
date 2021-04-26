@@ -4,7 +4,7 @@ abstract: The Button Consoles management pane allows a user to add, adjust, edit
 ---
 Related: [Action Plans](../general-ops/action-plans.md) \| [Incident Logs](../general-ops/incident-logs.md) \| [Contacts Management](../general-ops/contacts-management.md) 
 
-*Jump to how to [add](button-consoles-management.md#add-a-button-console), [adjust](button-consoles-management.md#change-a-buttons-settings), [edit](button-consoles-management.md#edit-a-buttons-information), or [delete](button-consoles-management.md#delete-a-button-console) a button console.*
+*Jump to how to [add](button-consoles-management.md#add-a-button-console), [adjust](button-consoles-management.md#adjust-a-buttons-triggers), [edit](button-consoles-management.md#edit-a-buttons-information), or [delete](button-consoles-management.md#delete-a-button-console) a button console.*
 
 The button consoles table shows the button consoles by description (name), along with the number of inputs each device has. 
 
@@ -32,7 +32,7 @@ Select the **Add Row** link to add more attributes or select the red **X** butto
 
 Once you have set these options, select **Submit** to accept the settings. To go back to the button consoles management page without linking a device, select **Cancel**.
  
-## Change a button’s settings
+## Adjust a button’s triggers
 To manage the triggers and action plans for a button console, select the **Adjust** icon in the button consoles table. This will open a separate pane allowing you to see the existing device attributes under _Device Info_ and the triggers in the _Triggers_ table. 
 
 ![manage triggers pane](button_manage_triggers.png)
