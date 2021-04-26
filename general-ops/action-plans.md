@@ -38,14 +38,14 @@ The settings for the different actions are as follows:
 ### Send Email
 This action can be used in an action plan on its own or in conjunction with any XSPONSE devices. For example, it could be used simply to send a weekly reminder to fill out timesheets, or to send a daily confirmation that a set of lights was turned on or off through an XSPONSE Relay Console in the same action plan. 
 
-_Recipients:_ Select the box to choose a recipient from the menu. This menu will include everyone in your XSPONSE contacts list; see the [Contacts Management page](contacts-management.md) for more information. You can also select the box and start typing a name. As you type, the menu will update to show the best matches, or will display “No results found” if the characters typed don’t produce a match. To add multiple recipients, select the box again to choose another recipient (or to type). Be sure that the selected recipients have an email address included in their entry in the Contacts table on the Contacts Management pane. To remove a recipient, select the **X** next to their name in the box.
+_Recipients:_ Select the box to choose a recipient from the menu. This menu will include everyone in your XSPONSE contacts list, regardless of whether or not they have an email address included, so be sure that the selected recipients have an email address included in their entry in the Contacts table on the Contacts Management pane. (See the [Contacts Management page](contacts-management.md) for more information.) You can also select the box and start typing a name. As you type, the menu will update to show the best matches, or will display “No results found” if the characters typed don’t produce a match. To add multiple recipients, select the box again to choose another recipient (or to type). To remove a recipient, select the **X** next to their name in the box.
 
 _Email Subject_ and _Email Body:_ Once you have chosen at least one recipient, you can fill in the subject and body of the email to be sent. You must provide some content in both fields to create this action. Device attribute names can be used as placeholders in both the subject and body, allowing the email to be customized at the time the alert is triggered with the information specific to the device that was activated. For example, in an action plan involving an XSPONSE VapeDetect sensor, if the attributes are _room, floor,_ and _building,_ the email would specify the exact room, floor, and building where the sensor detected vaping. To include device attribute variables in the email, enclose the device attribute name in double braces, like this: \{\{room}}. 
 
 ### Send SMS
 This action can be used in an action plan on its own or in conjunction with any XSPONSE devices. For example, it could be used simply to send a weekly reminder to fill out timesheets, or to send a daily confirmation that a set of lights was turned on or off through an XSPONSE Relay Console in the same action plan. 
 
-_Recipients:_ Select the box to choose a recipient from the menu. This menu will include everyone in your XSPONSE contacts list; see the [Contacts Management page](contacts-management.md) for more information. You can also select the box and start typing a name. As you type, the menu will update to show the best matches, or will display “No results found” if the characters typed don’t produce a match. To add multiple recipients, select the box again to choose another recipient (or to type). Be sure that the selected recipients have a telephone number included in their entry in the Contacts table on the Contacts Management pane. To remove a recipient, select the **X** next to their name in the box.
+_Recipients:_ Select the box to choose a recipient from the menu. This menu will include everyone in your XSPONSE contacts list, regardless of whether or not they have a phone number included, so be sure that the selected recipients have a phone number included in their entry in the Contacts table on the Contacts Management pane. (See the [Contacts Management page](contacts-management.md) for more information.) You can also select the box and start typing a name. As you type, the menu will update to show the best matches, or will display “No results found” if the characters typed don’t produce a match. To add multiple recipients, select the box again to choose another recipient (or to type). To remove a recipient, select the **X** next to their name in the box.
 
 _Message Body:_ Once you have chosen at least one recipient, you can fill in the body of the message to be sent. You must provide some content in this field to create this action. Device attribute names can be used as placeholders in the message body, allowing the message to be customized at the time the alert is triggered with the information specific to the device that was activated. For example, in an action plan involving an XSPONSE VapeDetect sensor, if the attributes are _room, floor,_ and _building,_ the message would specify the exact room, floor, and building where the sensor detected vaping. To include device attribute variables in the message, enclose the device attribute name in double braces, like this: \{\{room}}.
 
@@ -61,7 +61,7 @@ _Request Body:_ Add the body for the API.
 You must provide content in all three of these fields to create this action.
 
 ### Update Digital Display
-If you have an XSPONSE Digital Display associated with your account, you can use this action to set it to show a view (content) and optionally play a sound for a length of time you choose. This action overrides the normal settings for the display in the Displays Management pane, so that the display can show timely and important information in an emergency or other event.
+If you have an XSPONSE Digital Display associated with your account, you can use this action to set it to show a view (content) and optionally play a sound for a length of time you choose. This action overrides the normal settings for the display in the Displays Management pane, so that the display can show timely and important information in an emergency or other event. See the [Digital Displays section](../digital-displays/about-digital-displays.md) for more information.
 
 ![update digital display example](action_creation_example1.png)
 _To view larger: on a computer, right-click and select "open in new tab"; on a mobile touchscreen, use the zoom gesture._
@@ -85,7 +85,7 @@ _Header Text_ and _Body Text:_ You must provide some content in both the header 
 If you have an XSPONSE Digital Display associated with your account, you can use this action to clear the views (content) being displayed on all Digital Displays active at the time the action is triggered. This action has no settings of its own. See the [Digital Displays section](../digital-displays/about-digital-displays.md) for more information.
 
 ### Control Relay
-If you have an XSPONSE Relay Console associated with your account, you can use this action to control the relay automatically on a schedule or in response to other events such as an XSPONSE button being pressed.
+If you have an XSPONSE Relay Console associated with your account, you can use this action to control the relay automatically on a schedule or in response to other events such as an XSPONSE button being pressed. See the [Relay Consoles section](../relay-consoles/about-relay-consoles.md) for more information.
 
 ![control relay example](action_creation_example2.png)
 _To view larger: on a computer, right-click and select "open in new tab"; on a mobile touchscreen, use the zoom gesture._
@@ -101,7 +101,7 @@ _Delay State Change (ms):_ Select the number of milliseconds the state change sh
 _Hold State (ms):_ Select the number of milliseconds the state should remain in its new setting before reverting back to the previous state. This option only appears if the **Temporary State Change** check box is selected.
 
 ### Control VapeDetect Relay
-If you have an XSPONSE VapeDetect sensor associated with your account, you can use this action to switch the sensor on or off automatically on a schedule or in response to other events such as an XSPONSE button being pressed.
+If you have an XSPONSE VapeDetect sensor associated with your account, you can use this action to switch the sensor on or off automatically on a schedule or in response to other events such as an XSPONSE button being pressed. See the [VapeDetect section](../vape-detect/about-vapedetect.md) for more information.
 
 _Device:_ Select a device from the list.
 
