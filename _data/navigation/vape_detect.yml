@@ -23,8 +23,8 @@
   items: 
     - name: Add a sensor
       href: vapedetect-management#add-a-sensor
-    - name: Change a sensor's settings
-      href: vapedetect-management#change-a-sensors-settings
+    - name: Adjust a sensor's triggers
+      href: vapedetect-management#adjust-a-sensors-triggers
     - name: Edit a sensor's information
       href: vapedetect-management#edit-a-sensors-information
     - name: Delete a sensor
