@@ -1,13 +1,13 @@
 ---
 title: Quickstart for Digital Displays and ArtDrive
-abstract: This page explains how to get started with the XSPONSE Digital Display device and ArtDrive service. By following the instructions presented here, you can (1) prepare a Raspberry Pi device to serve as an XSPONSE Digital Display, (2) join the XSPONSE service, (3) link your Digital Display, and (4) create an ArtDrive account and link it to your Digital Display.
+abstract: This page explains how to get started with the XSPONSE Digital Display device and ArtDrive service. By following the instructions presented here, you can (1) prepare a Raspberry Pi device to serve as an XSPONSE Digital Display*, (2) join the XSPONSE service, (3) link your Digital Display, and (4) create an ArtDrive account and link it to your Digital Display.
 ---
-## Prepare a Digital Display\*
+_\*For the rest of this page, "Digital Display" on its own refers to the combination of an HDMI display attached to a prepared Raspberry Pi device._
+
+## Prepare a Digital Display
 You will need a Raspberry Pi 4 with 2 GB RAM and a USB-C power supply and cable, as well as an HDMI-compatible display and an 8 GB microSD card and card reader. You will also need a desktop or laptop computer for downloading and installing the XSPONSE firmware onto the microSD card. Follow the full instructions on our [Display Device Setup page](display-device-setup.md).
 
 When you have completed the instructions on the Display Device Setup page, your display should be showing the XSPONSE logo and a blue screen with an activation code, indicating that it is ready to be associated with an account. Follow the rest of the instructions on this page to associate your Digital Display with your XSPONSE account, and to create your ArtDrive account and link it to your Digital Display.
-
-_\*For the rest of this page, "Digital Display" on its own refers to the combination of an HDMI display attached to a prepared Raspberry Pi device._
 
 ## Join the XSPONSE service
 Once your Digital Display is prepared, you will need to link it to an XSPONSE service account. From your computer, tablet, or smartphone browser, go to [manage.xsponse.com](https://manage.xsponse.com).
