@@ -2,6 +2,10 @@
 title: Display Device Setup
 abstract: This page explains how to install and set up an XSPONSE Digital Display, using our software and a Raspberry Pi computer device.
 ---
+Related: [Quickstart for Digital Displays and ArtDrive](artdrive-quickstart.md)
+
+_Jump to [the requirements](display-device-setup.md#requirements), how to [install the firmware](display-device-setup.md#install-the-firmware), or how to [set up the Display Device](display-device-setup.md#set-up-the-display-device)._
+
 The XSPONSE Digital Display service uses inexpensive Raspberry Pi hardware and our custom XSPONSE software to create a cloud-connected device that enables you to create and manage digital signage for many purposes.
 
 ## Requirements
@@ -32,7 +36,11 @@ Additionally, you will need to have a computer available to download and run [ba
 
 ![display setup diagram](display-setup-diagram.png)
 
-When the device starts, it will display the XSPONSE logo and a blue screen with an activation code, indicating that it is ready to be associated with an account. See the [Displays Management page](displays-management.md) for how to associate your display device with the XSPONSE service. If you have not yet created an administrator account with XSPONSE, first see the [Getting Started page](../general-ops/account-setup.md) in the [XSPONSE Service Guide](../general-ops/index.md).
+When the device starts, it will display the XSPONSE logo and a blue screen with an activation code, indicating that it is ready to be associated with an account. 
+
+If you are following the Quickstart for Digital Displays and ArtDrive, [return to the Quickstart page](artdrive-quickstart.md) to complete that process.
+
+See the [Displays Management page](displays-management.md) for how to associate your display device with the XSPONSE service. If you have not yet created an administrator account with XSPONSE, first see the [Getting Started page](../general-ops/account-setup.md) in the [XSPONSE Service Guide](../general-ops/index.md).
 
 ___
 *Return to the [Digital Displays index](index.md)*
