@@ -1,6 +1,6 @@
 ---
 title: Quickstart for Digital Displays and ArtDrive
-abstract: This page explains how to get started with the XSPONSE Digital Display device and ArtDrive service. By following the instructions presented here, you can (1) prepare a Raspberry Pi device to serve as an XSPONSE Digital Display*, (2) join the XSPONSE service, (3) link your Digital Display, and (4) create an ArtDrive account and link it to your Digital Display.
+abstract: This page explains how to get started with the XSPONSE Digital Display device and ArtDrive service. By following the instructions presented here, you can (1) prepare a Raspberry Pi device to serve as an XSPONSE Digital Display*, (2) join the XSPONSE service, (3) link your Digital Display, (4) create and link an ArtDrive account to your Digital Display, and (5) create an ArtDrive gallery and show it on your Digital Display.
 ---
 _\*For the rest of this page, "Digital Display" on its own refers to the combination of an HDMI display attached to a prepared Raspberry Pi device._
 
