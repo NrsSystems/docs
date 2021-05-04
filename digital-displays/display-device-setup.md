@@ -4,7 +4,7 @@ abstract: This page explains how to install and set up an XSPONSE Digital Displa
 ---
 Related: [Quickstart for Digital Displays and ArtDrive](artdrive-quickstart.md)
 
-_Jump to [the requirements](display-device-setup.md#requirements), how to [install the firmware](display-device-setup.md#install-the-firmware), or how to [set up the Display Device](display-device-setup.md#set-up-the-display-device)._
+_Jump to [the requirements](display-device-setup.md#requirements), how to [install the firmware](display-device-setup.md#install-the-firmware), or how to [set up the display device](display-device-setup.md#set-up-the-display-device)._
 
 The XSPONSE Digital Display service uses inexpensive Raspberry Pi hardware and our custom XSPONSE software to create a cloud-connected device that enables you to create and manage digital signage for many purposes.
 
@@ -28,7 +28,7 @@ Additionally, you will need to have a computer available to download and run [ba
 6. Select **Flash** and wait for balenaEtcher to unpack the contents of the image file onto the microSD card.
 7. Once the flash process is done, remove the microSD card from the reader and insert it into the memory slot of the Raspberry Pi.
 
-## Set up the Display Device
+## Set up the display device
 1. Connect the Raspberry Pi device to a display through the HDMI cable (and make sure you set the display to use that input). 
 2. If you are connecting to the Internet through a wired network, connect the Ethernet cable to the device.
 3. Connect the power supply to an outlet and the power cable to the device. 
