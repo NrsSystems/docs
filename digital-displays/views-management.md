@@ -37,13 +37,13 @@ _Animation Speed:_ Select the speed for the animation of the seconds hand on the
 _Write Text to Display a Caption (optional):_ Enter text in this box if you want to provide a caption with the clock.
 
 ### Art Drive gallery
-The Art Drive gallery allows you to choose images from your own Art Drive account to show on a display, automatically cycling through the chosen pieces. 
+The Art Drive gallery allows you to choose images from your own ArtDrive account to show on a display, automatically cycling through the chosen pieces. To use this view, first you will need to link an ArtDrive account to your XSPONSE account. On the **Users** menu in the upper right of the dashboard, select **Profile**. In the Profile pane, under _Linked Accounts_, select **Connect to ArtDrive**. The ArtDrive website will appear with a login dialog box. Log in to your ArtDrive account, and on the next page select **Authorize** to confirm that you want to provide xsponse.com access to your ArtDrive galleries. Once you authorize the connection, your XSPONSE profile pane will reload with ArtDrive listed as a linked account.
 
 _Description:_ Add a simple text description of the gallery, which is how it will be listed in the Views table.
 
-_Art Drive Account:_ Enter your Art Drive account.
+_Art Drive Account:_ Once you have linked an ArtDrive account, it will be listed in this field. If you have linked more than one ArtDrive account, you can select this field to choose which one to use.
 
-_Gallery:_ Select the gallery from your Art Drive account to use as the source for images.
+_Gallery:_ Select the gallery from your ArtDrive account to use as the source for images.
 
 _Display Order:_ Select whether to show your images in a **Random** order, **Oldest to Newest**, or **Newest to Oldest**.
 
@@ -55,7 +55,7 @@ For the remaining options, select **Expand** to show the options, and when expan
 
 _Text Display:_ This option allows you to display any text associated with the images. Select the _Display Type_ list to choose from **Fade Out**, **Always Show Text**, or **No Text**. If Fade Out is selected, use the _Time to Display Text_ box to set the duration in hours, minutes, and seconds. 
 
-_QR Code Display:_ This optoin allows you to display the QR codes associated with the images. Select the **Display QR Code** list to choose from **Fade Out**, **Always Show Text**, or **No Text**. If Fade Out is selected, use the **Time to Display QR Code** box to set the duration in hours, minutes, and seconds. 
+_QR Code Display:_ This option allows you to display the QR codes associated with the images. Select the **Display QR Code** list to choose from **Fade Out**, **Always Show Text**, or **No Text**. If Fade Out is selected, use the **Time to Display QR Code** box to set the duration in hours, minutes, and seconds. 
 
 ### Art gallery
 The art gallery allows you to choose images from a preset collection of artworks included with the XSPONSE service to show on a display, automatically cycling through the chosen pieces.
@@ -119,11 +119,11 @@ _Title Display, Body Display, Sub Body Display:_ Select **Text** to enter text t
 _Day Display, Hour Display, Minute Display, Second Display:_ These options let you display and specify the singular and plural forms of words to go with the countdown. You can use these options to customize the display text to a particular language or multiple languages. Alternately, select **Image** to choose from the list of available images.
 
 ### Google Photos album
-The Google Photos album allows you to choose images from your own Google Photos account to show on a display, automatically cycling through the chosen pieces. 
+The Google Photos album allows you to choose images from your own Google Photos account to show on a display, automatically cycling through the chosen pieces. To use this view, first you will need to link a Google Photos account to your XSPONSE account. On the **Users** menu in the upper right of the dashboard, select **Profile**. In the Profile pane, under _Linked Accounts_, select **Connect to Google Photos**. A Google sign-in webpage will appear, asking you to choose an account. Choose the account (signing in if prompted), and on the next page select **Allow** to confirm that you want to provide xsponse.com access to your Google Photos library. Once you authorize the connection, your XSPONSE profile pane will reload with Google Photos listed as a linked account.
 
 _Description:_ Add a simple text description of the gallery, which is how it will be listed in the Views table.
 
-_Google Photos Account:_ Enter your Google Photos account.
+_Google Photos Account:_ Once you have linked a Google Photos account, it will be listed in this field. If you have linked more than one Google Photos account, you can select this field to choose which one to use.
 
 _Album:_ Select the album from your Google Photos account to use as the source for images.
 
