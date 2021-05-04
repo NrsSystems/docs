@@ -16,14 +16,14 @@ Once your Digital Display is prepared, you will need to link it to an XSPONSE se
 Select **Sign up**. In the new window, fill out the fields for first name, last name, email address, and password (following the guidelines), then select **Sign Up** to create your account. This will return you to the Login page with the message "Your account has been created. Please Login."
 
 **If you have an XSPONSE account:**  
-Enter your email and password and select **Login**. 
+Enter your email address and password and select **Login**. 
 
 The first time you log in to your new account, you will need to read through the Privacy Policy and then select **Accept Privacy Policy**. On the next page, you will need to read through the Terms of Service and again select **Accept Privacy Policy**. (On both pages, you may also choose to select **Logout** if you are not prepared to complete this process at the time, but you will have to read and accept the Privacy Policy and Terms of Service when you return to login and complete the process.)
 
 Once you have accepted both the Privacy Policy and Terms of Service, the XSPONSE service dashboard will appear. The dashboard is the home page for managing your XSPONSE service and devices. For full information on the XSPONSE website interface and the dashboard, see the [XSPONSE Site Overview page](../general-ops/site-overview.md) and the [Dashboard page](../general-ops/dashboard.md). ***For now, continue with the following instructions.***
 
 ## Link your Digital Display
-From the XSPONSE dashboard, in the navigation pane along the left side, select **Displays** to expand the _Displays_ submenu and then select **Devices** to go to the Displays management pane. 
+From the XSPONSE dashboard, in the navigation pane along the left side, select **Displays** to expand the _Displays_ menu and then select **Devices** to go to the Displays management pane. 
 
 In the upper right of the pane, select **Link a Display**. In the Link a Display pane, enter the activation code showing on your Digital Display and select **Submit**. 
 
