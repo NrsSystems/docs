@@ -35,7 +35,7 @@ Once your Digital Display is set up and connected to the XPSONSE service, you ca
 **If you do not yet have an ArtDrive account:**  
 From your computer, tablet, or smartphone browser, go to [myartdrive.com](https://myartdrive.com). In the upper right of the website, select **Sign Up**. In the dialog box that appears, enter your email address, a password, your name, and a display name (which is how you want your account to be listed on the ArtDrive site), then select **Sign Up** to create your account. (Alternately, you can select **Sign in with Google** to use your existing Google account as your ArtDrive account.) A new _Verify Account_ dialog box will appear.
 
-**Once you have an ArtDrive account:**
+**Once you have an ArtDrive account:**  
 Return to your XSPONSE dashboard at [manage.xsponse.com](https://manage.xsponse.com). At the upper right of the dashboard, above the main pane, select the icon of a person to open the **Users** menu and in the menu select **Profile**. In the Profile pane, under _Linked Accounts_, select **Connect to ArtDrive**. The ArtDrive website will appear with a login dialog box. Log in to your ArtDrive account, and on the next page select **Authorize** to confirm that you want to provide xsponse.com access to your ArtDrive galleries. Once you authorize the connection, your XSPONSE profile pane will reload with ArtDrive listed as a linked account. Select **Dashboard** above the profile information to return to the main XSPONSE dashboard.
 
 ## Add an ArtDrive gallery
