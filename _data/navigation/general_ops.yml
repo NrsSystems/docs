@@ -9,8 +9,8 @@
       href: account-manager#add-a-company-account
     - name: Change a company's account information
       href: account-manager#change-a-companys-account-information
-    - name: View or edit your administrator profile
-      href: account-manager#view-or-edit-your-administrator-profile
+    - name: View or edit your profile
+      href: account-manager#view-or-edit-your-profile
 - name: Dashboard
   href: dashboard
   items:
