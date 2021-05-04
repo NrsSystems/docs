@@ -13,7 +13,7 @@ See the [Digital Displays section](../digital-displays/index.md), the [VapeDetec
 ## [Account Manager](account-manager.md)
 - [Add a company account](account-manager.md#add-a-company-account)
 - [Change a company's account information](account-manager.md#change-a-companys-account-information)
-- [View or edit your administrator profile](account-manager.md#view-or-edit-your-administrator-profile)
+- [View or edit your profile](account-manager.md#view-or-edit-your-profile)
 
 ## [Dashboard](dashboard.md)
 - [About dashboard management tables](dashboard.md#about-dashboard-management-tables)
