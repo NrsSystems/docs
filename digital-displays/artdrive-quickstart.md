@@ -56,7 +56,7 @@ Finally, you can set your Digital Display to show this new ArtDrive gallery view
 
 **Congratulations!** You have now set up your Digital Display, created an ArtDrive gallery, and set your Digital Display to show the artworks you chose. 
 
-With your Digital Display setup complete, you now have other options to show as well. See the rest of the [Digital Displays Guide](index.md) for more information on how to [manage your Digital Displays](displays-management.md), [create and manage different views](views-management.md), [create and use playlists](playlists-management.md) to show multiple views on one display, and [create and use schedules](schedules-management.md). (Some views let you [add and use sounds](sounds-management.md) as well.)
+With your Digital Display setup complete, you now have other options to use as well. See the [Views Management page](views-management.md) for full information on all the different content types you can show on your Digital Display. (Some views let you [add and use sounds](sounds-management.md) as well.) See the rest of the [Digital Displays Guide](index.md) for more information on how to [manage your Digital Displays](displays-management.md), [create and use playlists](playlists-management.md) to show multiple views on one display, and [create and use schedules](schedules-management.md) to manage when you show various views and playlists. 
 
 ___
 *Return to the [Digital Displays index](index.md)*
