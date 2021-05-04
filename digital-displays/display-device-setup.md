@@ -28,7 +28,7 @@ Additionally, you will need to have a computer available to download and run [ba
 6. Select **Flash** and wait for balenaEtcher to unpack the contents of the image file onto the microSD card.
 7. Once the flash process is done, remove the microSD card from the reader and insert it into the memory slot of the Raspberry Pi.
 
-## Set up the display device
+## Set up the Display Device
 1. Connect the Raspberry Pi device to a display through the HDMI cable (and make sure you set the display to use that input). 
 2. If you are connecting to the Internet through a wired network, connect the Ethernet cable to the device.
 3. Connect the power supply to an outlet and the power cable to the device. 
