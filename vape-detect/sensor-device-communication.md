@@ -12,9 +12,9 @@ The VapeDetect sensor device has nine sensors. Each sensor is checked one or mor
 | --- | --- |
 | Yellow | **Device startup.** The device is powered and is stabilizing the sensors. |
 | White | **Service active.** The device has established communications with our service and is sending data successfully. |
-| Blue | **Burst mode.** When one or more of the sensors change value rapidly in a short period of time, the device goes into burst mode. In burst mode, the device sends all of the data collected in the previous ten seconds and continues to send data every second until the sensors that triggered the burst mode go back to their original baseline values. |
+| Blue | **Abnormal environment mode.** When one or more of the sensors change value rapidly in a short period of time, the device goes into abnormal environment mode. Only when the device is in abnormal environment mode can the device send Vape Detected alerts. |
 | Green | **Alert acknowledged.** The device detected an event or one of the pre-configured thresholds was exceeded and sent an alert to the service. The green LED indicates that the service received the message and responded back with an acknowledgment. If the LED turns red, that indicates that the service did not respond with an acknowledgment. |
-| Red | **Communication lost.** The device sends data to the service every 5 seconds if the device is in burst mode. If the service does not respond back with an acknowledgement, the LED will turn red to indicate that the device cannot communicate with the service. |
+| Red | **Communication lost.** The device sends data to the service every 5 seconds. If the service does not respond back with an acknowledgement, the LED will turn red to indicate that the device cannot communicate with the service. |
 
 
 ## Troubleshooting communication
