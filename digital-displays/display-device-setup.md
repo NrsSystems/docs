@@ -10,11 +10,13 @@ The XSPONSE Digital Display service uses inexpensive Raspberry Pi hardware and o
 
 ## Requirements
 To set up your XSPONSE Digital Display, you will need:
--	A Raspberry Pi 4 with a minimum 2 GB RAM (such as the Vilros VR4B2GBBK008 or equivalent), and a USB-C power supply and cable.
+-	A Raspberry Pi 4 with a minimum 2 GB RAM (a 4 GB or 8 GB model will perform better), and a USB-C power supply and cable. 
 -	A display with an HDMI connector.
--	An HDMI cable and micro-HDMI adapter.
+-	An HDMI cable (and micro-HDMI adapter if not included with the Raspberry Pi).
 -	An Internet connection through either a Cat 5 (Ethernet) cable or a wireless network.
 -	A microSD card with at least 8 GB storage (and a card reader for your computer).
+
+We recommend the Vilros Raspberry Pi 4 Basic Kit (B07TKFFCF1), which comes with a fan-cooled case, power supply, and micro-HDMI adapter; it's [available on Amazon](https://https://www.amazon.com/Vilros-Raspberry-Fan-Cooled-Heatsinks-Quickstart/dp/B07TKFFCF1).
 
 Additionally, you will need to have a computer available to download and run [balenaEtcher](https://www.balena.io/etcher/) to flash the XSPONSE software onto the microSD card.
 
