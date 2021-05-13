@@ -5,7 +5,7 @@ abstract: This page explains how to get started with the XSPONSE Digital Display
 _\*For the rest of this page, "Digital Display" on its own refers to the combination of an HDMI display attached to a prepared Raspberry Pi device._
 
 ## Prepare a Digital Display
-You will need a Raspberry Pi 4 with at least 2 GB RAM and a USB-C power supply and cable, as well as an HDMI-compatible display and an 8 GB microSD card and card reader. You will also need a desktop or laptop computer for downloading and installing the XSPONSE firmware onto the microSD card. Follow the full instructions on our [Display Device Setup page](display-device-setup.md).
+You will need a Raspberry Pi 4 with at least 2 GB RAM and a USB-C power supply and cable, as well as an HDMI-compatible display and an 8 GB microSD card and card reader. We recommend the Vilros Raspberry Pi 4 Basic Kit (B07TKFFCF1), which comes with a fan-cooled case, power supply, and micro-HDMI adapter; it's [available on Amazon](https://https://www.amazon.com/Vilros-Raspberry-Fan-Cooled-Heatsinks-Quickstart/dp/B07TKFFCF1). You will also need a desktop or laptop computer for downloading and installing the XSPONSE firmware onto the microSD card. Follow the full instructions on our [Display Device Setup page](display-device-setup.md).
 
 When you have completed the instructions on the Display Device Setup page, your display should be showing the XSPONSE logo and a blue screen with an activation code, indicating that it is ready to be associated with an account. Follow the rest of the instructions on this page to associate your Digital Display with your XSPONSE account, and to create your ArtDrive account and link it to your Digital Display.
 
