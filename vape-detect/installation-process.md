@@ -10,7 +10,7 @@ The sampling tube includes an end cap. This end cap is critical to the proper op
 The actual sensor must be installed as shipped. Please do not switch the locations of the sampling and exhaust tubes. The sensor has a specially designed baffling system to direct the air into the sensors for more accurate measurements.
 
 ## Physical installation process
-Once the location has been determined, use the included template (at the end of this document) to determine the location of the holes for the sampling tubes. The axis along the long side of the mounting plate should be in line with the airflow.
+Once the location has been determined, print out the linked [sensor mounting template PDF](sensor_mounting_template.pdf) and use it to determine the location of the holes for the sampling tubes. The axis along the long side of the mounting plate should be in line with the airflow.
 
 ![place template on duct](DMS_installation_ref1.jpg)
 
