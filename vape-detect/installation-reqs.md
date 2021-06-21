@@ -22,7 +22,7 @@ You will also need to order the correct-size sampling tube assembly from us, as 
 -	Pencil
 -	Tape measure
 -	Tape (preferably masking tape)
--	[Mounting template](sensor_mounting_template.pdf) (supplied)
+-	[Mounting template](sensor_mounting_template.pdf) (print out this PDF before starting)
 -	Phillips screwdriver
 -	Battery-powered impact driver
 -	7/8” hole saw
