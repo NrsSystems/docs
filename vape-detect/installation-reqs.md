@@ -22,7 +22,7 @@ You will also need to order the correct-size sampling tube assembly from us, as 
 -	Pencil
 -	Tape measure
 -	Tape (preferably masking tape)
--	![Mounting template](vape-detect/Duct Mounted Vape Smoke Detector - Mounting Template.pdf) (supplied)
+-	[Mounting template](sensor_mounting_template.pdf) (supplied)
 -	Phillips screwdriver
 -	Battery-powered impact driver
 -	7/8” hole saw
