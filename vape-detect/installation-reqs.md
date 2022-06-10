@@ -67,5 +67,6 @@ Some bathrooms don’t have an exhaust vent in the right location or don’t hav
 The standalone unit should not be installed anywhere near an exhaust vent, as each will be pulling in the surrounding air. If the pull on the air from the exhaust vent is stronger than from the standalone unit, the standalone unit will not be able to sample the air.
 
 Note that the standalone sensor also requires a Power-over-Ethernet connection to the Internet to function, which may be a consideration for placement.
+
 ___
 *Return to the [VapeDetect index](index.md)*
