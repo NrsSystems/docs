@@ -1,6 +1,6 @@
 ---
 title: Device Installation Process
-abstract: This page explains how to physically install your VapeDetect duct-mounted sensor.
+abstract: This page explains how to physically install your VapeDetect duct-mounted or standalone sensor.
 ---
 See the [Device Installation and Setup Requirements page](installation-reqs.md) before starting the installation process for important information on the [tools required](installation-reqs.md#tools-required), [ordering the sampling tubes](installation-reqs.md#ordering-the-sampling-tubes), and [choosing the location of your device](installation-reqs.md#location).
 
@@ -10,6 +10,7 @@ The sampling tube includes an end cap. This end cap is critical to the proper op
 The actual sensor must be installed as shipped. Please do not switch the locations of the sampling and exhaust tubes. The sensor has a specially designed baffling system to direct the air into the sensors for more accurate measurements.
 
 ## Physical installation process
+### Duct-mounted sensor
 Once the location has been determined, print out the linked [sensor mounting template PDF](sensor_mounting_template.pdf) and use it to determine the location of the holes for the sampling tubes. The axis along the long side of the mounting plate should be in line with the airflow.
 
 ![place template on duct](DMS_installation_ref1.jpg)
@@ -37,6 +38,15 @@ Use the four supplied sheet metal screws to attach the mounting plate to the she
 The sampling tube is painted flat black to blend in and make it more difficult to see in the duct work. To improve upon this, it is recommended that the inside of the metal box be painted flat black if needed. When it is done right, the sampling tube is virtually invisible.
 
 ![external duct view](DMS_installation_ref5.jpg)
+
+### Standalone sensor
+To install the standalone unit, cut a 6” by 6” square hole in the ceiling where the unit is to be installed. Pull the Internet cable through the hole and plug it into the RJ-45 jack at the top of the unit. 
+
+Insert the unit through the hole and secure it to the ceiling by tightening the mounting screws on the two flanges. 
+
+Once secure, install the vent cover. The unit is designed to look like a simple exhaust vent. In fact, we have found that vapers tend to blow smoke directly into the sensor as they think it is an exhaust vent.
+
+Once the sensor is plugged into the Internet, so long as that connection has access to \*.xsponse.com, it will start working. It will contact the service to let it know it is operational and ready to be associated with an account. 
 
 ## Device startup
 Once the device is mounted to the ducting, it needs to be connected to a POE-enabled switch. The port must be configured to allow access to a DHCP server and to the Internet. Once it is connected to power, it will take about a minute to boot and stabilize. During this time, the LED will be yellow. 
