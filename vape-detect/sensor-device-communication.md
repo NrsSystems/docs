@@ -8,14 +8,30 @@ The VapeDetect sensor device has nine sensors. Each sensor is checked one or mor
 
 ## LED color indicators 
 
-| Color | Indication |
-| --- | --- |
-| Yellow | **Device startup.** The device is powered and is stabilizing the sensors. |
-| White | **Service active.** The device has established communications with our service and is sending data successfully. |
-| Blue | **Burst mode.** When one or more of the sensors change value rapidly in a short period of time, the device goes into burst mode. In burst mode, the device sends all of the data collected in the previous ten seconds and continues to send data every second until the sensors that triggered the burst mode go back to their original baseline values. |
-| Green | **Alert acknowledged.** The device detected an event or one of the pre-configured thresholds was exceeded and sent an alert to the service. The green LED indicates that the service received the message and responded back with an acknowledgment. If the LED turns red, that indicates that the service did not respond with an acknowledgment. |
-| Red | **Communication lost.** The device sends data to the service every 5 seconds if the device is in burst mode. If the service does not respond back with an acknowledgement, the LED will turn red to indicate that the device cannot communicate with the service. |
+### During startup
+During startup, the device's LED should go through this sequence:
 
+1. *Powering on*. When first plugged in, the LED will turn **blue** and then off to indicate the device is powering on.
+2. *Calibrating sensors.* The LED will flash **yellow** rapidly to indicate sensor calibration. The sensors need time to warm up, so if the device has not been powered recently, this could take a while.
+3. *Connecting to the network.* The LED will flash **purple** to indicate the device is trying to connect to the local network.
+4. *Connecting to the service.* The LED will flash **yellow** again, more slowly (once every half second), to indicate the device is establishing a connection to the service.
+5. *Service active.* Finally the LED will turn solid **white** to indicate the device has begun normal operation.
+
+### During operation
+When the device fails to send a sample reading to the service:
+- **Red**—*Call failure.* The LED will turn solid red for 2 seconds when a sample has failed to be sent to the service. Note: if a continuous number of samples cannot make it to the service, this will look like a solid red light while samples continue to fail.
+
+When the normal environment readings change, indicating an event:
+- **Blue**—*Burst mode.* When one or more of the sensors change value rapidly in a short period of time, the device goes into burst mode. In burst mode, the device sends all of the data collected in the previous ten seconds and continues to send data every second until the sensors that triggered the burst mode go back to their original baseline values. The LED will stay blue until out of burst mode unless a trigger is sent.
+
+When the device is sending triggers out to the service in response to detecting an event, the LED will behave in one of two ways:
+1. If the local API has been configured, the LED will flash rapidly for 2 seconds indicating the local API status call first. It will then turn off for a half-second, and then turn a solid color for 2 seconds indicating the call status on the service side.
+2. If no local API is present, then the LED will go straight to turning a solid color for 2 seconds to indicate the call status on the service side. 
+
+In either case, the following colors indicate the call status with the service:
+- **Green**—*Alert acknowledged.* The service received the trigger and responded back with an acknowledgment.
+- **Orange**—*No action plan.* The service received the trigger but no action plan has been set for that trigger.
+- **Red**—*Communication lost.* The call failed and the device cannot communicate with the service.
 
 ## Troubleshooting communication
 
