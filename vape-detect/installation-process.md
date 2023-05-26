@@ -4,58 +4,27 @@ abstract: This page explains how to physically install your VapeDetect duct-moun
 ---
 See the [Device Installation and Setup Requirements page](installation-reqs.md) before starting the installation process for important information on the [tools required](installation-reqs.md#tools-required), [choosing the location of your device](installation-reqs.md#choosing-the-location), and [modifying the sampling tubes](installation-reqs.md#modifying-the-sampling-tubes).
 
-## Note before installation
-The sampling tube includes an end cap. This end cap is critical to the proper operation of the sensor. Before installation, please ensure that the end cap is present and is properly seated in the end of the tube. If it is missing, please contact us for a replacement.
+*Jump to [device placement](installation-process.md#device-placement), [installation](installation-process.md#installation), or [startup](installation-process.md#startup).*
 
-The actual sensor must be installed as shipped. Please do not switch the locations of the sampling and exhaust tubes. The sensor has a specially designed baffling system to direct the air into the sensors for more accurate measurements.
+## Device placement
+The sensor should be installed as close to the source of air as possible—the closer the sampling tube is to the air vent, the better. Although the sensor can be installed farther back in the vent when needed—for example, if it cannot physically fit toward the front because of the vent construction—the farther away it is from the air source, the less accurate the readings will be. The sensor will be attached to the outside of the duct, with its sampling and exhaust tubes extending into the duct through two 7/8” holes drilled 3” apart, in line with the airflow.
 
-## Physical installation process
-### Duct-mounted sensor
-Once the location has been determined, print out the linked [sensor mounting template PDF](sensor_mounting_template.pdf) and use it to determine the location of the holes for the sampling tubes. The axis along the long side of the mounting plate should be in line with the airflow.
+## Installation 
+Once the tubes are cut to size and inserted into the sensor, the sensor can be installed. Two holes need to be drilled in the vent box or tube, 3” apart and in line with the airflow. The hole closest to the airflow should be located so that it is approximately 2” to 4” from the air vent. Use a 7/8” hole saw to drill the holes.
 
-![place template on duct](DMS_installation_ref1.jpg)
+Insert the sensor tubes through the holes, making sure the sampling tube is first in line with the airflow. (So, the front or curved end of the sensor should be closest to the vent.) Push the sensor until the body is in contact with the duct and secure it with the two supplied sheet metal screws. The sensor is designed to fit against either square or round ducting. 
 
-Mark the location of the holes on the sheet metal and drill two 7/8” holes 4” apart, following the template.
+Once the sensor is securely attached to the duct, plug the POE network cable into the sensor. The sensor will power on and connect to our service. Once the LED turns solid white, the sensor is connected to our service and is functioning properly.
 
-![drill holes in duct](DMS_installation_ref2.jpg)
+## Startup
+When the network cable from the sensor is plugged into a POE switch, the device will get power and will start.
+1.	When first plugged in, the LED will turn blue and then off to indicate the device is powering on.
+2.	The LED will flash yellow rapidly to indicate sensor calibration. The sensors need time to warm up, so if the device has not been powered recently, this could take a while.
+3.	The LED will flash purple to indicate the device is trying to connect to the local network.
+4.	The LED will flash yellow again, more slowly (once every half second), to indicate the device is establishing a connection to the service.
+5.	Finally the LED will turn solid white to indicate the device has begun normal operation.
 
-Use a small amount of the included gasket compound around each of the tubes to minimize any air leaks around the tubes.
-
-Insert the sampling and exhaust tubes through the holes you just drilled until the mounting plate is flush with the sheet metal surface. 
-
-![position mounting plate](DMS_installation_ref3.jpg)
-
-> **Note**
-> 
-> The sampling tube (the longer tube) is always installed with the air inlet holes facing into the air flow. The exhaust tube ***must*** be installed downstream of the sampling tube.
-
-Use the four supplied sheet metal screws to attach the mounting plate to the sheet metal ducting. 
-
-***CAUTION: DO NOT OVERTIGHTEN THE SCREWS***
-
-![attach mounting plate](DMS_installation_ref4.jpg)
-
-The sampling tube is painted flat black to blend in and make it more difficult to see in the duct work. To improve upon this, it is recommended that the inside of the metal box be painted flat black if needed. When it is done right, the sampling tube is virtually invisible.
-
-![external duct view](DMS_installation_ref5.jpg)
-
-### Standalone sensor
-To install the standalone unit, cut a 6” by 6” square hole in the ceiling where the unit is to be installed. Pull the Internet cable through the hole and plug it into the RJ-45 jack at the top of the unit. 
-
-Insert the unit through the hole and secure it to the ceiling by tightening the mounting screws on the two flanges. 
-
-Once secure, install the vent cover. The unit is designed to look like a simple exhaust vent. In fact, we have found that vapers tend to blow smoke directly into the sensor as they think it is an exhaust vent.
-
-Once the sensor is plugged into the Internet, so long as that connection has access to \*.xsponse.com, it will start working. It will contact the service to let it know it is operational and ready to be associated with an account. 
-
-## Device startup
-Once the device is mounted to the ducting, it needs to be connected to a POE-enabled switch. The port must be configured to allow access to a DHCP server and to the Internet. Once it is connected to power, it will take about a minute to boot and stabilize. During this time, the LED will be yellow. 
-
-> **Note on LED update**
-> 
-> For devices with an older version of the code, the LED will blink green when the sensors start up. When the device establishes a connection to our service, the LED will go steady green. Once the device sees there is a new version of code, it will update itself and restart. When it restarts, the LED will behave as described. The update process might take a short while, but you will eventually see the LED change colors to indicate its state.
-
-When the sensors have stabilized and the device is ready to connect to the service, the LED will turn white, indicating that the device has established communications with our service and is sending data successfully. For more information about the LED indicators and troubleshooting device communication problems, see the [Service Communication page](sensor-device-communication.md).
+For more information about the LED indicators and troubleshooting device communication problems, see the [Service Communication page](sensor-device-communication.md).
 
 See the [Getting Started page](../general-ops/account-setup.md) for more information on setting up your XSPONSE account.
 
