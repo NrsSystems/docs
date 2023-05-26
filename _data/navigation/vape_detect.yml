@@ -5,19 +5,19 @@
   items: 
     - name: Tools required
       href: installation-reqs#tools-required
-    - name: Ordering the sampling tubes
-      href: installation-reqs#ordering-the-sampling-tubes
-    - name: Location
-      href: installation-reqs#location
+    - name: Choosing the location
+      href: installation-reqs#choosing-the-location
+    - name: Modifying the sampling tubes
+      href: installation-reqs#modifying-the-sampling-tubes
 - name: Device Installation Process
   href: installation-process
   items: 
-    - name: Note before installation
-      href: installation-process#note-before-installation
-    - name: Physical installation process
-      href: installation-process#physical-installation-process
-    - name: Device startup
-      href: installation-process#device-startup
+    - name: Device placement
+      href: installation-process#device-placement
+    - name: Installation
+      href: installation-process#installation
+    - name: Startup
+      href: installation-process#startup
 - name: VapeDetect Management
   href: vapedetect-management
   items: 
