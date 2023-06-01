@@ -36,6 +36,13 @@ Check the ceiling area to ensure you can get a cable to the location and that yo
 
 Most exhaust vents have a square box above the ceiling tiles. Ducting is then installed to connect the exhaust vent to the main exhaust fan duct work. Typically, the exhaust vent box will be connected along one side to the main duct, and the other three sides will be available as potential locations. Often the location can be decided by how you will access the box through the ceiling—if there is only one way to get to the box, the sensor will be installed on that side. As the device needs to be connected to a Power-over-Ethernet switch to function, that may be a consideration as well. 
 
+### Standalone sensor
+Some bathrooms don’t have an exhaust vent in the right location or don’t have one that is easily accessible. If that is the case, our standalone unit can be used. The standalone unit has its own internal fan which can be connected to an exhaust vent or just left alone in which case the air will be exhausted into the plenum. This model can be installed anywhere a student may vape, including areas other than a bathroom such as a hallway, storage room, closet, office, conference room, or elsewhere.  
+
+The standalone unit should not be installed anywhere near an exhaust vent, as each will be pulling in the surrounding air. If the pull on the air from the exhaust vent is stronger than from the standalone unit, the standalone unit will not be able to sample the air.
+
+Note that the standalone sensor also requires a Power-over-Ethernet connection to the Internet to function, which may be a consideration for placement.
+
 ## Modifying the sampling tubes
 The duct-mounted sensor is a passive sensing device which uses a sampling tube to draw air into the detector to be sampled and then exhausted back into the air stream. The sampling tube works because of the Bernoulli principle: the air flowing across the end of the exhaust tube creates an area of low pressure which creates a small vacuum in the exhaust tube. Since the sensor is a closed system, the vacuum in the exhaust tube will cause air to be pulled in through the sampling tube.
 
