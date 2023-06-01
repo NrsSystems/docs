@@ -16,6 +16,15 @@ Insert the sensor tubes through the holes, making sure the sampling tube is firs
 
 Once the sensor is securely attached to the duct, plug the POE network cable into the sensor. The sensor will power on and connect to our service. Once the LED turns solid white, the sensor is connected to our service and is functioning properly.
 
+### Standalone sensor
+To install the standalone unit, cut a 6” by 6” square hole in the ceiling where the unit is to be installed. Pull the POE network cable through the hole and plug it into the RJ-45 jack at the top of the unit. 
+
+Insert the unit through the hole and secure it to the ceiling by tightening the mounting screws on the two flanges. 
+
+Once secure, install the vent cover. The unit is designed to look like a simple exhaust vent. In fact, we have found that vapers tend to blow smoke directly into the sensor as they think it is an exhaust vent.
+
+Once the sensor is connected to the internet with access to \*.xsponse.com, it will start working. It will contact the service to let it know it is operational and ready to be associated with an account. 
+
 ## Startup
 When the network cable from the sensor is plugged into a POE switch, the device will get power and will start.
 1.	When first plugged in, the LED will turn blue and then off to indicate the device is powering on.
