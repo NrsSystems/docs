@@ -87,7 +87,7 @@ You must provide content in all three of these fields to create this action.
 ### Update Digital Display
 If you have an XSPONSE Digital Display associated with your account, you can use this action to set it to show a view (content) and optionally play a sound for a length of time you choose. This action overrides the normal settings for the display in the Displays Management pane, so that the display can show timely and important information in an emergency or other event. See the [Digital Displays section](../digital-displays/about-digital-displays.md) for more information.
 
-![update digital display example](action_creation_example1.png)
+![update digital display example](action_creation_update_display.png)
 _To view larger: on a computer, right-click and select "open in new tab"; on a mobile touchscreen, use the zoom gesture._
 
 _Duration:_ Set the overall length of time for the view to be shown.
@@ -111,7 +111,7 @@ If you have an XSPONSE Digital Display associated with your account, you can use
 ### Control Relay
 If you have an XSPONSE Relay Console associated with your account, you can use this action to control the relay automatically on a schedule or in response to other events such as an XSPONSE button being pressed. See the [Relay Consoles section](../relay-consoles/about-relay-consoles.md) for more information.
 
-![control relay example](action_creation_example2.png)
+![control relay example](action_creation_update_relay.png)
 _To view larger: on a computer, right-click and select "open in new tab"; on a mobile touchscreen, use the zoom gesture._
 
 _Device:_ Select a device from the list.
