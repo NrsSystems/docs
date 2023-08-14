@@ -1,6 +1,6 @@
 ---
 title: Schedules
-abstract: The Schedules management pane allows a user to add, edit, copy, or delete a schedule. Selecting the Displays link and then the Schedules link in the navigation pane will take you to the Schedules management pane. 
+abstract: The Schedules management pane allows a user to add, edit, copy, or delete a schedule. Selecting the top-level Devices link, then the Displays link and then the Schedules link in the navigation pane will take you to the Schedules management pane. 
 ---
 *Jump to how to [add](schedules-management.md#add-a-schedule), [edit](schedules-management.md#edit-a-schedule), [copy](schedules-management.md#copy-a-schedule), or [delete](schedules-management.md#delete-a-schedule) a schedule; or how to [add](schedules-management#add-a-special-event), [edit, or delete](schedules-management#edit-or-delete-a-special-event) a special event.*
 
@@ -14,10 +14,13 @@ The Schedules table shows the schedules by description (name), along with the nu
 ## Add a schedule
 To add a schedule, select **Create Schedule** at the top right of the pane. This will open a separate pane where you can provide a description of the schedule and select the screensaver. The screensaver allows you to show a simple image when the display isn’t active (no content is selected for the time period). If you do not select anything, the display will default to showing the NRS/XSPONSE logo. If you select the “Bouncing Logo,” the display will show the image you have selected for the company logo in the company setup screen (see the [Dashboard page](general-ops/dashboard.md) for more information). We are planning to add other screensaver options in the future.
 
-![schedule creation/edit pane](schedule_edit.png)
+![schedule creation pane](schedule_create.png)
 _To view larger: on a computer, right-click and select "open in new tab"; on a mobile touchscreen, use the zoom gesture._
 
 To create an entry in the schedule, select the timeslot on the calendar for the time when you want the playlist or view to start. (Note that although the timeslots by default start at every half-hour, you can set the start and end times to any minute of the hour.) In the new window that appears, select the content you want to show (a playlist or view), select a specific start time (if desired), select the end time, and select the days of the week you want to show this content. When you select the down arrow, the days of the week will appear. You can use the buttons at the top to select all or deselect all the days. Select a day of the week to select or deselect it individually. Once you have selected the content, end time, and days of week, select **Submit** (or the **X** in the upper-right corner) to close the window and save the schedule entry. Select **Cancel** to close the event window without saving it. Select **Remove** to delete a saved event.
+
+![schedule edit pane](schedule_edit.png)
+_To view larger: on a computer, right-click and select "open in new tab"; on a mobile touchscreen, use the zoom gesture._
 
 Once you have added all the events you want to a schedule, select **Submit** to finish creating your new schedule. Select **Cancel** to go back to the Schedules management pane without creating a schedule.
 
@@ -41,13 +44,18 @@ Note that when you create or edit a special event, once you have finished with t
 ### Add a special event
 To add a special event to an existing schedule, select the **Edit** icon in the Schedules table for that schedule. Or to create a new schedule for your special event, on the Schedules management pane, select **Create Schedule** at the top right of the pane. In either case, select **Special Events** on the right side of the screen, which will expand the Special Events pane. 
 
-![image of Special Events button](special_events_button.png)
+![image of Special Events button](schedule_special_event_button.png)
 
 Upcoming special events that have been created will be listed in this pane. 
 
-![image of Special Events pane](special_events_pane.png)
+![image of Special Events pane](schedule_special_event_pane.png)
 
-Select **Create special event** to open a new window to create the one-time event. You can select the content to show and enter the date, start time, and end time for the event. Once the entries are made, select **Submit** to accept the changes. Select **Cancel** to go back to the Special Events pane without saving any changes. Select the double-arrow (**>>**) button at the right of the screen to collapse the Special Events pane and go back to the Create Schedule pane. Once you have finished adding special events, select **Submit** to save the new schedule or changes to an existing schedule. Select **Cancel** to go back to the Schedules management pane without saving any changes.
+Select **Create special event** to open a new dialog box to create the one-time event. 
+
+![create special event pane](schedule_special_event_create.png)
+_To view larger: on a computer, right-click and select "open in new tab"; on a mobile touchscreen, use the zoom gesture._
+
+You can select the content to show and enter the date, start time, and end time for the event. Once the entries are made, select **Submit** to accept the changes. Select **Cancel** to go back to the Special Events pane without saving any changes. Select the double-arrow (**>>**) button at the right of the screen to collapse the Special Events pane and go back to the Create Schedule pane. Once you have finished adding special events, select **Submit** to save the new schedule or changes to an existing schedule. Select **Cancel** to go back to the Schedules management pane without saving any changes.
 
 ### Edit or delete a special event
 You can edit special events while on the Create/Update Schedule pane by opening the Special Events pane and selecting them, which will open the “Edit event on schedule” window. The content, date, and start and end times can be changed. Once changes are made, select **Submit** to save the changes. Select **Remove** to delete the special event from the schedule. (Note that if you select **Remove** to delete a special event, it will remain listed in the Special Events pane until you select **Submit** to save the changes to the schedule.) Select **Cancel** to go back to the Special Events pane without saving any changes. Select the double-arrow (**>>**) button at the right of the screen to collapse the Special Events pane and go back to the Create/Update Schedule pane. If you have made any changes to a special event, select **Submit** to save the schedule with the changes. Select **Cancel** to go back to the Schedules management pane without saving any changes.
