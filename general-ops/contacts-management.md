@@ -22,7 +22,7 @@ To add a contact, select **Create Contact** at the top right of the pane. This w
 To edit a contact, select the **Edit** icon in the Contacts table. This will open a separate pane allowing you to change the contact information. Once changes are made, select **Submit** to accept the changes. Select the **Contacts** link in the upper right of the page (or in the navigation pane) to go back to the Contacts management pane without saving the contact.
 
 ## Delete a contact
-To delete a contact, select the **Delete** icon in the Contacts table. This will open a separate pane asking you to confirm contact deletion. Select **Delete** to delete the contact. Select **Cancel** to go back to the Contacts management pane without deleting the sound.
+To delete a contact, select the **Delete** icon in the Contacts table. This will open a separate pane asking you to confirm contact deletion. Select **Delete** to delete the contact. Select **Cancel** to go back to the Contacts management pane without deleting the contact.
 
 ___
 *Return to the [XSPONSE Service Guide index](index.md)*  
