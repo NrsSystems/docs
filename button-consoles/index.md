@@ -16,6 +16,10 @@ For general information about the XSPONSE service and website, see the [Service 
 
 ## [Action Plans](../general-ops/action-plans.md)
 - [Create an action plan](../general-ops/action-plans.md#create-an-action-plan)
+  - [Schedules](../general-ops/action-plans.md#schedules)
+  - [Testing windows](../general-ops/action-plans.md#testing-windows)
+  - [Device attributes](../general-ops/action-plans.md#device-attributes)
+- [Adding actions](../general-ops/action-plans.md#adding-actions)
   - [Send email](../general-ops/action-plans.md#send-email)
   - [Send SMS](../general-ops/action-plans.md#send-sms)
   - [Call third-party API](../general-ops/action-plans.md#call-third-party-api)
