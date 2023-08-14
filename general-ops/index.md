@@ -19,11 +19,6 @@ See the [Digital Displays section](../digital-displays/index.md), the [VapeDetec
 - [About dashboard management tables](dashboard.md#about-dashboard-management-tables)
 - [View or change the company account information](dashboard.md#view-or-change-the-company-account-information)
 
-## [Users Management](users-management.md)
-- [Add a user](users-management.md#add-a-user)
-- [Edit a user](users-management.md#edit-a-user)
-- [Delete a user](users-management.md#delete-a-user)
-
 ## [Action Plans](action-plans.md)
 - [Create an action plan](action-plans.md#create-an-action-plan)
   - [Send email](action-plans.md#send-email)
@@ -38,7 +33,18 @@ See the [Digital Displays section](../digital-displays/index.md), the [VapeDetec
 
 ## [Incident Logs](incident-logs.md)
 
+## [Device Toggle Groups](device-toggle-groups.md)
+- [Add a toggle group](device-toggle-groups.md#add-a-toggle-group)
+- [Edit a toggle group](device-toggle-groups.md#edit-a-toggle-group)
+- [Delete a toggle group](device-toggle-groups.md#delete-a-toggle-group)
+
 ## [Contacts Management](contacts-management.md)
 - [Add a contact](contacts-management.md#add-a-contact)
 - [Edit a contact](contacts-management.md#edit-a-contact)
 - [Delete a contact](contacts-management.md#delete-a-contact)
+
+## [Users Management](users-management.md)
+- [Add a user](users-management.md#add-a-user)
+- [Edit a user](users-management.md#edit-a-user)
+- [Delete a user](users-management.md#delete-a-user)
+
