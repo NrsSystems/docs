@@ -4,7 +4,7 @@ abstract: The Device Toggle Groups management pane allows a user to add, edit, o
 ---
 Related: [Action Plans](action-plans.md) \| [About VapeDetect](../vape-detect/about-vapedetect.md) \| [About Button Consoles](../button-consoles/about-button-consoles.md) \| [About Relay Consoles](../relay-consoles/about-relay-consoles.md) 
 
-*Jump to how to [add](device-toggle-groups-management.md#add-a-device-toggle-group, [edit](device-toggle-groups-management.md#edit-a-device-toggle-group), or [delete](device-toggle-groups-management.md#delete-a-device-toggle-group) device toggle groups.*
+*Jump to how to [add](device-toggle-groups-management.md#add-a-device-toggle-group), [edit](device-toggle-groups-management.md#edit-a-device-toggle-group), or [delete](device-toggle-groups-management.md#delete-a-device-toggle-group) device toggle groups.*
 
 ***PLACEHOLDER*** Contacts are the people who can be assigned to receive emails or SMS messages when an action plan is triggered. For example, a security guard can be included in the list and sent an SMS when an XSPONSE button is pressed to indicate an emergency. Contacts do not have to be registered as users of the XSPONSE service. 
 
