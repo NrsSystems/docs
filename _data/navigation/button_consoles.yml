@@ -18,6 +18,15 @@
     - name: Create an action plan
       href: ../general-ops/action-plans#create-an-action-plan
       items: 
+        - name: Schedules
+          href: ../general-ops/action-plans#schedules
+        - name: Testing windows
+          href: ../general-ops/action-plans#testing-windows
+        - name: Device attributes
+          href: ../general-ops/action-plans#device-attributes
+    - name: Adding actions
+      href: action-plans#adding-actions
+      items:
         - name: Send email
           href: ../general-ops/action-plans#send-email
         - name: Send SMS
