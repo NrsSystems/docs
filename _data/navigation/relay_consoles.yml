@@ -47,6 +47,15 @@
       href: ../general-ops/action-plans#delete-an-action-plan
 - name: Incident Logs
   href: ../general-ops/incident-logs
+- name: Device Toggle Groups
+  href: ../general-ops/device-toggle-groups
+  items:
+    - name: Add a toggle group
+      href: ../general-ops/device-toggle-groups#add-a-toggle-group
+    - name: Edit a toggle group
+      href: ../general-ops/device-toggle-groups#edit-a-toggle-group
+    - name: Delete a toggle group
+      href: ../general-ops/device-toggle-groups#delete-a-toggle-group
 - name: Contacts Management
   href: ../general-ops/contacts-management
   items: 
