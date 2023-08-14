@@ -1,6 +1,6 @@
 ---
 title: Views
-abstract: The Views management pane allows a user to add, edit, or delete a view—the content to be shown on a display. Selecting the Displays link and then the Views link in the navigation pane will take you to the Views management pane. 
+abstract: The Views management pane allows a user to add, edit, or delete a view—the content to be shown on a display. Selecting the top-level Devices link, then the Displays link and then the Views link in the navigation pane will take you to the Views management pane. 
 ---
 *Jump to how to [add](views-management.md#add-a-view), [edit](views-management.md#edit-a-view), or [delete](views-management.md#delete-a-view) a view.*
  
