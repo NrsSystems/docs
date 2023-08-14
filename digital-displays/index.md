@@ -18,6 +18,7 @@ For general information about the XSPONSE service and website, see the [Service 
 - [Edit a display](displays-management.md#edit-a-display)
 - [Restart a display](displays-management.md#restart-a-display)
 - [Delete a display](displays-management.md#delete-a-display)
+- [Instant views](displays-management.md#instant-views)
 
 ## [Views Management](views-management.md)
 - [Add a view](views-management.md#add-a-view)
