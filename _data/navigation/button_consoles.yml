@@ -25,7 +25,7 @@
         - name: Device attributes
           href: ../general-ops/action-plans#device-attributes
     - name: Adding actions
-      href: action-plans#adding-actions
+      href: ../general-ops/action-plans#adding-actions
       items:
         - name: Send email
           href: ../general-ops/action-plans#send-email
