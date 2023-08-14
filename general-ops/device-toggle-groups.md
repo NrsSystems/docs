@@ -2,7 +2,7 @@
 title: Device Toggle Groups
 abstract: The Device Toggle Groups management pane allows a user to add, edit, or delete device toggle groups, which allow you to connect input devices, such as button consoles, with output devices, such as relay consoles. Selecting the Device Toggle Groups link in the navigation pane will take you to the Device Toggle Groups management pane.
 ---
-Related: [Action Plans](action-plans.md) \| [About VapeDetect](../vape-detect/about-vapedetect.md) \| [About Button Consoles](../button-consoles/about-button-consoles.md) \| [About Relay Consoles](../relay-consoles/about-relay-consoles.md) 
+Related: [Action Plans](action-plans.md) \| [About Button Consoles](../button-consoles/about-button-consoles.md) \| [About Relay Consoles](../relay-consoles/about-relay-consoles.md) 
 
 *Jump to how to [add](device-toggle-groups-management.md#add-a-toggle-group), [edit](device-toggle-groups-management.md#edit-a-toggle-group), or [delete](device-toggle-groups-management.md#delete-a-toggle-group) device toggle groups.*
 
@@ -34,6 +34,5 @@ To delete a toggle group, select the **Delete** icon in the Device Toggle Groups
 
 ___
 *Return to the [XSPONSE Service Guide index](index.md)*  
-*Return to the [VapeDetect index](../vape-detect/index.md)*  
 *Return to the [Button Consoles index](../button-consoles/index.md)*  
 *Return to the [Relay Consoles index](../relay-consoles/index.md)*  
