@@ -21,6 +21,10 @@ See the [Digital Displays section](../digital-displays/index.md), the [VapeDetec
 
 ## [Action Plans](action-plans.md)
 - [Create an action plan](action-plans.md#create-an-action-plan)
+  - [Schedules](action-plans.md#schedules)
+  - [Testing windows](action-plans.md#testing-windows)
+  - [Device attributes](action-plans.md#device-attributes)
+- [Adding actions](action-plans.md#adding-actions)
   - [Send email](action-plans.md#send-email)
   - [Send SMS](action-plans.md#send-sms)
   - [Call third-party API](action-plans.md#call-third-party-api)
