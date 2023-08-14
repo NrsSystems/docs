@@ -30,10 +30,31 @@ _To view larger: on a computer, right-click and select "open in new tab"; on a m
 By default, actions in an action plan take effect according to when the XSPONSE service receives a relevant trigger event from a device. You can also create a schedule with _action windows,_ which allows you to assign actions to be available during specific periods of time every week. For example, you could have a Send Email action for certain administrators set to happen during school hours, and Send SMS for security set to happen after school. Or you could set alerts to go to a different administrator each day of the week, to spread out monitoring duties.
 
 To add a schedule, select **Edit Action Plan Schedule** at the top right of the pane, which will open a separate pane to create the schedule. 
+
+![edit action plan schedule](action_plan_schedule.png)
+_To view larger: on a computer, right-click and select "open in new tab"; on a mobile touchscreen, use the zoom gesture._
+
 - To create an action window in the schedule, select any timeslot on the calendar. In the floating "Add Window to Schedule" dialog box that appears, select the days of the week, set a start time, set the end time, and add a description (name) for the action window. (Note that although the timeslots by default start at every half-hour, you can set the start and end times to any minute of the hour.) Once you have set the action window parameters, select **Submit** to close the dialog box and save the action window. Select **Cancel** (or the **X** in the upper-right corner) to close the window without saving changes. ***Note:*** When you fill in the _description_ field, it stays active until you either click or tap elsewhere in the dialog box or press Enter. Be careful, clicking outside the dialog box will act the same as selecting Cancel.
 - To create a second action window that overlaps or coincides with an existing one, just select any open timeslot to open the "Add Window to Schedule" dialog box, and then set the parameters as appropriate, then select **Submit**. The new action window will appear adjacent to the existing one in the column for each day they overlap. Note that you must select an open timeslot in order to add a new action window; if you have filled the entire schedule, all 24 hours across all 7 days, with one action window, you would not be able to add a second action window until you edited the first one to make an open timeslot.
 - To edit an action window, select the action window on the schedule. In the floating "Edit Window on Schedule" dialog box that appears, make your changes to the parameters and select **Submit** to close the dialog box and save the changes. 
 - To delete an action window, select the action window on the schedule. In the floating "Edit Window on Schedule" dialog box that appears, select **Remove** to delete a saved action window. ***Note:*** If you delete an action window with an action assigned to it, the associated action will be removed from the plan. To keep the action, you will first need to edit its settings so it is assigned to _Default (No action window)_ or to a different action window than the one you are deleting. See [Adding actions](action-plans.md#adding-actions) following for details.
+
+#### Testing windows
+A testing window is a one-time scheduled event when an action plan can be tested. Testing windows will appear in the schedule but only during the week for which they are scheduled. Once the date for a testing window has passed, the testing window is automatically deleted and can no longer be viewed or edited.
+
+To add a testing window to an action plan schedule, while in the Edit Schedule pane, select **Testing Windows** on the right side of the screen, which will expand the Testing Windows pane. Upcoming testing windows that have been created will be listed in this pane.
+
+![testing windows schedule](action_plan_schedule_test_window.png)
+_To view larger: on a computer, right-click and select "open in new tab"; on a mobile touchscreen, use the zoom gesture._
+
+Select **Create testing window** to open a new dialog box to create the one-time event. 
+
+![testing window creation](action_plan_schedule_test_window_create.png)
+_To view larger: on a computer, right-click and select "open in new tab"; on a mobile touchscreen, use the zoom gesture._
+
+You can enter the date, start time, end time, and description for the event. Once the entries are made, select **Submit** to accept the changes. Select Cancel to go back to the **Testing Windows** pane without saving any changes. Select the double-arrow (>>) button at the right of the screen to collapse the Testing Windows pane and go back to the Edit Schedule pane. Once you have finished adding testing windows, select **Submit** to save the new schedule or changes to an existing schedule. Select **Cancel** to go back to the Action Plans management pane without saving any changes.
+
+You can edit testing windows while on the Edit Schedule pane by opening the Testing Windows pane and selecting them, which will open the *Edit window on schedule* dialog box. The date, start and end times, and description can be changed. Once changes are made, select **Submit** to save the changes. Select **Remove** to delete the testing window from the schedule. (Note that if you select **Remove** to delete a testing window, it will remain listed in the Edit Schedule pane until you select **Submit** to save the changes to the schedule.) Select **Cancel** to go back to the Edit Schedule pane without saving any changes. Select the double-arrow (**>>**) button at the right of the screen to collapse the Testing Windows pane and go back to the Edit Schedule pane. If you have made any changes to a testing window, select **Submit** to save the schedule with the changes. Select **Cancel** to go back to the Action Plans management pane without saving any changes.
 
 #### Device attributes
 Some actions allow you to use _device attributes_, which are user-defined variables that allow action plans to provide relevant information about which device is sending an alert. By default, devices have two attributes, _room_ and _street\_address_, and you can add more. For example, for a large high school with multiple floors and buildings, all sensors could have attributes named _room_, _floor_, and _building_, and the unique values for each sensor would indicate its specific location. An action plan to alert staff when vaping is detected would use those variable names as placeholders in the alert message; this way, many devices can be assigned to the same action plan. When a particular sensor detects vaping and triggers the action plan, its values for those attributes would fill those variables in the action plan’s message, so that the alert notification would identify which specific sensor was activated. 
@@ -42,7 +63,7 @@ Attributes can be used in texts, emails, and notifications. To insert an attribu
 
 > Vape Detected: \{\{device.room\|safe\}\}
 
-#### Adding actions
+## Adding actions
 To begin setting up the action plan, select **Add Action** in the Actions pane. Creating an action happens automatically in steps. 
 
 1. First, provide a name (description) of the action.
