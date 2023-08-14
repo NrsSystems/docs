@@ -1,6 +1,6 @@
 ---
 title: VapeDetect
-abstract: The VapeDetect management pane allows a user to add, adjust, edit, or delete a sensor device. Selecting the VapeDetect link in the navigation pane will take you to the VapeDetect management pane. 
+abstract: The VapeDetect management pane allows a user to add, adjust, edit, or delete a sensor device. Selecting the Devices link and then the VapeDetect link in the navigation pane will take you to the VapeDetect management pane. 
 ---
 Related: [Action Plans](../general-ops/action-plans.md) \| [Incident Logs](../general-ops/incident-logs.md) \| [Contacts Management](../general-ops/contacts-management.md) 
 
@@ -16,10 +16,13 @@ The VapeDetect table shows the devices by description (name), along with the ver
 ## Add a sensor
 To add a sensor and associate it with your account, select **Add Device** at the top right of the pane. This will open a separate pane asking you to enter the activation code for the device, which can be found either on the device label or a piece of paper included in the box. Enter the code and select **Submit**.  
 
-![add or edit a sensor](vapedetect_edit.png)
+![link a sensor](vapedetect_link.png)
 _To view larger: on a computer, right-click and select "open in new tab"; on a mobile touchscreen, use the zoom gesture._
 
 A new pane will open asking you to set the properties for your device: 
+
+![edit a sensor](vapedetect_edit.png)
+_To view larger: on a computer, right-click and select "open in new tab"; on a mobile touchscreen, use the zoom gesture._
 
 - Enter text in the **Description** field to identify the device; we recommend using its location.
 - Select **License** to assign a license to your device. You will need to have added licenses to your account first.
