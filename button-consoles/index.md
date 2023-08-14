@@ -28,6 +28,11 @@ For general information about the XSPONSE service and website, see the [Service 
 
 ## [Incident Logs](../general-ops/incident-logs.md)
 
+## [Device Toggle Groups](../general-ops/device-toggle-groups.md)
+- [Add a toggle group](../general-ops/device-toggle-groups.md#add-a-toggle-group)
+- [Edit a toggle group](../general-ops/device-toggle-groups.md#edit-a-toggle-group)
+- [Delete a toggle group](../general-ops/device-toggle-groups.md#delete-a-toggle-group)
+
 ## [Contacts Management](../general-ops/contacts-management.md)
 - [Add a contact](../general-ops/contacts-management.md#add-a-contact)
 - [Edit a contact](../general-ops/contacts-management.md#edit-a-contact)
