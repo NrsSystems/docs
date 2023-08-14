@@ -18,20 +18,20 @@
       href: dashboard#about-dashboard-management-tables
     - name: View or change the company account information
       href: dashboard#view-or-change-the-company-account-information
-- name: Users Management
-  href: users-management
-  items:
-    - name: Add a user
-      href: users-management#add-a-user
-    - name: Edit a user
-      href: users-management#edit-a-user
-    - name: Delete a user
-      href: users-management#delete-a-user
 - name: Action Plans
   href: action-plans
   items:
     - name: Create an action plan
       href: action-plans#create-an-action-plan
+      items:
+        - name: Schedules
+          href: action-plans#schedules
+        - name: Testing windows
+          href: action-plans#testing-windows
+        - name: Device attributes
+          href: action-plans#device-attributes
+    - name: Adding actions
+      href: action-plans#adding-actions
       items:
         - name: Send Email
           href: action-plans#send-email
@@ -53,6 +53,15 @@
       href: action-plans#delete-an-action-plan
 - name: Incident Logs
   href: incident-logs
+- name: Device Toggle Groups
+  href: device-toggle-groups
+  items:
+    - name: Add a toggle group
+      href: device-toggle-groups#add-a-toggle-group
+    - name: Edit a toggle group
+      href: device-toggle-groups#edit-a-toggle-group
+    - name: Delete a toggle group
+      href: device-toggle-groups#delete-a-toggle-group
 - name: Contacts Management
   href: contacts-management
   items:
@@ -62,6 +71,15 @@
       href: contacts-management#edit-a-contact
     - name: Delete a contact
       href: contacts-management#delete-a-contact
+- name: Users Management
+  href: users-management
+  items:
+    - name: Add a user
+      href: users-management#add-a-user
+    - name: Edit a user
+      href: users-management#edit-a-user
+    - name: Delete a user
+      href: users-management#delete-a-user
 # If possible add a separator here before the links to other documentation sections
 - name: Go to Digital Displays
   href: ../digital-displays/index
