@@ -1,6 +1,6 @@
 ---
 title: Playlists
-abstract: The Playlists management pane allows a user to add, edit, copy, or delete a playlist. Selecting the Displays link and then the Playlists link in the navigation pane will take you to the Playlists management pane. 
+abstract: The Playlists management pane allows a user to add, edit, copy, or delete a playlist. Selecting the top-level Devices link, then the Displays link and then the Playlists link in the navigation pane will take you to the Playlists management pane. 
 ---
 *Jump to how to [add](playlists-management.md#add-a-playlist), [edit](playlists-management.md#edit-a-playlist), [copy](playlists-management.md#copy-a-playlist), or [delete](playlists-management.md#delete-a-playlist) a playlist.*
 
@@ -12,7 +12,12 @@ _To view larger: on a computer, right-click and select "open in new tab"; on a m
 The Playlists table shows the playlists by description (name), along with the number of views used in the playlist.
 
 ## Add a playlist
-To add a playlist, select **Create Playlist** at the top right of the pane. This will open a separate pane allowing you to create a playlist. Set the parameters for your playlist:
+To add a playlist, select **Create Playlist** at the top right of the pane. This will open a separate pane allowing you to create a playlist. 
+
+![create playlists pane](playlist_create.png)
+_To view larger: on a computer, right-click and select "open in new tab"; on a mobile touchscreen, use the zoom gesture._
+
+Set the parameters for your playlist:
 
 _Description:_ Enter a descriptive name for the playlist in the Description field. 
 
